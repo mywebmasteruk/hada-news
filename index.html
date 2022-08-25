@@ -3,7 +3,7 @@ let main_html = "";
 const end_html = "</table>";
 
 for (item of items) {
- main_html += `<tr><td style=\"border: 1px solid black; border-collapse: collapse;\">${item.json['key']}</td><td style=\"border: 1px solid black; border-collapse: collapse;\">${item.json['type']}</td><td style=\"border: 1px solid black; border-collapse: collapse;\">${item.json['activity']}</td><td style=\"border: 1px solid black; border-collapse: collapse;\">${item.json['participants']}</td></tr>`
+ main_html += `<tr><td style=\"border: 1px solid black; border-collapse: collapse;\">${item.json['key']}</td><td style=\"border: 1px solid black; border-collapse: collapse;\">${item.json['type']}</td><td style=\"border: 1px solid black; border-collapse: collapse;\">${item.json['title']}</td><td style=\"border: 1px solid black; border-collapse: collapse;\">${item.json['meta']}</td></tr>`
 }
 
 return [{
