@@ -1227,7 +1227,7 @@ progress {
 }
 @media (min-width: 1140px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1200px;
+    max-width: 1000px;
   }
 }
 .row {
