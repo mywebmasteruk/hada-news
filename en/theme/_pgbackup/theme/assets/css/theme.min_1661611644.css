@@ -1172,7 +1172,7 @@ container-sm {
     ainer-md,
     ainer-sm,
     ainer {
-        max-width: 1000px;
+        max-width: 1200px;
     }
 }
 
@@ -20819,7 +20819,7 @@ section {
 
 @media (min-width: 992px){
     section {
-        padding-top: 5.65rem;
+        padding-top: 0.6500000000000004rem;
         padding-bottom: 5.65rem;
     }
 }
