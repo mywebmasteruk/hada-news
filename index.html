@@ -41,6 +41,15 @@
 
 
 
+    <script>
+        var language = navigator.language || navigator.userLanguage;
+        language = language.substring(0, 2);
+        if (language == "en") {
+            window.location.href = "https://en.hada.news/"; // English
+        } else if (language == "ar") {
+            window.location.href = "https://ar.hada.news/"; // Arabic
+        }
+    </script>
 
 
 
