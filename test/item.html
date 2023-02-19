@@ -24,6 +24,10 @@
 
                 // The rest of your code goes here...
 
+                const title = document.createElement('title');
+                title.textContent = itemData.title;
+                document.head.appendChild(title);
+
             } else {
                 console.log('error');
             }
