@@ -248,8 +248,7 @@
             <div class="footer-bottom-2">
                 <div class="footer-copyright-2">© 2023 All rights reserved</div>
                 <div class="footer-legal-block-2"><a href="#" class="footer-link-three-2">Publisher</a><a href="#" class="footer-link-three-2">Advertise</a><a href="#" class="footer-link-three-2">Legal Notice</a><a href="#" class="footer-link-three-2">Contact</a><a href="#" class="footer-legal-link-2">Terms Of Use</a>
-                    <a
-                        href="#" class="footer-legal-link-2">Privacy Policy</a>
+                    <a href="#" class="footer-legal-link-2">Privacy Policy</a>
                 </div>
             </div>
         </div>
@@ -285,7 +284,7 @@
                         card.setAttribute("id", "");
                         card.style.display = "flex";
                         card.addEventListener("click", function() {
-                            document.location.href = `/hada/item?${item.category}/${item.slug}&id=${item.id}`;
+                            document.location.href = `/item?${item.category}/${item.slug}&id=${item.id}`;
                         });
                         const img = card.getElementsByTagName("IMG")[0];
                         img.src = `${item.imageURL}?tpl=big:box`;
