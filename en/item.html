@@ -11,7 +11,7 @@
         const myParam1 = myUrl1.searchParams.get("id") || 8680;
 
         const request1 = new XMLHttpRequest();
-        const supaUrl = `https://mdtmqcdskxenfyepkzom.supabase.co/rest/v1/enArticlesLive?id=eq.8680&select=*&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1kdG1xY2Rza3hlbmZ5ZXBrem9tIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDQ5MDQzNzEsImV4cCI6MTk2MDQ4MDM3MX0.TS2JHsbVb673D05k42oQS__lu07CNI4TQC48hCNHJcM`;
+        const supaUrl = `https://mdtmqcdskxenfyepkzom.supabase.co/rest/v1/enArticlesLive?id=eq.${myParam}&select=*&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1kdG1xY2Rza3hlbmZ5ZXBrem9tIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDQ5MDQzNzEsImV4cCI6MTk2MDQ4MDM3MX0.TS2JHsbVb673D05k42oQS__lu07CNI4TQC48hCNHJcM`;
 
         request1.open('GET', supaUrl, true);
 
