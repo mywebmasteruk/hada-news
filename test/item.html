@@ -6,37 +6,42 @@
 <head>
     <meta charset="utf-8" />
     <title></title>
-    <script>
-        const myUrl1 = new URL(document.location.href);
-        const myParam1 = myUrl1.searchParams.get("id") || 1;
 
-        const request1 = new XMLHttpRequest();
-        const supaUrl = `https://mdtmqcdskxenfyepkzom.supabase.co/rest/v1/enArticlesLive?id=eq.6924&select=*&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1kdG1xY2Rza3hlbmZ5ZXBrem9tIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDQ5MDQzNzEsImV4cCI6MTk2MDQ4MDM3MX0.TS2JHsbVb673D05k42oQS__lu07CNI4TQC48hCNHJcM`;
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <script>
+            const myUrl1 = new URL(document.location.href);
+            const myParam1 = myUrl1.searchParams.get("id") || 1;
 
-        request.open('GET', supaUrl, true);
+            const request1 = new XMLHttpRequest();
+            const supaUrl = `https://mdtmqcdskxenfyepkzom.supabase.co/rest/v1/enArticlesLive?id=eq.6924&select=*&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1kdG1xY2Rza3hlbmZ5ZXBrem9tIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDQ5MDQzNzEsImV4cCI6MTk2MDQ4MDM3MX0.TS2JHsbVb673D05k42oQS__lu07CNI4TQC48hCNHJcM`;
 
-        request.onload = function() {
-            const data = JSON.parse(this.response);
+            request1.open('GET', supaUrl, true);
 
-            if (request1.status >= 200 && request1.status < 400) {
+            request1.onload = function() {
+                const data = JSON.parse(this.response);
 
-                const itemData = data[0];
+                if (request1.status >= 200 && request1.status < 400) {
 
-                const title = document.createElement('title');
-                title.textContent = itemData.title;
-                document.head.appendChild(title);
+                    const itemData = data[0];
+
+                    const title = document.createElement('title');
+                    title.textContent = itemData.title;
+                    document.head.appendChild(title);
+
+                    // The rest of your code goes here...
+
+                } else {
+                    console.log('error');
+                }
+            };
+
+            request1.send();
+        </script>
+    </head>
 
 
-
-                // The rest of your code goes here...
-
-            } else {
-                console.log('error');
-            }
-        };
-
-        request.send();
-    </script>
     <meta content="front" property="og:title" />
     <meta content="front" property="twitter:title" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
