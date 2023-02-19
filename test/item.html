@@ -24,6 +24,8 @@
                 if (request1.status >= 200 && request1.status < 400) {
 
                     const itemData = data[0];
+                    document.title = itemData.title;
+
 
                     const title = document.createElement('title');
                     title.textContent = itemData.title;
