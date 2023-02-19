@@ -150,7 +150,7 @@
 
         // Create a request variable and assign a new XMLHttpRequest object to it.
         const request = new XMLHttpRequest();
-        const xanoUrl = `https://mdtmqcdskxenfyepkzom.supabase.co/rest/v1/enArticlesLive?id=eq.6924&select=*&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1kdG1xY2Rza3hlbmZ5ZXBrem9tIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDQ5MDQzNzEsImV4cCI6MTk2MDQ4MDM3MX0.TS2JHsbVb673D05k42oQS__lu07CNI4TQC48hCNHJcM`;
+        const xanoUrl = `https://mdtmqcdskxenfyepkzom.supabase.co/rest/v1/enArticlesLive?id=eq.${myParam}&select=*&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1kdG1xY2Rza3hlbmZ5ZXBrem9tIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDQ5MDQzNzEsImV4cCI6MTk2MDQ4MDM3MX0.TS2JHsbVb673D05k42oQS__lu07CNI4TQC48hCNHJcM`;
 
         // Open a new connection, using the GET request on the URL endpoint
         request.open('GET', xanoUrl, true);
