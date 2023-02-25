@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://hada.news/en/item?enzo-fernandez-urges-chelsea-to-sign-joao-felix-on-a-permanent-basis&amp;id=14055</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-25T16:51:28+00:00</news:publication_date>
+      <news:title>Enzo Fernandez urges Chelsea to sign Joao Felix on a permanent basis</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?faye-winter-jokingly-hits-out-at-pal-for-taking-her-to-a-wedding-fair&amp;id=14056</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-25T16:50:50+00:00</news:publication_date>
+      <news:title>Faye Winter jokingly hits out at pal for taking her to a wedding fair</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?daniel-mays-‘shocked-by-russell-t-davies-only-casting-gay-actors-in-it-s-a-sin&amp;id=14057</loc>
+    <news:news>
+      <news:publication>
+        <news:name>independent.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-25T16:50:16+00:00</news:publication_date>
+      <news:title>Daniel Mays ‘shocked’ by Russell T Davies only casting gay actors in It’s a Sin</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?energy-bills-set-to-eat-up-10-of-average-salary-as-government-support-ebbs&amp;id=13616</loc>
     <news:news>
       <news:publication>
@@ -30,24 +60,24 @@
       <news:title>WWDC event in June 2023: Apple to introduce its first mixed reality headset</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?bristol-car-crash-man-dies-after-car-goes-into-river-avon-off-york-road&amp;id=14004</loc>
+<url><loc>https://hada.news/en/item?arsenal-legend-wright-slams-ridiculous-no-penalty-decision-for-foul-on-saka&amp;id=14058</loc>
     <news:news>
       <news:publication>
-        <news:name>independent.co.uk</news:name>
+        <news:name>thesun.co.uk</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2023-02-25T15:50:18+00:00</news:publication_date>
-      <news:title>Bristol car crash: Man dies after car goes into River Avon off York Road</news:title>
+      <news:publication_date>2023-02-25T16:49:01+00:00</news:publication_date>
+      <news:title>Arsenal legend Wright slams 'ridiculous' no penalty decision for foul on Saka</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?trolls-tell-me-to-stay-off-the-road-because-of-my-lazy-eye-&amp;id=14005</loc>
+<url><loc>https://hada.news/en/item?i-m-plus-size-people-say-to-‘cover-up-avoid-tight-clothes-but-i-won-t&amp;id=14059</loc>
     <news:news>
       <news:publication>
-        <news:name>dailymail.co.uk</news:name>
+        <news:name>thesun.co.uk</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2023-02-25T15:50:12+00:00</news:publication_date>
-      <news:title>Trolls tell me to 'stay off the road' because of my 'lazy eye'</news:title>
+      <news:publication_date>2023-02-25T16:48:05+00:00</news:publication_date>
+      <news:title>I’m plus-size - people say to ‘cover up’ & avoid tight clothes but I won't</news:title>
     </news:news>
   </url>
 </urlset>
