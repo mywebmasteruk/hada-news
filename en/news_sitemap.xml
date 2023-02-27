@@ -770,6 +770,16 @@
       <news:title>Loose Women's Brenda Edwards SLAMS fan who branded show 'anti white'</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?man-united-win-carabao-cup-prove-ten-hag-is-fixing-the-club&amp;id=16481</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-27T00:44:36+00:00</news:publication_date>
+      <news:title>Man United win Carabao Cup, prove Ten Hag is fixing the club</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?dancing-on-ice-s-mollie-gallagher-bags-her-highest-score-of-the-series&amp;id=16097</loc>
     <news:news>
       <news:publication>
@@ -4790,6 +4800,16 @@
       <news:title>Doctors want you to swallow this vibrating pill to help you poop</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?sag-awards-2023-paul-mescal-cuts-a-suave-figure-in-a-pearl-jacket&amp;id=16456</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-27T01:19:21+00:00</news:publication_date>
+      <news:title>SAG AWARDS 2023: Paul Mescal cuts a suave figure in a pearl jacket</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?erika-jayne-wants-chrissy-teigen-to-join-the-rhobh-but-doubts-she-will&amp;id=16168</loc>
     <news:news>
       <news:publication>
@@ -4978,26 +4998,6 @@
       </news:publication>
       <news:publication_date>2023-02-26T17:08:03+00:00</news:publication_date>
       <news:title>This new TCL tablet has a screen that looks and feels like paper</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?rishi-sunak-and-eu-s-ursula-von-der-leyen-to-hold-talks-on-northern-ireland-protocol&amp;id=16189</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-26T17:08:00+00:00</news:publication_date>
-      <news:title>Rishi Sunak and EU’s Ursula von der Leyen to hold talks on Northern Ireland Protocol</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?brexit-ursula-von-der-leyen-to-travel-to-uk-for-talks-with-rishi-sunak&amp;id=16190</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-26T17:07:25+00:00</news:publication_date>
-      <news:title>Brexit: Ursula von der Leyen to travel to UK for talks with Rishi Sunak</news:title>
     </news:news>
   </url>
 </urlset>
