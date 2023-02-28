@@ -870,6 +870,16 @@
       <news:title>Misogyny in politics shows no sign of abating</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?brexit-what-is-the-stormont-brake-&amp;id=18540</loc>
+    <news:news>
+      <news:publication>
+        <news:name>bbc.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-28T07:52:30+00:00</news:publication_date>
+      <news:title>Brexit: What is the Stormont brake?</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?the-magic-of-growing-your-own-mushrooms&amp;id=16103</loc>
     <news:news>
       <news:publication>
@@ -4250,6 +4260,16 @@
       <news:title>Over 90% of Rwandans have health insurance</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?israeli-american-killed-in-jericho-attack&amp;id=18547</loc>
+    <news:news>
+      <news:publication>
+        <news:name>aljazeera.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-28T07:19:25+00:00</news:publication_date>
+      <news:title>Israeli-American killed in Jericho attack</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?most-commonly-used-cold-and-flu-medicines-in-homes-could-be-banned&amp;id=14565</loc>
     <news:news>
       <news:publication>
@@ -4880,6 +4900,16 @@
       <news:title>Dam owner guilty in field turf pollution of Washington river</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?japan-ad-giant-dentsu-named-in-olympics-bid-rigging-complaint&amp;id=18571</loc>
+    <news:news>
+      <news:publication>
+        <news:name>bbc.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-28T06:08:24+00:00</news:publication_date>
+      <news:title>Japan ad giant Dentsu named in Olympics bid-rigging complaint</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?sag-awards-2023-paul-mescal-cuts-a-suave-figure-in-a-pearl-jacket&amp;id=16456</loc>
     <news:news>
       <news:publication>
@@ -4968,36 +4998,6 @@
       </news:publication>
       <news:publication_date>2023-02-26T17:16:41+00:00</news:publication_date>
       <news:title>Stellini expects Spurs boss Conte to return 'this week'</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?i-did-up-my-council-house-bathroom-for-just-£70-with-buys-from-wilko-b-m&amp;id=16178</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-26T17:15:22+00:00</news:publication_date>
-      <news:title>I did up my council house bathroom for just £70 with buys from Wilko and BandM</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?fans-divided-over-footage-of-loris-karius-dropping-clangers-in-warm-up&amp;id=16179</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-26T17:13:02+00:00</news:publication_date>
-      <news:title>Fans divided over footage of Loris Karius dropping clangers in warm-up</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?tom-cruise-thanks-movie-industry-for-his-adventurous-life-&amp;id=16180</loc>
-    <news:news>
-      <news:publication>
-        <news:name>cnn.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-26T17:13:00+00:00</news:publication_date>
-      <news:title>Tom Cruise thanks movie industry for his 'adventurous life'</news:title>
     </news:news>
   </url>
 </urlset>
