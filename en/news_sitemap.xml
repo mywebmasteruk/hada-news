@@ -870,16 +870,6 @@
       <news:title>Misogyny in politics shows no sign of abating</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?News/brexit-what-is-the-stormont-brake-&amp;id=18540</loc>
-    <news:news>
-      <news:publication>
-        <news:name>bbc.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-28T07:52:30+00:00</news:publication_date>
-      <news:title>Brexit: What is the Stormont brake?</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Varieties/the-magic-of-growing-your-own-mushrooms&amp;id=16103</loc>
     <news:news>
       <news:publication>
@@ -4998,6 +4988,16 @@
       </news:publication>
       <news:publication_date>2023-02-26T17:16:41+00:00</news:publication_date>
       <news:title>Stellini expects Spurs boss Conte to return 'this week'</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/i-did-up-my-council-house-bathroom-for-just-£70-with-buys-from-wilko-b-m&amp;id=16178</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-26T17:15:22+00:00</news:publication_date>
+      <news:title>I did up my council house bathroom for just £70 with buys from Wilko and BandM</news:title>
     </news:news>
   </url>
 </urlset>
