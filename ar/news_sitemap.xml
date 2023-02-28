@@ -680,16 +680,6 @@
       <news:title>بوتين: الغرب يريد تصفية روسيا</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/ar/item?الجوافة-كنز-من-الفوائد-للصّحة-صحيفة-الخليج-alkhaleej-newspaper-صحيفة-الخليج&amp;id=732</loc>
-    <news:news>
-      <news:publication>
-        <news:name>news.google.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-25T17:17:38+00:00</news:publication_date>
-      <news:title> صحيفة الخليج - Alkhaleej Newspaper صحيفة الخليج </news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/ar/item?يمكن-إصلاحه-في-المنزل-نوكيا-تنافس-بهاتف-مختلف-sky-news-arabia-سكاي-نيوز-عربية&amp;id=733</loc>
     <news:news>
       <news:publication>
@@ -2328,16 +2318,6 @@
       </news:publication>
       <news:publication_date>2023-02-25T22:43:09+00:00</news:publication_date>
       <news:title> BeL BaLaDy</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?الدكتور-فاروق-الباز-يفجّر-مفاجأة-حول-توقعات-الباحث-الهولندي-بحدوث-الزلازل-تفاصيل-sada-el-bald-صدى-البلد&amp;id=929</loc>
-    <news:news>
-      <news:publication>
-        <news:name>news.google.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-25T22:20:00+00:00</news:publication_date>
-      <news:title>تفاصيل - Sada El-Bald صدى البلد</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/ar/item?خطأ-من-روبوت-الدردشة-يكلف-ألفابت-100-مليار-دولار-صحيفة-البيان&amp;id=930</loc>
@@ -4998,6 +4978,26 @@
       </news:publication>
       <news:publication_date>2023-02-26T12:17:22+00:00</news:publication_date>
       <news:title>بخريطة أيضاً.. خبير أردني يرد: "العالم الهولندي يستغفل العالم" - العربية</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?طريقك-إلى-عظام-قوية-4-أطعمة-غنية-بالكالسيوم-وفيتامين-د-cnn-arabic&amp;id=1269</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-26T11:38:36+00:00</news:publication_date>
+      <news:title>طريقك إلى عظام قوية.. 4 أطعمة غنية بالكالسيوم وفيتامين "د" - CNN Arabic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?كيف-كان-أداء-هاتف-سامسونج-جلاكسي-إس-23-ألترا-في-اختبار-السرعة-بمواجهة-آيفون-14-برو-ماكس-؟-صحيفة-سبق&amp;id=1270</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-26T11:37:44+00:00</news:publication_date>
+      <news:title>كيف كان أداء هاتف "سامسونج جلاكسي إس 23 ألترا" في اختبار السرعة بمواجهة "آيفون 14 برو ماكس"؟ - صحيفة سبق</news:title>
     </news:news>
   </url>
 </urlset>
