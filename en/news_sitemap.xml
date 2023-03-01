@@ -870,16 +870,6 @@
       <news:title>Misogyny in politics shows no sign of abating</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/bengals-on-tee-higgins-trade-rumors&amp;id=19407</loc>
-    <news:news>
-      <news:publication>
-        <news:name>espn.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-28T22:49:53+00:00</news:publication_date>
-      <news:title>Bengals on Tee Higgins trade rumors</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Varieties/the-magic-of-growing-your-own-mushrooms&amp;id=16103</loc>
     <news:news>
       <news:publication>
@@ -4990,14 +4980,24 @@
       <news:title> Man City advance to FA Cup quarter-finals</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/snl24-com-foden-de-bruyne-keep-man-city-s-fa-cup-journey-alive&amp;id=19411</loc>
+<url><loc>https://hada.news/en/item?Culture/kim-kardashian-struggles-to-walk-up-steps-in-a-dolce-gabbana-skirt&amp;id=16174</loc>
     <news:news>
       <news:publication>
-        <news:name>snl24.com</news:name>
+        <news:name>insider.com</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2023-02-28T22:03:48+00:00</news:publication_date>
-      <news:title> Foden and De Bruyne Keep Man City's FA Cup Journey Alive</news:title>
+      <news:publication_date>2023-02-26T17:20:12+00:00</news:publication_date>
+      <news:title>Kim Kardashian Struggles to Walk up Steps in a Dolce and Gabbana Skirt</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/space-flight-and-the-way-human-brain-functions-dare-to-go-beyond-&amp;id=16175</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theindianwire.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-26T17:19:50+00:00</news:publication_date>
+      <news:title>Space Flight and the way Human Brain functions: Dare to go beyond?</news:title>
     </news:news>
   </url>
 </urlset>
