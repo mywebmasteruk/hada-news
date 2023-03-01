@@ -1010,6 +1010,16 @@
       <news:title>Madrid's Messi-like prodigy Alvaro lives up to hype in Derbi</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/serena-into-10th-straight-major-semifinal&amp;id=19641</loc>
+    <news:news>
+      <news:publication>
+        <news:name>cnn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-03-01T01:00:27+00:00</news:publication_date>
+      <news:title>Serena into 10th straight major semifinal</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/bucks-giannis-antetokounmpo-misses-vs-phoenix-suns-due-to-injury-&amp;id=16116</loc>
     <news:news>
       <news:publication>
@@ -1158,6 +1168,16 @@
       </news:publication>
       <news:publication_date>2023-02-26T06:39:34+00:00</news:publication_date>
       <news:title>Even in highlight reel loss to Bruins, Canucks making progress in playing with structure</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/petra-kvitova-outlook-on-life-has-changed-&amp;id=19642</loc>
+    <news:news>
+      <news:publication>
+        <news:name>cnn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-03-01T01:00:27+00:00</news:publication_date>
+      <news:title>Petra Kvitova: 'Outlook on life has changed'</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Varieties/explained-how-iphone-passcode-is-helping-thieves-steal-your-money-and-data&amp;id=14251</loc>
@@ -4978,26 +4998,6 @@
       </news:publication>
       <news:publication_date>2023-02-28T22:03:49+00:00</news:publication_date>
       <news:title> Man City advance to FA Cup quarter-finals</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/kim-kardashian-struggles-to-walk-up-steps-in-a-dolce-gabbana-skirt&amp;id=16174</loc>
-    <news:news>
-      <news:publication>
-        <news:name>insider.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-26T17:20:12+00:00</news:publication_date>
-      <news:title>Kim Kardashian Struggles to Walk up Steps in a Dolce and Gabbana Skirt</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/space-flight-and-the-way-human-brain-functions-dare-to-go-beyond-&amp;id=16175</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theindianwire.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-26T17:19:50+00:00</news:publication_date>
-      <news:title>Space Flight and the way Human Brain functions: Dare to go beyond?</news:title>
     </news:news>
   </url>
 </urlset>
