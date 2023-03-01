@@ -950,16 +950,6 @@
       <news:title> صحيفة الخليج - Alkhaleej Newspaper صحيفة الخليج </news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/ar/item?News/السيتي-واليونايتد-مرشحان-لبلوغ-ربع-نهائي-الكأس-alittihad-newspaper-جريدة-الاتحاد&amp;id=3012</loc>
-    <news:news>
-      <news:publication>
-        <news:name>news.google.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-27T16:29:33+00:00</news:publication_date>
-      <news:title>السيتي واليونايتد مرشحان لبلوغ ربع نهائي الكأس - Alittihad Newspaper جريدة الاتحاد</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/ar/item?News/الذهب-يرتفع-مع-فقد-الدولار-بعض-مكاسبه-بواسطة-رويترز-السعودية-investing-com&amp;id=3013</loc>
     <news:news>
       <news:publication>
@@ -4650,16 +4640,6 @@
       <news:title>برئاسة الملك سلمان.. 14 قرارا عاجلا من مجلس الوزراء السعودي</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/ar/item?World/-يوم-الفوضى-احتجاجات-حاشدة-في-إسرائيل-غدا-تفاصيل&amp;id=3289</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-28T21:34:34+00:00</news:publication_date>
-      <news:title>تفاصيل</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/ar/item?Economy/-ائتلاف-مربي-الأبقار-يطالب-بفتح-باب-استيراد-الأبقار-للمزارع-المتضررة&amp;id=3291</loc>
     <news:news>
       <news:publication>
@@ -4718,16 +4698,6 @@
       </news:publication>
       <news:publication_date>2023-02-28T20:23:00+00:00</news:publication_date>
       <news:title>السيد بلعرب بن هيثم يتوج المشروعات الفائزة بجائزة بلعرب للتصميم المعماري في دورتها الثانية المشروع الفائز بجائزة بلعرب andquot;المعماريةandquot; يستلهم تصميمه من مشهد تجمع السُّفن في خور البطح بصور في فترات ازدهار النشاط البحري فيها</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/روسيا-تكشف-حقيقة-اندلاع-حريق-قرب-مطار-ييسك&amp;id=3337</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-03-01T00:18:10+00:00</news:publication_date>
-      <news:title>روسيا تكشف حقيقة اندلاع حريق قرب مطار ييسك</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/ar/item?News/عالم-الزلازل-الهولندي-يرد-على-سؤال-خاص-ورده-بشأن-المغرب-تحديدا-ويحذر&amp;id=3298</loc>
@@ -4818,6 +4788,16 @@
       </news:publication>
       <news:publication_date>2023-02-28T19:50:00+00:00</news:publication_date>
       <news:title>10 يخافون المصير المر</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/التسريبات-الجديدة-لآيفون-15-برو-ماكس-iphone-15-pro-max-توثق-مميزاته-وأدق-تفاصيله-matn-news&amp;id=3444</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-02-28T03:09:17+00:00</news:publication_date>
+      <news:title>التسريبات الجديدة لآيفون 15 برو ماكس iPhone 15 Pro Max توثق مميزاته وأدق تفاصيله - MATN NEWS</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/ar/item?Sport/قبل-الهلال-الوحدة-يتدرب-120-دقيقة&amp;id=3312</loc>
@@ -4990,14 +4970,34 @@
       <news:title>سيرغي رادشينكو - هذه الحرب ربما تتَّجه نحو وقف إطلاق النار - صحيفة الشرق الأوسط</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/ar/item?World/الولايات-المتحدة-ترحب-بتطبيع-العلاقات-بين-صربيا-وكوسوفو&amp;id=3330</loc>
+<url><loc>https://hada.news/ar/item?World/وسط-احتدام-الصراع-أوكرانيا-تعلن-إسقاط-5-مسيرات-روسية-في-بولتافا&amp;id=3332</loc>
     <news:news>
       <news:publication>
         <news:name>elbalad.news</news:name>
         <news:language>ar</news:language>
       </news:publication>
-      <news:publication_date>2023-03-01T01:41:57+00:00</news:publication_date>
-      <news:title>الولايات المتحدة ترحب بتطبيع العلاقات بين صربيا وكوسوفو</news:title>
+      <news:publication_date>2023-03-01T01:31:25+00:00</news:publication_date>
+      <news:title>وسط احتدام الصراع.. أوكرانيا تعلن إسقاط 5 مسيرات روسية في بولتافا</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?World/سياسيون-غربيون-يشاركون-في-الحرب-بأوكرانيا-رئيس-صربيا-يكشف-مفاجأة&amp;id=3333</loc>
+    <news:news>
+      <news:publication>
+        <news:name>elbalad.news</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-03-01T01:08:54+00:00</news:publication_date>
+      <news:title>سياسيون غربيون يشاركون في الحرب بأوكرانيا.. رئيس صربيا يكشف مفاجأة</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?World/سماع-دوي-انفجارات-في-بولتافا-الأوكرانية-وكييف-تكشف-السبب&amp;id=3335</loc>
+    <news:news>
+      <news:publication>
+        <news:name>elbalad.news</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-03-01T00:50:41+00:00</news:publication_date>
+      <news:title>سماع دوي انفجارات في بولتافا الأوكرانية.. وكييف تكشف السبب</news:title>
     </news:news>
   </url>
 </urlset>
