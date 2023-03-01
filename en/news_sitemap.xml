@@ -620,6 +620,16 @@
       <news:title>null</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/football-match-report&amp;id=19863</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-03-01T04:18:20+00:00</news:publication_date>
+      <news:title>Football Match Report</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Varieties/bendable-concrete-co2-infused-cement-mixes-could-dramatically-cut-global-emissions&amp;id=15351</loc>
     <news:news>
       <news:publication>
@@ -4988,16 +4998,6 @@
       </news:publication>
       <news:publication_date>2023-02-26T17:20:18+00:00</news:publication_date>
       <news:title>Rishi Sunak and EU’s Ursula von der Leyen to meet in person on Monday</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/snl24-com-man-city-advance-to-fa-cup-quarter-finals&amp;id=19410</loc>
-    <news:news>
-      <news:publication>
-        <news:name>snl24.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-28T22:03:49+00:00</news:publication_date>
-      <news:title> Man City advance to FA Cup quarter-finals</news:title>
     </news:news>
   </url>
 </urlset>
