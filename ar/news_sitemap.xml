@@ -500,16 +500,6 @@
       <news:title>انطلاق فعاليات الأسبوع الثقافـي الطلابي التاسع بجامعة الشرقية</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/ar/item?Sport/مسيّرات-تفاجئ-روسيا-وتقترب-من-موسكو&amp;id=3773</loc>
-    <news:news>
-      <news:publication>
-        <news:name>aawsat.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-03-01T03:21:07+00:00</news:publication_date>
-      <news:title>مسيّرات تفاجئ روسيا وتقترب من موسكو</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/ar/item?Sport/تعزيز-الدبلوماسية-عبر-الرياضة-الموج-للجولف-يحتضن-الجولة-النهائية-لبطولة-كأس-عمان-للجولف&amp;id=2966</loc>
     <news:news>
       <news:publication>
@@ -2978,6 +2968,16 @@
       </news:publication>
       <news:publication_date>2023-02-28T20:43:30+00:00</news:publication_date>
       <news:title>بوتين يصدر أمر عاجلا بشأن لاتفيا</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/هل-يساهم-النشاط-البدني-المحدود-في-خفض-احتمالات-الوفاة؟&amp;id=3851</loc>
+    <news:news>
+      <news:publication>
+        <news:name>al-ain.com</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-03-01T10:36:00+00:00</news:publication_date>
+      <news:title>هل يساهم النشاط البدني "المحدود" في خفض احتمالات الوفاة؟</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/ar/item?World/حرب-طاحنة-بيان-عاجل-من-البنتاجون-بشأن-تقدم-الجيش-الروسي-في-أوكرانيا&amp;id=3088</loc>
