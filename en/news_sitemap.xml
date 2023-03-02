@@ -880,6 +880,16 @@
       <news:title>Misogyny in politics shows no sign of abating</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?News/internet-only-k-bank-reaps-record-profits&amp;id=21955</loc>
+    <news:news>
+      <news:publication>
+        <news:name>koreaherald.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-03-02T14:40:36+00:00</news:publication_date>
+      <news:title>Internet-only K-Bank reaps record profits</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Varieties/the-magic-of-growing-your-own-mushrooms&amp;id=16103</loc>
     <news:news>
       <news:publication>
@@ -9988,16 +9998,6 @@
       </news:publication>
       <news:publication_date>2023-02-26T13:15:33+00:00</news:publication_date>
       <news:title>Manchester United vs Newcastle: Which channel is the Carabao Cup final on</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/carlos-alcaraz-wins-spectacular-point-during-rio-open-semi-final&amp;id=15694</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-02-26T13:11:29+00:00</news:publication_date>
-      <news:title>Carlos Alcaraz wins spectacular point during Rio Open semi-final</news:title>
     </news:news>
   </url>
 </urlset>
