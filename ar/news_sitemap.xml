@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://hada.news/ar/item?World/هبوط-في-البورصة-اليبانية-والأسهم-تتراجع&amp;id=53316</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T17:59:36Z</news:publication_date>
-      <news:title>هبوط في البورصة اليبانية والأسهم تتراجع</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/ar/item?World/البنتاجون-11-ألف-جندي-أوكراني-يتدرّبون-في-ألمانيا&amp;id=53387</loc>
     <news:news>
       <news:publication>
@@ -78,186 +68,6 @@
       </news:publication>
       <news:publication_date>2023-04-21T19:28:02Z</news:publication_date>
       <news:title>البنتاجون: سنركز على تقوية الدفاع الجوي والذخيرة وعناصر الدعم بأوكرانيا</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/بريطانيا-يجب-وقف-العنف-وحماية-المواطنين-في-السودان&amp;id=53394</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:25:44Z</news:publication_date>
-      <news:title>بريطانيا: يجب وقف العنف وحماية المواطنين في السودان</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/الاتحاد-الأوروبي-الظروف-الأمنية-في-السودان-غير-موائمة-لإجلاء-مواطنينا&amp;id=53395</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:25:15Z</news:publication_date>
-      <news:title>الاتحاد الأوروبي : الظروف الأمنية في السودان غير موائمة لإجلاء مواطنينا</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/بعد-إعلان-الهدنة-تحرك-عاجل-من-أمريكا-لدعم-وقف-إطلاق-النار-بالسودان&amp;id=53396</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:16:15Z</news:publication_date>
-      <news:title>بعد إعلان الهدنة.. تحرك عاجل من أمريكا لدعم وقف إطلاق النار بالسودان</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/فرنسا-تصدم-أوكرانيا-وترفض-تزويدها-بمعلومات-عسكرية-حاسمة&amp;id=53397</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:09:50Z</news:publication_date>
-      <news:title>فرنسا تصدم أوكرانيا.. وترفض تزويدها بمعلومات عسكرية حاسمة</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/تطور-خطير-أمريكا-تعلن-نشر-قوات-قرب-السودان-للتدخل-عند-الحاجة&amp;id=53398</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:04:32Z</news:publication_date>
-      <news:title>تطور خطير.. أمريكا تعلن نشر قوات قرب السودان للتدخل عند الحاجة</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/الضحايا-في-السودان-منظمة-الصحة-العالمية-330-قتيلا-وأكثر-من-3000-مصاب&amp;id=53399</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:04:12Z</news:publication_date>
-      <news:title>الضحايا في السودان.. منظمة الصحة العالمية: 330 قتيلا وأكثر من 3000 مصاب</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/-ليس-لديها-أسلحة-مفاجأة-تهدد-بفشل-هجوم-أوكرانيا-المضاد&amp;id=53400</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:00:45Z</news:publication_date>
-      <news:title>"ليس لديها أسلحة".. مفاجأة تهدد بفشل هجوم أوكرانيا المضاد</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/مفاجأة-مدوية-ترامب-بوتين-وافق-على-نزع-الأسلحة-النووية&amp;id=53401</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:48:43Z</news:publication_date>
-      <news:title>مفاجأة مدوية.. ترامب: بوتين وافق على  نزع الأسلحة النووية</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/زلزال-عنيف-يضرب-إيطاليا-والسكان-يغادرون-منازلهم&amp;id=53402</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:47:19Z</news:publication_date>
-      <news:title>زلزال عنيف يضرب إيطاليا .. والسكان يغادرون منازلهم</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/من-الآن-الجيش-السوداني-يوافق-على-هدنة-3-أيام&amp;id=53403</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:43:41Z</news:publication_date>
-      <news:title>من الآن | الجيش السوداني يوافق على هدنة 3 أيام</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/هل-يصاب-السودان-بالشلل؟-ضعف-شديد-في-شبكات-الإنترنت-والاتصالات&amp;id=53404</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:42:26Z</news:publication_date>
-      <news:title>هل يصاب السودان بالشلل؟ ضعف شديد في شبكات الإنترنت والاتصالات</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/السويد-تصف-الوضع-الحالي-في-السودان-بأنه-محفوف-بالمخاطر-ومعقد&amp;id=53405</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:41:31Z</news:publication_date>
-      <news:title>السويد تصف الوضع الحالي في السودان بأنه محفوف بالمخاطر ومعقد</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/أمريكا-تنصح-الجيش-الأوكراني-بالانسحاب-السريع-من-باخموت&amp;id=53406</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:35:16Z</news:publication_date>
-      <news:title>أمريكا تنصح الجيش الأوكراني بالانسحاب السريع من باخموت</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/أول-تعليق-من-روسيا-على-تصريحات-أمين-الناتو-بشأن-انضمام-أوكرانيا-للحلف&amp;id=53407</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:19:57Z</news:publication_date>
-      <news:title>أول تعليق من روسيا على تصريحات أمين الناتو بشأن انضمام أوكرانيا للحلف</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/لأول-مرة-تفاصيل-دقيقة-بيان-مهم-من والي-الخرطوم-للشعب-السوداني&amp;id=53408</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:18:03Z</news:publication_date>
-      <news:title>لأول مرة تفاصيل دقيقة .. بيان مهم من والي الخرطوم للشعب السوداني</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/أزمة-اقتصادية-تحذير-عاجل-من-روسيا-لـ-العالم&amp;id=53409</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:09:39Z</news:publication_date>
-      <news:title>أزمة اقتصادية .. تحذير عاجل من روسيا لـ العالم</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/بوتين-يهنئ-ولي-العهد-السعودي-بعيد-الفطر-ويبحثان-تطوير-التعاون-بين-البلدين&amp;id=53410</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:01:03Z</news:publication_date>
-      <news:title>بوتين يهنئ ولي العهد السعودي بعيد الفطر.. ويبحثان تطوير التعاون بين البلدين</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?World/هبوط-في-البورصة-اليابانية-والأسهم-تتراجع&amp;id=53411</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbalad.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T17:59:36Z</news:publication_date>
-      <news:title>هبوط في البورصة اليابانية والأسهم تتراجع</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/ar/item?World/زعيم-دونيتسك-يعلن-التصدي-لهجوم-كبير-لـ-الجيش-الأوكراني-علي-4-محاور&amp;id=53466</loc>
@@ -450,76 +260,6 @@
       <news:title>أول أيام عيد الفطر.. تحذير عاجل من الأرصاد السعودية بشأن الطقس</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/ar/item?Sport/الأهلي-بزيه-الأساسي-في-مواجهة-الرجاء-المغربي&amp;id=53499</loc>
-    <news:news>
-      <news:publication>
-        <news:name>shorouknews.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:49:03Z</news:publication_date>
-      <news:title>الأهلي بزيه الأساسي في مواجهة الرجاء المغربي</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Sport/كومباني-يدخل-قائمة-المرشحين-لتدريب-تشيلسي&amp;id=53506</loc>
-    <news:news>
-      <news:publication>
-        <news:name>shorouknews.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:33:11Z</news:publication_date>
-      <news:title>كومباني يدخل قائمة المرشحين لتدريب تشيلسي</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Sport/مدرب-صن-دوانز-يتحدث-عن-عقدة-ربع-النهائي-الأفريقي&amp;id=53507</loc>
-    <news:news>
-      <news:publication>
-        <news:name>shorouknews.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:23:39Z</news:publication_date>
-      <news:title>مدرب صن دوانز يتحدث عن عقدة ربع النهائي الأفريقي</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Sport/مدرب-الرجاء-مسابقة-دوري-الأبطال-تعني-لنا-الكثير-وسنخرج-بنتيجة-إيجابية-أمام-الأهلي&amp;id=53509</loc>
-    <news:news>
-      <news:publication>
-        <news:name>shorouknews.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:19:39Z</news:publication_date>
-      <news:title>مدرب الرجاء: مسابقة دوري الأبطال تعني لنا الكثير.. وسنخرج بنتيجة إيجابية أمام الأهلي</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/وزارة-التجارة-تشيد-بتقيد-التجار-والمتعاملين-الاقتصاديين-بنظام-المداومة-والتزامهم-في-أول-أيام-عيد-الفطر&amp;id=53510</loc>
-    <news:news>
-      <news:publication>
-        <news:name>elbilad.net</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:06:00Z</news:publication_date>
-      <news:title>وزارة التجارة تشيد بتقيد التجار والمتعاملين الاقتصاديين بنظام المداومة والتزامهم في أول أيام عيد الفطر</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/إيمان-العاصي-ومي-كساب-يهددان-جوري-بكر-والأخيرة-تعلق&amp;id=53511</loc>
-    <news:news>
-      <news:publication>
-        <news:name>masralyoum.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T17:52:01Z</news:publication_date>
-      <news:title>إيمان العاصي ومي كساب يهددان جوري بكر والأخيرة تعلق</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/شيرين-عبد-الوهاب-تثير-حيرة-الجمهور-بتغير-ملامحها&amp;id=53512</loc>
-    <news:news>
-      <news:publication>
-        <news:name>masralyoum.news</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T17:52:01Z</news:publication_date>
-      <news:title>شيرين عبد الوهاب تثير حيرة الجمهور بتغير ملامحها</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/ar/item?World/بسبب-الزلازل-تحذير-عاجل-من-ثوران-بركان-نيفادو-ديل-رويز&amp;id=53618</loc>
     <news:news>
       <news:publication>
@@ -648,56 +388,6 @@
       </news:publication>
       <news:publication_date>2023-04-21T19:49:12Z</news:publication_date>
       <news:title>ليست عمان.. أول دولة تدعو ”المشاط” لزيارتها ”باعتباره رئيسا لليمن” بعد محادثات السلام الأخيرة!</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/محافظ-شبوة-السابق-”بن-عديو”-يهاجم-قتلة-الشيخ-عبدالله-الباني-ويوجه-دعوة-عاجلة&amp;id=53659</loc>
-    <news:news>
-      <news:publication>
-        <news:name>almashhad-alyemeni.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:24:32Z</news:publication_date>
-      <news:title>محافظ شبوة السابق ”بن عديو” يهاجم قتلة الشيخ عبدالله الباني ويوجه دعوة عاجلة</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/شاهد-سعودي-يحمل-‘‘جمل-على-ظهره-ويمشي-به-مسافة-طويلة-فيديو&amp;id=53660</loc>
-    <news:news>
-      <news:publication>
-        <news:name>almashhad-alyemeni.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:16:44Z</news:publication_date>
-      <news:title>شاهد.. سعودي يحمل ‘‘جمل’’ على ظهره ويمشي به مسافة طويلة (فيديو)</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/أول-تعليق-لجماعة-الحوثي-على-اغتيال-الشيخ-الباني-بعد-صلاة-العيد-في-شبوة&amp;id=53665</loc>
-    <news:news>
-      <news:publication>
-        <news:name>almashhad-alyemeni.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:01:28Z</news:publication_date>
-      <news:title>أول تعليق لجماعة الحوثي على اغتيال الشيخ الباني بعد صلاة العيد في شبوة</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/طليقة-أشرف-حكيمي-تلجأ-للطبيب-النفسي-بعد-صدمتها-واكتشافها-أنه-لا-يملك-ثروة&amp;id=53667</loc>
-    <news:news>
-      <news:publication>
-        <news:name>almashhad-alyemeni.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:52:30Z</news:publication_date>
-      <news:title>طليقة أشرف حكيمي تلجأ للطبيب النفسي بعد صدمتها واكتشافها أنه لا يملك ثروة</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/السفينة-أوشن-فايكينغ-تُنقذ-29-مهاجراً-في-المتوسط&amp;id=53668</loc>
-    <news:news>
-      <news:publication>
-        <news:name>alkhaleej.ae</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:49:05Z</news:publication_date>
-      <news:title>السفينة أوشن فايكينغ تُنقذ 29 مهاجراً في المتوسط</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/ar/item?World/رئيس-البرلمان-العربي-يرحب-بوقف-إطلاق-النار-في-السودان-خلال-أيام-العيد&amp;id=53710</loc>
@@ -868,56 +558,6 @@
       </news:publication>
       <news:publication_date>2023-04-21T19:51:25Z</news:publication_date>
       <news:title>هل يجوز اعتبار “العيدية” للأرحام من الزكاة؟</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Economy/متاجر-الألعاب-التقليدية-وجهة-مفضلة-للأطفال-خلال-الفطر&amp;id=53757</loc>
-    <news:news>
-      <news:publication>
-        <news:name>alkhaleej.ae</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:24:49Z</news:publication_date>
-      <news:title>متاجر الألعاب التقليدية وجهة مفضلة للأطفال خلال «الفطر»</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Economy/مراكز-التسوق-في-العيد-بهجة-وعروض-وفعاليات&amp;id=53759</loc>
-    <news:news>
-      <news:publication>
-        <news:name>alkhaleej.ae</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:23:20Z</news:publication_date>
-      <news:title>مراكز التسوق في العيد.. بهجة وعروض وفعاليات</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Culture/تحت-الوصاية-الحلقة-الأخيرة-الشرطة-تلقى-القبض-على-منى-زكى&amp;id=53761</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youm7.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:04:00Z</news:publication_date>
-      <news:title>تحت الوصاية الحلقة الأخيرة.. الشرطة تلقى القبض على منى زكى</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Culture/تحت-الوصاية-الحلقة-الأخيرة-الصيادون-يشعلون-النار-في-مركب-منى-زكى&amp;id=53765</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youm7.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:49:00Z</news:publication_date>
-      <news:title>تحت الوصاية الحلقة الأخيرة.. الصيادون يشعلون النار في مركب منى زكى</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Varieties/تفاصيل-انقطاع-الاتصال-بالقمر-الصناعي-الأذربيجاني-لاستشعار-الأرض-عن-بعد&amp;id=53769</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youm7.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:00:00Z</news:publication_date>
-      <news:title>تفاصيل انقطاع الاتصال بالقمر الصناعي الأذربيجاني لاستشعار الأرض عن بعد</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/ar/item?World/أمريكا-إجلاء-طاقم-السفارة-في-الخرطوم-عملية-محفوفة-بالمخاطر&amp;id=53781</loc>
@@ -1118,36 +758,6 @@
       </news:publication>
       <news:publication_date>2023-04-21T19:59:00Z</news:publication_date>
       <news:title>تحت الوصاية الحلقة الأخيرة.. منى زكى تدخل السجن ودياب يعدها برعاية أولادها</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Sport/مدلك-رونالدو-يفضح-النجم-البرتغالي&amp;id=53820</loc>
-    <news:news>
-      <news:publication>
-        <news:name>arabic.rt.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:15:50Z</news:publication_date>
-      <news:title>مدلك رونالدو يفضح النجم البرتغالي</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Sport/وفاة-بوعلام-طياب-الرئيس-التاريخي-لشبيبة-بجاية&amp;id=53821</loc>
-    <news:news>
-      <news:publication>
-        <news:name>akhersaa-dz.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:02:00Z</news:publication_date>
-      <news:title>وفاة بوعلام طياب الرئيس التاريخي لشبيبة بجاية</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Sport/أنس-جابر-تعبر-بسهولة-إلى-نصف-نهائي-دورة-شتوتغارت&amp;id=53826</loc>
-    <news:news>
-      <news:publication>
-        <news:name>arabic.rt.com</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T17:55:14Z</news:publication_date>
-      <news:title>أنس جابر تعبر بسهولة إلى نصف نهائي دورة شتوتغارت</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/ar/item?World/جماعة-مرتبطة-بـ-القاعدة-تتبنى-قتل-مسؤولا-بارزا-في-مالي&amp;id=53828</loc>
@@ -4780,86 +4390,6 @@
       <news:title>هكذا يُساهم عرق اللؤلؤ بتجديد شباب البشرة - الإمارات نيوز</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/ar/item?News/-بعد-انخفاضه-عالميا-أسعار-الذهب-اليوم-الجمعة-21-أبريل-بختام-تعاملات-أول-أيام-العيد-al-masry-al-youm-المصري-اليوم&amp;id=54669</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Al Masry Al Youm - المصري اليوم</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:25:00Z</news:publication_date>
-      <news:title>« بعد انخفاضه عالميا» أسعار الذهب اليوم الجمعة 21 أبريل بختام تعاملات أول أيام العيد - Al Masry Al Youm - المصري اليوم</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/شاهد-قوات-الدعم-السريع-تستولي-على-سيارات-مدرعة-وأسلحة-ثقيلة-من-الجيش-السوداني-صحيفة-المرصد&amp;id=54670</loc>
-    <news:news>
-      <news:publication>
-        <news:name>صحيفة المرصد</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:21:38Z</news:publication_date>
-      <news:title>شاهد.. قوات الدعم السريع تستولي على سيارات مدرعة وأسلحة ثقيلة من الجيش السوداني - صحيفة المرصد</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/تحت-الوصاية-الحلقة-الأخيرة-الشرطة-تلقى-القبض-على-منى-زكى-اليوم-السابع&amp;id=54671</loc>
-    <news:news>
-      <news:publication>
-        <news:name>اليوم السابع</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:04:00Z</news:publication_date>
-      <news:title>تحت الوصاية الحلقة الأخيرة.. الشرطة تلقى القبض على منى زكى - اليوم السابع</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/صورة-تكشف-كيف-ظهر-مسجد-عمرو-بن-العاص-في-صلاة-العيد؟-masrawy-مصراوي&amp;id=54672</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Masrawy - مصراوي</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T19:02:00Z</news:publication_date>
-      <news:title>صورة تكشف.. كيف ظهر مسجد عمرو بن العاص في صلاة العيد؟ - Masrawy - مصراوي</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/مسلسل-جعفر-العمدة-الحلقة-الأخيرة-محمد-رمضان-يوقف-قروض-الربا-ونهاية-مأساوية-لـ-وداد-فيديو-الأسبوع&amp;id=54673</loc>
-    <news:news>
-      <news:publication>
-        <news:name>الأسبوع</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:56:27Z</news:publication_date>
-      <news:title>مسلسل جعفر العمدة الحلقة الأخيرة.. محمد رمضان يوقف قروض الربا ونهاية مأساوية لـ وداد (فيديو) - الأسبوع</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/اقتتال-الجيش-والدعم-السريع-ما-يحدث-في-السودان-لن-يبقى-في-السودان-الحرة&amp;id=54674</loc>
-    <news:news>
-      <news:publication>
-        <news:name>الحرة</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:50:27Z</news:publication_date>
-      <news:title>اقتتال الجيش والدعم السريع.. "ما يحدث في السودان لن يبقى في السودان" - الحرة</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/ظاهرة-جوية-مسيطرة-صباحا-حالة-الطقس-غدا-السبت-ودرجات-الحرارة-masrawy-مصراوي&amp;id=54675</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Masrawy - مصراوي</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:36:00Z</news:publication_date>
-      <news:title>ظاهرة جوية مسيطرة صباحا.. حالة الطقس غدا السبت ودرجات الحرارة - Masrawy - مصراوي</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?News/حاكم-رأس-الخيمة-يواصل-استقبال-المهنئين-بعيد-الفطر-السعيد-وكالة-أنباء-الإمارات&amp;id=54676</loc>
-    <news:news>
-      <news:publication>
-        <news:name>وكالة أنباء الإمارات</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:16:00Z</news:publication_date>
-      <news:title>حاكم رأس الخيمة يواصل استقبال المهنئين بعيد الفطر السعيد - وكالة أنباء الإمارات</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/ar/item?World/روسيا-الأرجنتين-طرحت-مناقصتين-نوويتين-تحظيان-باهتمامنا&amp;id=54699</loc>
     <news:news>
       <news:publication>
@@ -7510,26 +7040,6 @@
       <news:title>أين يختفي البرهان و«حميدتي»؟ - صحيفة الشرق الأوسط</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/ar/item?Sport/العربية-رياضة-بيب-غوارديولا-نعاني-من-الإرهاق-alarabiya-العربية&amp;id=55179</loc>
-    <news:news>
-      <news:publication>
-        <news:name>null</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T18:21:21Z</news:publication_date>
-      <news:title>العربية رياضة | بيب غوارديولا: نعاني من الإرهاق - AlArabiya العربية</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/ar/item?Sport/بوكيتينو-في-قائمة-تشيلسي-al-mayadeen-الميادين&amp;id=55180</loc>
-    <news:news>
-      <news:publication>
-        <news:name>null</news:name>
-        <news:language>ar</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-21T17:57:00Z</news:publication_date>
-      <news:title>بوكيتينو في قائمة تشيلسي - Al Mayadeen الميادين</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/ar/item?World/أمطار-رعدية-الأرصاد-السعودية-تحذر-من-حالة-الطقس&amp;id=55185</loc>
     <news:news>
       <news:publication>
@@ -9998,6 +9508,496 @@
       </news:publication>
       <news:publication_date>2023-04-23T12:24:00Z</news:publication_date>
       <news:title>تحميل ومشاهدة فيلم صعود الشر المميت Evil Dead Rise مترجم وكامل 2023 HD على ايجي بست egybest و Netflix</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/بايدن-يشكر-3-دول-بعد-إجلاء-دبلوماسيي-أميركا-من-السودان-sky-news-arabia-سكاي-نيوز-عربية&amp;id=55719</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Sky News Arabia سكاي نيوز عربية</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:06:03Z</news:publication_date>
+      <news:title>بايدن يشكر 3 دول بعد إجلاء دبلوماسيي أميركا من السودان - Sky News Arabia سكاي نيوز عربية</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/نبذة-عن-الفنان-السوري-محمد-قنوع-بعد-إعلان-وفاته-بعمر-49-عاما-cnn-arabic&amp;id=55720</loc>
+    <news:news>
+      <news:publication>
+        <news:name>CNN Arabic</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:02:50Z</news:publication_date>
+      <news:title>نبذة عن الفنان السوري محمد قنوع بعد إعلان وفاته بعمر 49 عاما - CNN Arabic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/شهران-يحددان-مصير-ميسي-رحلة-باريس-انتهت-وبرشلونة-ينتظره-أخبار-الرياضة-سكاي-نيوز-عربية-sky-news-arabia-sports&amp;id=55721</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T02:49:48Z</news:publication_date>
+      <news:title>شهران يحددان مصير ميسي.. رحلة باريس انتهت وبرشلونة ينتظره - أخبار الرياضة - سكاي نيوز عربية Sky News Arabia Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/قوات-الدعم-السريع-إخلاء-الدبلوماسيين-الأمريكيين-بـ6-طائرات-cnn-arabic&amp;id=55722</loc>
+    <news:news>
+      <news:publication>
+        <news:name>CNN Arabic</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T02:35:10Z</news:publication_date>
+      <news:title>قوات الدعم السريع: إخلاء الدبلوماسيين الأمريكيين بـ6 طائرات - CNN Arabic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/بعد-تراجعه-سعر-الذهب-اليوم-الأحد-23-أبريل-2023-al-masry-al-youm-المصري-اليوم&amp;id=55723</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Al Masry Al Youm - المصري اليوم</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T02:01:26Z</news:publication_date>
+      <news:title>بعد تراجعه.. سعر الذهب اليوم الأحد 23 أبريل 2023 - Al Masry Al Youm - المصري اليوم</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/ليفربول-كيف-تغير-أداء-الريدز-في-الدوري-الإنجليزي-الممتاز؟-bbc-arabic&amp;id=55724</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T01:43:52Z</news:publication_date>
+      <news:title>ليفربول: كيف تغير أداء الريدز في الدوري الإنجليزي الممتاز؟ - BBC Arabic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/في-مباراة-سابقة-بين-الهلال-والشباب-شاهد-الحكم-يطرد-سامي-الجابر-والأخير-يعود-بشكل-مفاجئ-للملعب-صحيفة-المرصد&amp;id=55725</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T01:35:30Z</news:publication_date>
+      <news:title>في مباراة سابقة بين الهلال والشباب.. شاهد.. الحكم يطرد سامي الجابر.. والأخير يعود بشكل مفاجئ للملعب - صحيفة المرصد</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/كيف-تحسن-نومك-إذا-كنت-تعاني-من-مرض-السكري؟-اليوم-السابع&amp;id=55726</loc>
+    <news:news>
+      <news:publication>
+        <news:name>اليوم السابع</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T01:00:00Z</news:publication_date>
+      <news:title>كيف تحسن نومك إذا كنت تعاني من مرض السكري؟ - اليوم السابع</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/موعد-مباراة-الزمالك-وسيراميكا-بالدورى-المصرى-والقناة-الناقلة-اليوم-السابع&amp;id=55727</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T01:00:00Z</news:publication_date>
+      <news:title>موعد مباراة الزمالك وسيراميكا بالدورى المصرى والقناة الناقلة - اليوم السابع</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/-ارتبط-اسمه-بالنصر-فيرمينو-يوافق-على-الانضمام-لبرشلونة-أخبار24-akhbaar24&amp;id=55728</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T00:46:05Z</news:publication_date>
+      <news:title>"ارتبط اسمه بالنصر".. فيرمينو يوافق على الانضمام لبرشلونة - أخبار24 - Akhbaar24</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/شاهد-ثقبًا-أسود-هاربًا-يتمزق-عبر-الفضاء-الآن-خبر-25&amp;id=55729</loc>
+    <news:news>
+      <news:publication>
+        <news:name>خبر 25</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T00:19:51Z</news:publication_date>
+      <news:title>شاهد ثقبًا أسود هاربًا يتمزق عبر الفضاء الآن - خبر 25</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/فرج-عامر-اعتذر-لحكم-مباراة-الأهلي-والرجاء-المغربي-sada-el-bald-صدى-البلد&amp;id=55730</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T00:09:00Z</news:publication_date>
+      <news:title>فرج عامر: اعتذر لحكم مباراة الأهلي والرجاء المغربي - Sada El-Bald صدى البلد</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/بدء-إجلاء-الدبلوماسيين-الأميركيين-وأسرهم-من-السودان-sky-news-arabia-سكاي-نيوز-عربية&amp;id=55731</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Sky News Arabia سكاي نيوز عربية</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T00:05:46Z</news:publication_date>
+      <news:title>بدء إجلاء الدبلوماسيين الأميركيين وأسرهم من السودان - Sky News Arabia سكاي نيوز عربية</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/موعد-مباراة-الأهلى-القادمة-أمام-الرجاء-المغربى-بدورى-الأبطال-والقناة-الناقلة-اليوم-السابع&amp;id=55732</loc>
+    <news:news>
+      <news:publication>
+        <news:name>اليوم السابع</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T00:00:00Z</news:publication_date>
+      <news:title>موعد مباراة الأهلى القادمة أمام الرجاء المغربى بدورى الأبطال والقناة الناقلة - اليوم السابع</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/شاهد-تدخل-عنيف-في-مباراة-ديربي-سابقة-بين-الاتحاد-والأهلي-وتصرف-مفاجئ-من-أحد-اللاعبين-صحيفة-المرصد&amp;id=55733</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T23:51:10Z</news:publication_date>
+      <news:title>شاهد.. تدخل عنيف في مباراة ديربي سابقة بين الاتحاد والأهلي.. وتصرف مفاجئ من أحد اللاعبين - صحيفة المرصد</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/وفاة-الممثل-الأسترالي-باري-همفريز-صاحب-شخصية-السيدة-إدنا-الشرق-للأخبار-asharq-news&amp;id=55734</loc>
+    <news:news>
+      <news:publication>
+        <news:name>الشرق للأخبار Asharq News</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T23:41:48Z</news:publication_date>
+      <news:title>وفاة الممثل الأسترالي باري همفريز صاحب شخصية "السيدة إدنا" - الشرق للأخبار Asharq News</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/ما-تأثير-المعارك-المستمرة-في-السودان-على-خطط-إجلاء-الرعايا-الأجانب؟-bbc-arabic&amp;id=55735</loc>
+    <news:news>
+      <news:publication>
+        <news:name>BBC Arabic</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T23:41:14Z</news:publication_date>
+      <news:title>ما تأثير المعارك المستمرة في السودان على خطط إجلاء الرعايا الأجانب؟ - BBC Arabic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/الدكش-يكشف-رد-فعل-طاهر-والسولية-بعد-هدف-الأهلي-وما-فعله-الشحات-وكهربا-مع-الجمهور-videoyoum7-قناة-اليوم-السابع&amp;id=55736</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T23:09:47Z</news:publication_date>
+      <news:title>الدكش يكشف رد فعل طاهر والسولية بعد هدف الأهلي وما فعله الشحات وكهربا مع الجمهور - VideoYoum7 | قناة اليوم السابع</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/إخلاء-طبي-لمواطنة-من-مصر-بعد-تعرضها-لحروق-أخبار24-akhbaar24&amp;id=55737</loc>
+    <news:news>
+      <news:publication>
+        <news:name>أخبار24 - Akhbaar24</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T23:00:57Z</news:publication_date>
+      <news:title>إخلاء طبي لمواطنة من مصر بعد تعرضها لحروق - أخبار24 - Akhbaar24</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/هالة-صدقي-محمد-سامى-سبب-نجاح-جعفر-العمدة-إنفوجراف-اليوم-السابع&amp;id=55738</loc>
+    <news:news>
+      <news:publication>
+        <news:name>اليوم السابع</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:48:00Z</news:publication_date>
+      <news:title>هالة صدقي: محمد سامى سبب نجاح جعفر العمدة.. إنفوجراف - اليوم السابع</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/سيناريو-الهلال-يتكرر-النادي-الأهلي-يواجه-أزمة-قبل-إياب-الرجاء-sada-el-bald-صدى-البلد&amp;id=55739</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:44:00Z</news:publication_date>
+      <news:title>سيناريو الهلال يتكرر .. النادي الأهلي يواجه أزمة قبل إياب الرجاء - Sada El-Bald صدى البلد</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/كولر-الشحات-قدم-أداء-خارقا-أمام-الرجاء-والأهلي-لا-يلاعب-نفسه-الأهلي-كوم-الأهلي-المصري&amp;id=55740</loc>
+    <news:news>
+      <news:publication>
+        <news:name>الأهلي المصري</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:36:11Z</news:publication_date>
+      <news:title>كولر: الشحات قدم أداء خارقا أمام الرجاء.. والأهلي لا يلاعب نفسه - الأهلي.كوم - الأهلي المصري</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/-فنان-العرب-لـ-سبق-الفنون-والثقافة-مرآة-الشعوب-وتحظى-باهتمام-يعوِّض-ما-فاتها-صحيفة-سبق&amp;id=55741</loc>
+    <news:news>
+      <news:publication>
+        <news:name>صحيفة سبق</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:27:19Z</news:publication_date>
+      <news:title>"فنان العرب" لـ"سبق": الفنون والثقافة مرآة الشعوب.. وتحظى باهتمام يعوِّض ما فاتها - صحيفة سبق</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/ميغان-ماركل-تنتقد-الصحافة-البريطانية-بسبب-رسائل-متبادلة-مع-الملك-تشارلز-الحرة&amp;id=55742</loc>
+    <news:news>
+      <news:publication>
+        <news:name>الحرة</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:26:46Z</news:publication_date>
+      <news:title>ميغان ماركل تنتقد الصحافة البريطانية بسبب رسائل متبادلة مع الملك تشارلز - الحرة</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/ميسي-يعود-إلى-برشلونة-بـ15-حقيبة-ويقترب-من-اللعب-بقميص-البارسا-اليوم-السابع&amp;id=55743</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:24:00Z</news:publication_date>
+      <news:title>ميسي يعود إلى برشلونة بـ15 حقيبة ويقترب من اللعب بقميص البارسا - اليوم السابع</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/تيرزيتش-يوضح-حالة-مدافع-دورتموند-المُصاب-كووورة&amp;id=55744</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:16:30Z</news:publication_date>
+      <news:title>تيرزيتش يوضح حالة مدافع دورتموند المُصاب - كووورة</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/الأسهم-الأوروبية-ترتفع-للأسبوع-الخامس-بدعم-من-الأرباح-ال-menafn-arabic&amp;id=55745</loc>
+    <news:news>
+      <news:publication>
+        <news:name>MENAFN Arabic</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:08:21Z</news:publication_date>
+      <news:title>الأسهم الأوروبية ترتفع للأسبوع الخامس بدعم من الأرباح ال... - MENAFN Arabic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/لماذا-لم-تصمد-الهدنة-طويلا-في-السودان؟-sky-news-arabia-سكاي-نيوز-عربية&amp;id=55746</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Sky News Arabia سكاي نيوز عربية</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:06:48Z</news:publication_date>
+      <news:title>لماذا لم تصمد الهدنة طويلا في السودان؟ - Sky News Arabia سكاي نيوز عربية</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/الترجي-يعود-بـ-الأهم-من-أرض-القبائل-صحيفة-البيان&amp;id=55747</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:02:32Z</news:publication_date>
+      <news:title>الترجي يعود بـ «الأهم» من أرض القبائل - صحيفة البيان</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/جدول-ترتيب-الدوري-الإنجليزي-بعد-مباريات-السبت-اليوم-السابع&amp;id=55748</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:02:00Z</news:publication_date>
+      <news:title>جدول ترتيب الدوري الإنجليزي بعد مباريات السبت - اليوم السابع</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/مصر-والسويد-تبحثان-وقف-النار-بالسودان-عالم-واحد&amp;id=55749</loc>
+    <news:news>
+      <news:publication>
+        <news:name>عالم واحد</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:01:43Z</news:publication_date>
+      <news:title>مصر والسويد تبحثان وقف النار بالسودان - عالم واحد</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/جدول-مباريات-اليوم-الأحد-23-أبريل-2023-في-كأس-الملك-والبطولات-العالمية-والقنوات-الناقلة-والمعلقون-goal-com&amp;id=55750</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Goal.com</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T22:01:14Z</news:publication_date>
+      <news:title>جدول مباريات اليوم الأحد 23 أبريل 2023 في كأس الملك والبطولات العالمية والقنوات الناقلة والمعلقون - Goal.com</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/الأهلي-المصري-يهزم-الرجاء-المغربي-بهدفين-ويضع-قدما-في-قبل-نهائي-أبطال-أفريقيا-فيديو-الجزيرة-مباشر&amp;id=55751</loc>
+    <news:news>
+      <news:publication>
+        <news:name>الجزيرة مباشر</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T21:43:51Z</news:publication_date>
+      <news:title>الأهلي المصري يهزم الرجاء المغربي بهدفين ويضع قدما في قبل نهائي أبطال أفريقيا (فيديو) - الجزيرة مباشر</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/هذا-ما-قاله-الزنيتي-بعد-خسارة-الرجاء-أمام-الأهلي-ب-2-0-almountakhab-tv-المنتخب-tv&amp;id=55752</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T21:23:27Z</news:publication_date>
+      <news:title>هذا ما قاله الزنيتي بعد خسارة الرجاء أمام الأهلي ب 2-0 - almountakhab TV - المنتخب TV</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/النصر-يواصل-التحضير-لنصف-نهائي-كأس-الملك-صحيفة-سبق&amp;id=55753</loc>
+    <news:news>
+      <news:publication>
+        <news:name>صحيفة سبق</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T21:16:12Z</news:publication_date>
+      <news:title>النصر يواصل التحضير لنصف نهائي كأس الملك - صحيفة سبق</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/ريال-مدريد-يتجاوز-سيلتا-فيغو-بثنائية-العربية&amp;id=55754</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T21:06:00Z</news:publication_date>
+      <news:title>ريال مدريد يتجاوز سيلتا فيغو بثنائية - العربية</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/ارفق-بالهلال-يا-عميد-صحيفة-عكاظ-okaz-newspaper&amp;id=55755</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T20:51:00Z</news:publication_date>
+      <news:title>ارفق بالهلال يا عميد..! - صحيفة عكاظ | Okaz Newspaper</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/الكلاسيكو-العاشر-للفريقين-في-كأس-الملك-الاتحاد-والهلال-يبحثان-عن-فك-الشراكة-في-البطولة-صحيفة-سبق&amp;id=55756</loc>
+    <news:news>
+      <news:publication>
+        <news:name>صحيفة سبق</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T20:47:13Z</news:publication_date>
+      <news:title>الكلاسيكو العاشر للفريقين في كأس الملك.. الاتحاد والهلال يبحثان عن فك الشراكة في البطولة - صحيفة سبق</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/صن-داونز-يتقدم-على-بلوزداد-2-1-في-شوط-مثير-بدوري-أبطال-أفريقيا-اليوم-السابع&amp;id=55757</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T20:01:00Z</news:publication_date>
+      <news:title>صن داونز يتقدم على بلوزداد 2-1 في شوط مثير بدوري أبطال أفريقيا - اليوم السابع</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/شفيونتيك-تواجه-سابالينكا-في-نهائي-بطولة-شتوتغارت-للتنس-صحيفة-الشرق-الأوسط&amp;id=55758</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T18:53:03Z</news:publication_date>
+      <news:title>شفيونتيك تواجه سابالينكا في نهائي بطولة شتوتغارت للتنس - صحيفة الشرق الأوسط</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/-يبلغ-56-عامًا-وشهرًا-و24-يومًا-الياباني-ميورا-يكتب-التاريخ-في-أوروبا-فيديو-أخبار24-akhbaar24&amp;id=55759</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T18:45:31Z</news:publication_date>
+      <news:title>"يبلغ 56 عامًا وشهرًا و24 يومًا".. الياباني ميورا يكتب التاريخ في أوروبا (فيديو) - أخبار24 - Akhbaar24</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/إجراء-جديد-يفتح-باب-الاستئناف-أمام-النصر-وحمدالله-كووورة&amp;id=55760</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T18:38:59Z</news:publication_date>
+      <news:title>إجراء جديد يفتح باب الاستئناف أمام النصر وحمدالله - كووورة</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/إلتون-جوزيه-أكثر-اللاعبين-البرازيليين-مشاركة-بدوري-المحترفين-إلتون-جوزيه-أكثر-اللاعبين-البرازيليين-مشاركة-بدوري-المحترفين-صحيفة-سبق&amp;id=55761</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T18:22:06Z</news:publication_date>
+      <news:title>إلتون جوزيه أكثر اللاعبين البرازيليين مشاركة بدوري المحترفين إلتون جوزيه أكثر اللاعبين البرازيليين مشاركة بدوري المحترفين - صحيفة سبق</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/خاص-الزمالك-اليوم-يوسف-أسامة-وسيف-جعفر-موقف-الكولومبى-خوان-كارلوس-الزمالك-اليوم&amp;id=55762</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T18:14:14Z</news:publication_date>
+      <news:title>خاص الزمالك اليوم ..يوسف أسامة وسيف جعفر : موقف الكولومبى خوان كارلوس - الزمالك اليوم</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/بردة-فعل-ساخرة-من-تويتر-هنيدي-يوثق-حسابه-بـ-الطفل-الذهبي-الإمارات-اليوم&amp;id=55763</loc>
+    <news:news>
+      <news:publication>
+        <news:name>الإمارات اليوم</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T17:22:42Z</news:publication_date>
+      <news:title>بردة فعل ساخرة من "تويتر".. هنيدي يوثق حسابه بـ"الطفل الذهبي"! - الإمارات اليوم</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/ليفربول-يناور-السيتي-والريال-في-شأن-الصفقة-الكبرى-كووورة&amp;id=55764</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T17:01:20Z</news:publication_date>
+      <news:title>ليفربول يناور السيتي والريال في شأن الصفقة الكبرى - كووورة</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?Sport/قرار-صارم-من-أوسوريو-بشأن-اللاعبين-الراحلين-عن-الزمالك-بنهاية-الموسم-الوطن&amp;id=55765</loc>
+    <news:news>
+      <news:publication>
+        <news:name>null</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T16:49:20Z</news:publication_date>
+      <news:title>قرار صارم من أوسوريو بشأن اللاعبين الراحلين عن الزمالك بنهاية الموسم - الوطن</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/أمطار-غزيرة-مصحوبة-بالبرد-على-منطقة-عسير-صحيفة-سبق&amp;id=55766</loc>
+    <news:news>
+      <news:publication>
+        <news:name>صحيفة سبق</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T16:43:33Z</news:publication_date>
+      <news:title>أمطار غزيرة مصحوبة بالبرد على منطقة عسير - صحيفة سبق</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/ar/item?News/أخبار-مصر-طقس-ثالث-أيام-العيد-مائل-للحرارة-والعظمى-بالقاهرة-29-درجة-اليوم-السابع&amp;id=55767</loc>
+    <news:news>
+      <news:publication>
+        <news:name>اليوم السابع</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T16:00:00Z</news:publication_date>
+      <news:title>أخبار مصر.. طقس ثالث أيام العيد مائل للحرارة والعظمى بالقاهرة 29 درجة - اليوم السابع</news:title>
     </news:news>
   </url>
 </urlset>
