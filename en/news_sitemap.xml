@@ -6300,24 +6300,6 @@
       <news:publication_date>2023-04-23T00:01:34Z</news:publication_date>          <news:title>Roz Purcell in Bathing Suit Has a "Sunrise Dip"</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Lifestyle/toxic-leaves-may-be-reason-lumholtz-s-tree-kangaroos-are-losing-their-eyesight-researcher-believes&amp;id=99591</loc>
-    <news:news>
-      <news:publication>
-        <news:name>abc.net.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T23:55:16Z</news:publication_date>          <news:title>Toxic leaves may be reason Lumholtz's tree kangaroos are losing their eyesight, researcher believes</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/gadgets-weekly-sony-bravia-x80l-4k-tv-samsung-galaxy-m14-5g-and-more&amp;id=99592</loc>
-    <news:news>
-      <news:publication>
-        <news:name>deccanherald.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T23:55:07Z</news:publication_date>          <news:title>Gadgets Weekly: Sony Bravia X80L 4K TV, Samsung Galaxy M14 5G and more</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Culture/frank-ocean-coachella-set-performers-recall-‘scramble-before-show&amp;id=99595</loc>
     <news:news>
       <news:publication>
@@ -7216,15 +7198,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-23T03:32:00Z</news:publication_date>          <news:title>Fungal genetics might help develop new biotechnologies: Study</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/weekly-horoscope-check-astrological-prediction-from-24th-to-30th-april-2023&amp;id=99708</loc>
-    <news:news>
-      <news:publication>
-        <news:name>hindustantimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-23T03:30:01Z</news:publication_date>          <news:title>Weekly Horoscope: Check Astrological prediction from 24th to 30th April 2023</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Varieties/akshay-kumar-fans-can-guess-wordle-673-answer-without-these-hints-clues&amp;id=99709</loc>
@@ -8127,15 +8100,6 @@
       <news:publication_date>2023-04-23T10:28:47Z</news:publication_date>          <news:title>Prince Harry to sit 'ten rows back' at Coronation and will be 'in and out like a flash'</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/newcastle-vs-tottenham-live-premier-league-match-stream-latest-team-news-lineups-tv-prediction-today&amp;id=99831</loc>
-    <news:news>
-      <news:publication>
-        <news:name>standard.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-23T10:28:02Z</news:publication_date>          <news:title>Newcastle vs Tottenham LIVE! Premier League match stream, latest team news, lineups, TV, prediction today</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Varieties/telegram-launches-shareable-chat-folders-custom-wallpapers&amp;id=99832</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8962,42 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-22T10:53:48Z</news:publication_date>          <news:title>‘Zaheer told me that during nets, Arjun…’: Ex-MI star's huge ‘Sachin’ revelation - Hindustan Times</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/-will-keep-challenging-him-pakistan-s-new-cricket-director-on-babar-azam-ndtv-sports&amp;id=99956</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.ndtv.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T10:52:20Z</news:publication_date>          <news:title>"Will Keep Challenging Him...": Pakistan's New Cricket Director On Babar Azam - NDTV Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/msg-crowd-rattles-misfiring-cavs-in-big-knicks-playoff-victory-new-york-daily-news&amp;id=99959</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nydailynews.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T10:34:33Z</news:publication_date>          <news:title>MSG crowd rattles misfiring Cavs in big Knicks playoff victory - New York Daily News</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/draymond-green-s-fiery-reaction-to-game-3-suspension-warriors-win-nbc-sports&amp;id=99962</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nbcsports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T10:23:48Z</news:publication_date>          <news:title>Draymond Green's fiery reaction to Game 3 suspension, Warriors' win - NBC Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/cardinals-expect-plenty-of-discussions-about-trading-down-from-no-3-nbc-sports&amp;id=99965</loc>
+    <news:news>
+      <news:publication>
+        <news:name>profootballtalk.nbcsports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-22T10:18:00Z</news:publication_date>          <news:title>Cardinals expect plenty of discussions about trading down from No. 3 - NBC Sports</news:title>
     </news:news>
   </url>
 </urlset>
