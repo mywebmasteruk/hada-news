@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://hada.news/en/item?News/russian-mercenaries-closely-linked-with-sudan-s-warring-generals&amp;id=98883</loc>
-    <news:news>
-      <news:publication>
-        <news:name>washingtonpost.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:00:37Z</news:publication_date>          <news:title>Russian mercenaries closely linked with Sudan’s warring generals</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/canada-s-jones-laing-open-world-mixed-doubles-curling-championship-with-pair-of-wins&amp;id=98932</loc>
     <news:news>
       <news:publication>
@@ -34,321 +25,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-22T16:49:44Z</news:publication_date>          <news:title>Pep Guardiola shuts down treble talk for 'tired' Man City</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/crystal-palace-0-0-everton-points-shared-in-frustrating-draw-at&amp;id=98936</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:55:07Z</news:publication_date>          <news:title>Crystal Palace 0-0 Everton: Points shared in frustrating draw at</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/wag-bec-judd-cuddles-up-to-her-afl-star-husband-chris&amp;id=98937</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:52:29Z</news:publication_date>          <news:title>WAG Bec Judd cuddles up to her AFL star husband Chris</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/barry-humphries-most-memorable-moments-as-comic-legend-dies-at-89&amp;id=98938</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:50:35Z</news:publication_date>          <news:title>Barry Humphries most memorable moments as comic legend dies at 89</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/inside-ant-mcpartlin-and-wife-anne-marie-corbett-s-£6m-london-home&amp;id=98939</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:49:39Z</news:publication_date>          <news:title>Inside Ant McPartlin and wife Anne-Marie Corbett's £6M London home</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/diana-s-stunning-jewellery-that-has-been-worn-by-kate-and-meghan&amp;id=98940</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:46:00Z</news:publication_date>          <news:title>Diana's stunning jewellery that has been worn by Kate and Meghan</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/lightning-s-hedman-participates-in-morning-skate-ahead-of-game-3-vs-maple-leafs&amp;id=98941</loc>
-    <news:news>
-      <news:publication>
-        <news:name>sportsnet.ca</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:44:14Z</news:publication_date>          <news:title>Lightning's Hedman participates in morning skate ahead of Game 3 vs. Maple Leafs</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?World/elon-musk-s-bid-to-get-users-to-pay-for-twitter-blue-appears-to-fail-miserably&amp;id=98943</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:43:16Z</news:publication_date>          <news:title>Elon Musk’s bid to get users to pay for Twitter Blue appears to fail miserably</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/zim-psl-2023-matchday-6-saturday-roundup-bosso-win-fc-platinum-held&amp;id=98944</loc>
-    <news:news>
-      <news:publication>
-        <news:name>3-mob.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:41:38Z</news:publication_date>          <news:title>Zim PSL 2023 Matchday 6 Saturday roundup: Bosso win, FC Platinum held</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/jessie-ware-says-family-life-revolves-around-her-schedule&amp;id=98945</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:40:42Z</news:publication_date>          <news:title>Jessie Ware says family life revolves around her schedule</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/bullying-of-civil-servants-‘risks-flourishing-after-raab-farce-&amp;id=98946</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:39:35Z</news:publication_date>          <news:title>Bullying of civil servants ‘risks flourishing after Raab farce’</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/scottish-grand-national-2023-favourite-kitty-s-light-wins-at-4-1&amp;id=98947</loc>
-    <news:news>
-      <news:publication>
-        <news:name>bbc.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:38:48Z</news:publication_date>          <news:title>Scottish Grand National 2023: Favourite Kitty's Light wins at 4-1</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/man-utd-fans-spot-martial-ahead-of-brighton-clash-as-he-walks-with-clear-limp&amp;id=98948</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:38:45Z</news:publication_date>          <news:title>Man Utd fans spot Martial ahead of Brighton clash as he walks with clear limp</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/fall-of-aussie-businessman-damien-carew-arrested-in-france-over-wife&amp;id=98949</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:38:10Z</news:publication_date>          <news:title>Fall of Aussie businessman Damien Carew arrested in France over wife</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/disaster-for-frankie-dettori-after-he-unseats-from-chaldean-before-isaac-shelby-bolts-up-in-dramatic-greenham&amp;id=98950</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:37:53Z</news:publication_date>          <news:title>Disaster for Frankie Dettori after he unseats from Chaldean before Isaac Shelby bolts up in dramatic Greenham</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/‘i-am-the-fuhrer-i-m-the-king-new-book-lifts-lid-on-life-inside-boris-johnson-s-chaotic-no-10&amp;id=98951</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:36:24Z</news:publication_date>          <news:title>‘I am the führer. I’m the king’: new book lifts lid on life inside Boris Johnson’s chaotic No 10</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/alex-matthews-double-helps-england-ease-to-six-nations-win-in-ireland&amp;id=98952</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:33:05Z</news:publication_date>          <news:title>Alex Matthews’ double helps England ease to Six Nations win in Ireland</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/britain-s-got-talent-star-set-to-make-a-return-to-itv-show&amp;id=98953</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:31:37Z</news:publication_date>          <news:title>Britain's Got Talent star set to make a return to ITV show</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?World/deadly-triple-suicide-bombing-hits-central-mali&amp;id=98954</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:25:15Z</news:publication_date>          <news:title>Deadly triple suicide bombing hits central Mali</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/kitty-s-light-wins-scottish-grand-national-after-protesters-fail-to-stop-race&amp;id=98955</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:24:46Z</news:publication_date>          <news:title>Kitty’s Light wins Scottish Grand National after protesters fail to stop race</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/moment-woman-robbed-at-gunpoint-in-india&amp;id=98956</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:24:20Z</news:publication_date>          <news:title>Moment woman robbed at gunpoint in India</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/health-benefits-of-basil-seeds-and-recipe-ideas&amp;id=98957</loc>
-    <news:news>
-      <news:publication>
-        <news:name>247newsaroundtheworld.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:23:21Z</news:publication_date>          <news:title>Health Benefits of Basil Seeds and Recipe Ideas</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/fans-brand-marsch-s-sacking-a-huge-misjudgment-after-latest-loss&amp;id=98958</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:22:35Z</news:publication_date>          <news:title>Fans brand Marsch's sacking 'a huge misjudgment' after latest loss</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/zeenat-aman-recalls-escaping-fan-frenzy-in-a-police-van-says-back-then-they-were-real-stars-&amp;id=98959</loc>
-    <news:news>
-      <news:publication>
-        <news:name>news18.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:19:54Z</news:publication_date>          <news:title>Zeenat Aman Recalls Escaping Fan Frenzy In A Police Van; Says 'Back Then They Were Real Stars...'</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/diletta-leotta-called-goddess-by-fans-as-she-sprawls-in-skintight-dress&amp;id=98960</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:16:04Z</news:publication_date>          <news:title>Diletta Leotta called 'goddess' by fans as she sprawls in skintight dress</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/emma-watson-s-body-double-in-harry-potter-reveals-hermione-granger-secrets&amp;id=98961</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:16:00Z</news:publication_date>          <news:title>Emma Watson’s body double in Harry Potter reveals Hermione Granger secrets</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/hugh-sheridan-hasn-t-met-best-friend-rebel-wilson-s-baby-daughter&amp;id=98962</loc>
-    <news:news>
-      <news:publication>
-        <news:name>247newsaroundtheworld.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:15:14Z</news:publication_date>          <news:title>Hugh Sheridan hasn’t met best friend Rebel Wilson’s baby daughter</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/carolina-s-martin-necas-sucker-punches-islanders-brock-nelson&amp;id=98963</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:14:52Z</news:publication_date>          <news:title>Carolina's Martin Necas SUCKER PUNCHES Islanders' Brock Nelson</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/chelsea-show-resistance-that-offers-them-hope-in-barcelona&amp;id=98964</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:11:51Z</news:publication_date>          <news:title>Chelsea show resistance that offers them hope in Barcelona</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/frustration-at-labour-and-lib-dem-hqs-as-local-parties-‘go-rogue-to-create-progressive-alliance&amp;id=98965</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:11:28Z</news:publication_date>          <news:title>Frustration at Labour and Lib Dem HQs as local parties ‘go rogue’ to create progressive alliance</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/ben-affleck-says-he-and-matt-damon-blew-110-000-from-script-sale&amp;id=98966</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:06:01Z</news:publication_date>          <news:title>Ben Affleck says he and Matt Damon blew $110,000 from script sale</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/drake-bell-slams-trolls-online-for-destroying-his-life-amid-divorce&amp;id=98967</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:01:54Z</news:publication_date>          <news:title>Drake Bell SLAMS trolls online for 'destroying' his life amid divorce</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/love-island-s-arabella-chi-shares-intimate-tan-line-snaps-on-sunny-holiday&amp;id=98968</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:00:31Z</news:publication_date>          <news:title>Love Island’s Arabella Chi shares intimate tan line snaps on sunny holiday</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/i-had-a-wardrobe-malfunction-people-think-i-should-ve-gone-full-mean-girls&amp;id=98969</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:00:22Z</news:publication_date>          <news:title>I had a wardrobe malfunction - people think I should’ve gone full Mean Girls</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Economy/move-over-marvel-super-mario-and-co-are-bossing-the-adaptation-game&amp;id=98970</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:00:13Z</news:publication_date>          <news:title>Move over Marvel: Super Mario and co are bossing the adaptation game</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/animal-protesters-rush-on-racecourse-to-delay-scottish-grand-national&amp;id=98971</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:00:09Z</news:publication_date>          <news:title>Animal protesters rush on racecourse to delay Scottish Grand National</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/alphonso-davies-exits-bayern-munich-match-with-apparent-hamstring-injury&amp;id=99079</loc>
@@ -520,105 +196,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-22T16:06:00Z</news:publication_date>          <news:title>NASA Goes Extra Green For Earth Day And Details How It Tracks Climate Change</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/retro-futurist-landscapes-inspired-by-rock-idols-and-writers-in-pictures&amp;id=99102</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T16:00:14Z</news:publication_date>          <news:title>Retro-futurist landscapes inspired by rock idols and writers - in pictures</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/holly-willoughby-returns-to-this-morning-amid-behind-the-scenes-tug-of-war-over-her-co-star-s-future&amp;id=99103</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T16:00:07Z</news:publication_date>          <news:title>Holly Willoughby returns to This Morning amid behind-the-scenes tug of war over her co-star's future</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/glacier-melting-‘off-the-charts-wmo-report-shows&amp;id=99104</loc>
-    <news:news>
-      <news:publication>
-        <news:name>taipeitimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T16:00:00Z</news:publication_date>          <news:title>Glacier melting ‘off the charts,’ WMO report shows</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/labs-experimenting-with-deadly-viruses-risk-1-6m-deaths-every-year-experts-warn&amp;id=99105</loc>
-    <news:news>
-      <news:publication>
-        <news:name>telegraph.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:57:00Z</news:publication_date>          <news:title>Labs experimenting with deadly viruses risk 1.6m deaths every year, experts warn</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/far-cry-6-and-three-more-ubisoft-titles-are-heading-to-steam-this-spring&amp;id=99110</loc>
-    <news:news>
-      <news:publication>
-        <news:name>vg247.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:49:32Z</news:publication_date>          <news:title>Far Cry 6 and three more Ubisoft titles are heading to Steam this spring</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/sofia-richie-shares-photos-from-bridal-breakfast-hours-before-her-wedding-to-elliot-grainge&amp;id=99115</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:42:09Z</news:publication_date>          <news:title>Sofia Richie shares photos from bridal breakfast hours before her wedding to Elliot Grainge</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/shigeru-miyamoto-teases-future-nintendo-movie-adaptations&amp;id=99124</loc>
-    <news:news>
-      <news:publication>
-        <news:name>gamerant.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:37:00Z</news:publication_date>          <news:title>Shigeru Miyamoto Teases Future Nintendo Movie Adaptations</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/gene-in-down-syndrome-patients-found-to-inhibit-other-neurons-activities&amp;id=99133</loc>
-    <news:news>
-      <news:publication>
-        <news:name>indianexpress.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:20:52Z</news:publication_date>          <news:title>Gene in Down syndrome patients found to inhibit other neurons’ activities</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/wordle-today-672-wordle-answer-and-hints-for-april-22&amp;id=99141</loc>
-    <news:news>
-      <news:publication>
-        <news:name>digitaltrends.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:10:17Z</news:publication_date>          <news:title>Wordle Today (#672): Wordle answer and hints for April 22</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/apple-s-15-inch-macbook-air-may-offer-two-m2-chip-variants&amp;id=99143</loc>
-    <news:news>
-      <news:publication>
-        <news:name>indiatvnews.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:04:49Z</news:publication_date>          <news:title>Apple's 15-inch MacBook Air may offer two M2 chip variants</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/best-buy-s-latest-3-day-sale-brings-laptop-deals-from-105&amp;id=99147</loc>
-    <news:news>
-      <news:publication>
-        <news:name>digitaltrends.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:00:16Z</news:publication_date>          <news:title>Best Buy's latest 3-day sale brings laptop deals, from $105</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/lightning-s-cooper-praises-perry-s-demeanor-on-bench-‘extension-of-coaching-staff-&amp;id=99261</loc>
@@ -952,24 +529,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-22T16:20:41Z</news:publication_date>          <news:title>5 Android apps you shouldn't miss this week - Android Apps Weekly</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/why-plastic-eating-bacteria-aren-t-going-to-save-the-planet&amp;id=99303</loc>
-    <news:news>
-      <news:publication>
-        <news:name>digitaltrends.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:30:18Z</news:publication_date>          <news:title>Why plastic-eating bacteria aren’t going to save the planet</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/how-realizing-my-potential-helped-me-with-my-confidence&amp;id=99304</loc>
-    <news:news>
-      <news:publication>
-        <news:name>hercampus.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T15:10:52Z</news:publication_date>          <news:title>How Realizing My Potential Helped Me With My Confidence</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/jets-morrissey-out-of-game-3-vs-golden-knights-with-lower-body-injury&amp;id=99309</loc>
@@ -8388,15 +7947,6 @@
       <news:publication_date>2023-04-22T16:52:30Z</news:publication_date>          <news:title>Liverpool vs. Nottingham Forest - Football Match Report - April 22, 2023 - ESPN India</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/fanduel-daily-fantasy-basketball-helper-saturday-4-22-23-numberfire&amp;id=100637</loc>
-    <news:news>
-      <news:publication>
-        <news:name>numberfire.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T16:04:22Z</news:publication_date>          <news:title>FanDuel Daily Fantasy Basketball Helper: Saturday 4/22/23 - numberFire</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/ex-uswnt-s-jill-ellis-on-how-australia-s-gustavsson-coaches&amp;id=100647</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8548,456 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-24T06:47:00Z</news:publication_date>          <news:title>Leaving to Remain review - Roma migrants caught in the Brexit and Covid upheavals</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/nasa-s-chandra-identified-a-new-stellar-danger-to-planets&amp;id=100783</loc>
+    <news:news>
+      <news:publication>
+        <news:name>techexplorist.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:45:32Z</news:publication_date>          <news:title>NASA'S Chandra identified a new stellar danger to planets</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/nba-investigating-hawks-dejounte-murray-for-bumping-into-official-report&amp;id=100784</loc>
+    <news:news>
+      <news:publication>
+        <news:name>huffpost.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:42:36Z</news:publication_date>          <news:title>NBA Investigating Hawks' Dejounte Murray For Bumping Into Official: Report</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/jockey-dies-another-injured-in-horror-race-fall&amp;id=100785</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thenewdaily.com.au</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:33:59Z</news:publication_date>          <news:title>Jockey dies, another injured in horror race fall</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/new-study-of-einstein-rings-says-dark-matter-behaves-more-like-a-wave-not-a-particle&amp;id=100786</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sciencealert.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:32:39Z</news:publication_date>          <news:title>New Study of Einstein Rings Says Dark Matter Behaves More Like a Wave, Not a Particle</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/we-may-have-just-detected-an-elusive-ocean-world-orbiting-a-sun-like-star&amp;id=100787</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sciencealert.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:32:25Z</news:publication_date>          <news:title>We May Have Just Detected an Elusive Ocean World Orbiting a Sun-Like Star</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/common-sleeping-pill-may-reduce-the-build-up-of-alzheimer-s-proteins-study-finds&amp;id=100788</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sciencealert.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:31:20Z</news:publication_date>          <news:title>Common Sleeping Pill May Reduce The Build-Up of Alzheimer's Proteins, Study Finds</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/does-intermittent-fasting-if-affect-fertility-in-women-&amp;id=100789</loc>
+    <news:news>
+      <news:publication>
+        <news:name>indianexpress.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:30:19Z</news:publication_date>          <news:title>Does intermittent fasting (IF) affect fertility in women?</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/video-game-featuring-photorealistic-bodycam-slammed-for-being-too-realistic&amp;id=100791</loc>
+    <news:news>
+      <news:publication>
+        <news:name>indy100.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:23:46Z</news:publication_date>          <news:title>Video game featuring photorealistic bodycam slammed for being too realistic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/here-s-why-nvidia-studio-ready-laptops-from-msi-offer-creators-the-perfect-balance-between-gaming-and-productivity&amp;id=100792</loc>
+    <news:news>
+      <news:publication>
+        <news:name>firstpost.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:23:14Z</news:publication_date>          <news:title>Here’s why NVIDIA Studio Ready laptops from MSI offer creators the perfect balance between gaming and productivity</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/mitchell-johnson-takes-aim-at-‘weird-and-cringey-candice-warner&amp;id=100793</loc>
+    <news:news>
+      <news:publication>
+        <news:name>7news.com.au</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:21:04Z</news:publication_date>          <news:title>Mitchell Johnson takes aim at ‘weird and cringey’ Candice Warner</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/vivo-s17-pro-spotted-on-geekbench-ahead-of-launch-specifications-revealed&amp;id=100794</loc>
+    <news:news>
+      <news:publication>
+        <news:name>mysmartprice.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:20:48Z</news:publication_date>          <news:title>Vivo S17 Pro Spotted on Geekbench Ahead of Launch; Specifications Revealed</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/nasa-astronomy-picture-of-the-day-24-april-2023-what-star-death-left-behind-a-supernova&amp;id=100795</loc>
+    <news:news>
+      <news:publication>
+        <news:name>tech.hindustantimes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:16:37Z</news:publication_date>          <news:title>NASA Astronomy Picture of the Day 24 April 2023: What Star Death left behind-a Supernova</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/ayalaan-s-release-sivakarthikeyan-clash-with-dhanush-and-karthi&amp;id=100796</loc>
+    <news:news>
+      <news:publication>
+        <news:name>123telugu.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:08:00Z</news:publication_date>          <news:title>Ayalaan’s release: Sivakarthikeyan clash with Dhanush and Karthi</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/astro-s-moonbin-s-memorial-space-at-fantagio-to-be-open-till-the-end-of-the-month-for-fans&amp;id=100797</loc>
+    <news:news>
+      <news:publication>
+        <news:name>pinkvilla.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:06:07Z</news:publication_date>          <news:title>ASTRO’s Moonbin's memorial space at Fantagio to be open till the end of the month for fans</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/cryo-imaging-lifts-lid-on-fuel-cell-catalyst-layers&amp;id=100798</loc>
+    <news:news>
+      <news:publication>
+        <news:name>miragenews.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:06:00Z</news:publication_date>          <news:title>Cryo-imaging lifts lid on fuel cell catalyst layers</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/a-moment-on-the-lips-the-dos-and-don-ts-of-kissing&amp;id=100799</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theguardian.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:00:00Z</news:publication_date>          <news:title>A moment on the lips: the dos and don’ts of kissing</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/john-cooper-clarke-s-honest-playlist-‘the-thrill-of-elvis-has-never-gone-away-&amp;id=100800</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theguardian.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T06:00:00Z</news:publication_date>          <news:title>John Cooper Clarke’s honest playlist: ‘The thrill of Elvis has never gone away’</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/kourtney-kardashian-brings-kids-to-cheer-on-husband-travis-barker-s-band-blink-182-at-coachella&amp;id=100801</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T05:59:45Z</news:publication_date>          <news:title>Kourtney Kardashian brings kids to cheer on husband Travis Barker's band Blink-182 at Coachella</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/anushka-sharma-virat-kohli-mobbed-by-fans-as-they-exit-bengaluru-eatery-watch&amp;id=100802</loc>
+    <news:news>
+      <news:publication>
+        <news:name>hindustantimes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T05:50:15Z</news:publication_date>          <news:title>Anushka Sharma, Virat Kohli mobbed by fans as they exit Bengaluru eatery. Watch</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/a-new-wake-up-receiver-could-help-preserve-the-battery-life-of-tiny-sensors&amp;id=100803</loc>
+    <news:news>
+      <news:publication>
+        <news:name>techexplorist.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T05:31:17Z</news:publication_date>          <news:title>A new wake-up receiver could help preserve the battery life of tiny sensors</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/ipl-2023-match-32-rcb-vs-rr-match-prediction-–-who-will-win-today-s-ipl-match-between-royal-challengers-bangalore-vs-rajasthan-royals-crictracker&amp;id=100804</loc>
+    <news:news>
+      <news:publication>
+        <news:name>crictracker.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T08:17:45Z</news:publication_date>          <news:title>IPL 2023: Match 32, RCB vs RR Match Prediction – Who will win today’s IPL match between Royal Challengers Bangalore vs Rajasthan Royals? - CricTracker</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/-rohit-sharma-felt-that-he-would-mumbai-indians-coach-on-arjun-tendulkar-s-31-run-over-ndtv-sports&amp;id=100806</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.ndtv.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T07:09:03Z</news:publication_date>          <news:title>"Rohit Sharma Felt That He Would...": Mumbai Indians Coach On Arjun Tendulkar's 31-Run Over - NDTV Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/ancelotti-the-bernabeu-pitch-is-a-problem-they-ll-change-it-before-the-manchester-city-game”-managing-madrid&amp;id=100808</loc>
+    <news:news>
+      <news:publication>
+        <news:name>managingmadrid.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T06:28:44Z</news:publication_date>          <news:title>Ancelotti: “The Bernabéu pitch is a problem, they’ll change it before the Manchester City game” - Managing Madrid</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/gervonta-davis-stops-ryan-garcia-with-body-punch-in-round-7-espn&amp;id=100810</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T06:13:26Z</news:publication_date>          <news:title>Gervonta Davis stops Ryan Garcia with body punch in Round 7 - ESPN</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/-want-to-marry-not-date-you-yuzvendra-chahal-on-proposing-dhanashree-verma-she-said-no-ndtv-sports&amp;id=100812</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.ndtv.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T05:58:41Z</news:publication_date>          <news:title>"Want To Marry, Not Date You": Yuzvendra Chahal On Proposing Dhanashree Verma. She Said, "No..." - NDTV Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/sixers-complete-sweep-of-nets-without-joel-embiid-as-tobias-harris-paul-reed-star-the-athletic&amp;id=100814</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theathletic.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T05:44:05Z</news:publication_date>          <news:title>Sixers complete sweep of Nets without Joel Embiid as Tobias Harris, Paul Reed star - The Athletic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/-brainless-baffling-batting-venkatesh-prasad-launches-fresh-attack-on-rahul-hindustan-times&amp;id=100816</loc>
+    <news:news>
+      <news:publication>
+        <news:name>hindustantimes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T05:41:53Z</news:publication_date>          <news:title>'Brainless, baffling batting': Venkatesh Prasad launches fresh attack on Rahul - Hindustan Times</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/watch-pandya-brothers-sends-social-media-into-meltdown-with-heart-warming-video-hindustan-times&amp;id=100818</loc>
+    <news:news>
+      <news:publication>
+        <news:name>hindustantimes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T05:28:53Z</news:publication_date>          <news:title>Watch: Pandya brothers sends social media into meltdown with heart-warming video - Hindustan Times</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/say-hello-to-the-first-ever-green-cheer-squad-rcb-12th-man-tv-royal-challengers-bangalore&amp;id=100820</loc>
+    <news:news>
+      <news:publication>
+        <news:name>youtube.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T05:22:18Z</news:publication_date>          <news:title>RCB 12th Man TV - Royal Challengers Bangalore</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/grizzlies-dillon-brooks-ejected-for-hitting-lebron-james-in-groin-in-lakers-game-3-win-usa-today&amp;id=100824</loc>
+    <news:news>
+      <news:publication>
+        <news:name>usatoday.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T05:01:54Z</news:publication_date>          <news:title>Grizzlies' Dillon Brooks ejected for hitting LeBron James in groin in Lakers' Game 3 win - USA TODAY</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/anthony-davis-goes-off-for-31-points-in-lakers-game-3-w-april-22-2023-nba&amp;id=100826</loc>
+    <news:news>
+      <news:publication>
+        <news:name>youtube.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T05:01:31Z</news:publication_date>          <news:title>April 22, 2023 - NBA</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/nhl-game-3-highlights-avalanche-vs-kraken-april-22-2023-sportsnet&amp;id=100828</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T04:55:28Z</news:publication_date>          <news:title>Avalanche vs. Kraken - April 22, 2023 - SPORTSNET</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/heat-s-oladipo-exits-with-left-knee-injury-team-awaiting-tests-espn&amp;id=100830</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T04:44:53Z</news:publication_date>          <news:title>Heat's Oladipo exits with left knee injury; team awaiting tests - ESPN</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/ms-dhoni-meets-t-natarajan-s-daughter-watch-hindustan-times&amp;id=100832</loc>
+    <news:news>
+      <news:publication>
+        <news:name>hindustantimes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T04:38:04Z</news:publication_date>          <news:title>MS Dhoni meets T Natarajan's daughter. Watch - Hindustan Times</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/with-joel-embiid-out-paul-reed-stepped-up-when-sixers-needed-him-most-‘i-know-what-i-can-do-the-philadelphia-inquirer&amp;id=100834</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T04:29:21Z</news:publication_date>          <news:title>With Joel Embiid out, Paul Reed stepped up when Sixers needed him most: ‘I know what I can do’ - The Philadelphia Inquirer</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/not-rohit-sharma-or-virat-kohli-shubman-gill-reveals-dream-opening-partner-ndtv-sports&amp;id=100836</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.ndtv.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T04:28:31Z</news:publication_date>          <news:title>Not Rohit Sharma Or Virat Kohli! Shubman Gill Reveals Dream Opening Partner - NDTV Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/is-hardik-the-new-dhoni-rediff-com&amp;id=100838</loc>
+    <news:news>
+      <news:publication>
+        <news:name>rediff.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T04:26:57Z</news:publication_date>          <news:title>Is Hardik The New Dhoni? - Rediff.com</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/twins-notes-maeda-ober-kirilloff-buxton-mlb-trade-rumors&amp;id=100842</loc>
+    <news:news>
+      <news:publication>
+        <news:name>mlbtraderumors.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:49:49Z</news:publication_date>          <news:title>Twins Notes: Maeda, Ober, Kirilloff, Buxton - MLB Trade Rumors</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/moses-moody-drops-amazingly-humble-quote-about-playing-time-vs-kings-nbc-sports&amp;id=100844</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nbcsports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:42:58Z</news:publication_date>          <news:title>Moses Moody drops amazingly humble quote about playing time vs. Kings - NBC Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/nhl-game-3-highlights-devils-vs-rangers-april-22-2023-sportsnet&amp;id=100846</loc>
+    <news:news>
+      <news:publication>
+        <news:name>youtube.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:37:49Z</news:publication_date>          <news:title>Devils vs. Rangers - April 22, 2023 - SPORTSNET</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/grizzlies-dillon-brooks-ejected-after-flagrant-2-on-lebron-james-espn-india&amp;id=100848</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.in</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:36:58Z</news:publication_date>          <news:title>Grizzlies' Dillon Brooks ejected after flagrant 2 on LeBron James - ESPN India</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/dillon-brooks-ejected-against-the-lakers-what-s-behind-the-sudden-rise-of-flagrant-2-fouls-in-the-nba-playoffs-espn&amp;id=100849</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:36:58Z</news:publication_date>          <news:title>Dillon Brooks ejected against the Lakers - What's behind the sudden rise of flagrant 2 fouls in the NBA playoffs? - ESPN</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/-draymond-rules-draymond-green-was-asked-about-the-precedent-the-nba-might-have-set-shorts-espn&amp;id=100852</loc>
+    <news:news>
+      <news:publication>
+        <news:name>youtube.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:30:59Z</news:publication_date>          <news:title>#shorts - ESPN</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/avalanche-s-makar-absolutely-lets-it-rip-right-off-the-faceoff-to-build-on-lead-sportsnet&amp;id=100854</loc>
+    <news:news>
+      <news:publication>
+        <news:name>youtube.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:30:56Z</news:publication_date>          <news:title>Avalanche's Makar Absolutely Lets It Rip Right Off The Faceoff To Build On Lead - SPORTSNET</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/-lights-out-gibson-caps-off-dominant-stretch-from-o-s-starters-mlb-com&amp;id=100856</loc>
+    <news:news>
+      <news:publication>
+        <news:name>mlb.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:21:53Z</news:publication_date>          <news:title>'Lights-out' Gibson caps off dominant stretch from O's starters - MLB.com</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/fc-barcelona-announce-squad-for-la-liga-match-against-atletico-madrid-barca-blaugranes&amp;id=100858</loc>
+    <news:news>
+      <news:publication>
+        <news:name>barcablaugranes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:00:00Z</news:publication_date>          <news:title>FC Barcelona announce squad for La Liga match against Atlético Madrid - Barca Blaugranes</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/quentin-grimes-questionable-for-knicks-game-4-due-to-shoulder-injury-new-york-post&amp;id=100859</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nypost.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T03:00:00Z</news:publication_date>          <news:title>Quentin Grimes questionable for Knicks' Game 4 due to shoulder injury - New York Post</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/bullpen-shines-as-pirates-extend-winning-streak-to-6-with-win-against-reds-pittsburgh-post-gazette&amp;id=100862</loc>
+    <news:news>
+      <news:publication>
+        <news:name>post-gazette.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T02:59:38Z</news:publication_date>          <news:title>Bullpen shines as Pirates extend winning streak to 6 with win against Reds - Pittsburgh Post-Gazette</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/virat-kohli-and-anushka-sharma-step-out-for-lunch-in-bengaluru-fans-chant-rcb-rcb-watch-moneycontrol&amp;id=100864</loc>
+    <news:news>
+      <news:publication>
+        <news:name>moneycontrol.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T02:57:34Z</news:publication_date>          <news:title>Virat Kohli and Anushka Sharma step out for lunch in Bengaluru, fans chant 'RCB RCB'. Watch - Moneycontrol</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/‘they-re-always-expletive-on-my-name-not-now-after-tobias-harris-was-worth-every-penny-in-sixers-sweep-the-philadelphia-inquirer&amp;id=100866</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T02:50:10Z</news:publication_date>          <news:title>‘They’re always [expletive] on my name!’ Not now, after Tobias Harris was worth every penny in Sixers sweep - The Philadelphia Inquirer</news:title>
     </news:news>
   </url>
 </urlset>
