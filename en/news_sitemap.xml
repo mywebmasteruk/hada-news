@@ -6300,15 +6300,6 @@
       <news:publication_date>2023-04-22T23:49:06Z</news:publication_date>          <news:title>2023 Zurich Classic leaderboard, scores: Team of Wyndham Clark, Beau Hossler holds slim lead after Round 3 - CBS Sports</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/simone-biles-ties-knot-with-texans-jonathan-owens-my-person-forever-fox-news&amp;id=100591</loc>
-    <news:news>
-      <news:publication>
-        <news:name>foxnews.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-22T23:41:00Z</news:publication_date>          <news:title>Simone Biles ties knot with Texans' Jonathan Owens: 'My person, forever' - Fox News</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/ex-uswnt-s-jill-ellis-on-how-australia-s-gustavsson-coaches&amp;id=100647</loc>
     <news:news>
       <news:publication>
@@ -7207,15 +7198,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-23T04:44:53Z</news:publication_date>          <news:title>Heat's Oladipo exits with left knee injury; team awaiting tests - ESPN</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/ms-dhoni-meets-t-natarajan-s-daughter-watch-hindustan-times&amp;id=100832</loc>
-    <news:news>
-      <news:publication>
-        <news:name>hindustantimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-23T04:38:04Z</news:publication_date>          <news:title>MS Dhoni meets T Natarajan's daughter. Watch - Hindustan Times</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/with-joel-embiid-out-paul-reed-stepped-up-when-sixers-needed-him-most-‘i-know-what-i-can-do-the-philadelphia-inquirer&amp;id=100834</loc>
@@ -8998,6 +8980,24 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-24T13:38:00Z</news:publication_date>          <news:title>Road Noise and Air Pollution Increase Blood Pressure, Study Finds</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/no-more-home-makeovers-the-horror-show-of-renting-in-britain-finally-comes-to-tv&amp;id=101164</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theguardian.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T13:33:00Z</news:publication_date>          <news:title>No more home makeovers! The horror show of renting in Britain finally comes to TV</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/research-team-develops-a-predictive-model-for-complications-in-diabetes&amp;id=101165</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news-medical.net</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T13:31:00Z</news:publication_date>          <news:title>Research team develops a predictive model for complications in diabetes</news:title>
     </news:news>
   </url>
 </urlset>
