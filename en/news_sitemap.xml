@@ -6300,15 +6300,6 @@
       <news:publication_date>2023-04-24T07:16:16Z</news:publication_date>          <news:title>Scientists decode how alcohol addiction makes people more sensitive to pain</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Culture/celebrities-strip-off-for-fashion-awards-red-carpet-in-la&amp;id=100758</loc>
-    <news:news>
-      <news:publication>
-        <news:name>news.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T07:15:50Z</news:publication_date>          <news:title>Celebrities strip off for Fashion Awards red carpet in LA</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/bairstow-to-return-from-injury-for-yorkshire-ahead-of-ashes&amp;id=100759</loc>
     <news:news>
       <news:publication>
@@ -7207,15 +7198,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-24T08:43:18Z</news:publication_date>          <news:title>Manchester United 'lead Chelsea in race for Victor Osimhen'</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/olympic-swimming-champion-adam-peaty-says-he-has-self-destructive-tendencies&amp;id=100948</loc>
-    <news:news>
-      <news:publication>
-        <news:name>bbc.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T08:41:00Z</news:publication_date>          <news:title>Olympic swimming champion Adam Peaty says he has 'self-destructive' tendencies</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/chelsea-players-give-green-light-to-mauricio-pochettino-appointment-&amp;id=100949</loc>
@@ -8998,6 +8980,24 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-23T12:12:40Z</news:publication_date>          <news:title>Kohli's alarming 'triple golden duck' stat leaves RCB fans with ‘April 23’ scare - Hindustan Times</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/ipl-2023-here-s-why-rcb-players-are-wearing-green-jersey-against-rr-ndtv-sports&amp;id=101239</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.ndtv.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T10:17:42Z</news:publication_date>          <news:title>IPL 2023: Here's Why RCB Players Are Wearing Green Jersey Against RR - NDTV Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/dr-diandra-examining-kevin-harvick-s-first-799-races-nascar-on-nbc-sports&amp;id=101242</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nascar.nbcsports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T10:00:00Z</news:publication_date>          <news:title>Dr. Diandra: Examining Kevin Harvick’s first 799 races - NASCAR on NBC Sports</news:title>
     </news:news>
   </url>
 </urlset>
