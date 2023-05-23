@@ -8100,15 +8100,6 @@
       <news:publication_date>2023-04-23T14:00:46Z</news:publication_date>          <news:title>Kawakami: The A’s, the $500 million Las Vegas ask and John Fisher’s long losing streak - The Athletic</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/lebron-james-reacts-to-dillon-brooks-trash-talk-in-lakers-grizzlies-this-is-not-my-first-rodeo-cbs-sports&amp;id=101227</loc>
-    <news:news>
-      <news:publication>
-        <news:name>cbssports.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-23T13:32:00Z</news:publication_date>          <news:title>LeBron James reacts to Dillon Brooks' trash talk in Lakers-Grizzlies: 'This is not my first rodeo' - CBS Sports</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/barcelona-vs-atletico-madrid-live-stream-lineups-time-tv-channel-how-to-watch-la-liga-online-barca-blaugranes&amp;id=101230</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8989,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-23T06:20:00Z</news:publication_date>          <news:title>Seattle’s inaugural home playoff game spoiled as Avalanche stars explode - Mile High Hockey</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/rielly-maple-leafs-enjoy-improbable-game-3-ot-victory-at-lightning-nhl-com&amp;id=101465</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nhl.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T06:15:33Z</news:publication_date>          <news:title>Rielly, Maple Leafs enjoy improbable Game 3 OT victory at Lightning - NHL.com</news:title>
     </news:news>
   </url>
 </urlset>
