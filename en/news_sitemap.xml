@@ -4500,15 +4500,6 @@
       <news:publication_date>2023-04-24T06:00:42Z</news:publication_date>          <news:title>As Russians plot against Chad, concerns mount over important U.S. ally</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/nhl-highlights-oilers-5-kings-4-ot&amp;id=100721</loc>
-    <news:news>
-      <news:publication>
-        <news:name>sportsnet.ca</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T05:58:17Z</news:publication_date>          <news:title>NHL Highlights: Oilers 5, Kings 4 (OT)</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/transfer-talk-liverpool-man-city-move-for-chelsea-s-mount&amp;id=100722</loc>
     <news:news>
       <news:publication>
@@ -7209,15 +7200,6 @@
       <news:publication_date>2023-04-24T15:02:27Z</news:publication_date>          <news:title>Man Goes Blind After Binging on Booze and Crystal Meth</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Varieties/scientists-have-full-state-of-quantum-liquid-down-cold&amp;id=101331</loc>
-    <news:news>
-      <news:publication>
-        <news:name>miragenews.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T15:02:00Z</news:publication_date>          <news:title>Scientists Have Full State of Quantum Liquid Down Cold</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Varieties/surprise-guerrilla-games-pretty-much-confirms-horizon-3&amp;id=101332</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8980,24 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-24T17:07:22Z</news:publication_date>          <news:title>Manfred: ‘Sorry’ for Oakland fans; A’s can compete in Vegas</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/manchester-united-and-manchester-city-set-to-battle-it-out-for-napoli-s-£40million-rated-‘monster-defender-kim-min-jae&amp;id=101702</loc>
+    <news:news>
+      <news:publication>
+        <news:name>247newsaroundtheworld.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T16:25:55Z</news:publication_date>          <news:title>Manchester United and Manchester City set to battle it out for Napoli’s £40million-rated ‘monster’ defender Kim Min-jae</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/joe-gibbs-racing-was-a-talladega-loser-even-before-kyle-busch-made-the-owner-s-day-worse&amp;id=101703</loc>
+    <news:news>
+      <news:publication>
+        <news:name>247newsaroundtheworld.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T16:17:53Z</news:publication_date>          <news:title>Joe Gibbs Racing Was a Talladega Loser Even Before Kyle Busch Made the Owner’s Day Worse</news:title>
     </news:news>
   </url>
 </urlset>
