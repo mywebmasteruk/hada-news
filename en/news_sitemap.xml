@@ -7200,15 +7200,6 @@
       <news:publication_date>2023-04-23T13:27:21Z</news:publication_date>          <news:title>Delhi Capitals name Priyam Garg as replacement for Kamlesh Nagarkoti - IPLT20.com</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/roman-burki-s-play-in-goal-gets-city-sc-a-tie-but-he-s-disappointed-in-play-of-team-s-defense-st-louis-post-dispatch&amp;id=101420</loc>
-    <news:news>
-      <news:publication>
-        <news:name>stltoday.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-23T13:20:00Z</news:publication_date>          <news:title>Roman Burki's play in goal gets City SC a tie, but he's disappointed in play of team's defense - St. Louis Post-Dispatch</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/cardinals-brass-take-break-from-draft-prep-to-attend-kyler-murray-statue-unveiling-nbc-sports&amp;id=101423</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8989,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-24T21:10:00Z</news:publication_date>          <news:title>Succession recap: season four, episode five - is Shiv about to be sent a brick of frozen blood?</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?News/sudan-uk-sends-military-team-as-it-weighs-evacuation-options&amp;id=101819</loc>
+    <news:news>
+      <news:publication>
+        <news:name>bbc.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T21:07:47Z</news:publication_date>          <news:title>Sudan: UK sends military team as it weighs evacuation options</news:title>
     </news:news>
   </url>
 </urlset>
