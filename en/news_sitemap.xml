@@ -6300,15 +6300,6 @@
       <news:publication_date>2023-04-24T14:14:39Z</news:publication_date>          <news:title>Birmingham City won’t be able to grant John Eustace all of his transfer wishes</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/ipl-2023-prithvi-shaw-dropped-from-dc-side-to-face-srh-after-woeful-run-with-the-bat&amp;id=101355</loc>
-    <news:news>
-      <news:publication>
-        <news:name>firstpost.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T14:04:10Z</news:publication_date>          <news:title>IPL 2023: Prithvi Shaw dropped from DC side to face SRH after woeful run with the bat</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/douglas-luiz-delivers-special-ollie-watkins-verdict-as-aston-villa-push-for-europe&amp;id=101356</loc>
     <news:news>
       <news:publication>
@@ -7207,15 +7198,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-23T13:11:25Z</news:publication_date>          <news:title>Aim to Split, Hoerner's Throwback, Wesneski's Command, and Other Cubs Bullets - bleachernation.com</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/avalanche-game-3-plus-minus-eller-s-elevated-play-byram-makar-here-to-stay-colorado-hockey-now&amp;id=101615</loc>
-    <news:news>
-      <news:publication>
-        <news:name>coloradohockeynow.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-23T13:00:23Z</news:publication_date>          <news:title>Avalanche Game 3 Plus/Minus: Eller's Elevated Play, Byram/Makar Here to Stay - Colorado Hockey Now</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/protest-against-wfi-chief-brij-bhushan-singh-wrestlers-vinesh-phogat-sakshi-malik-get-emotional-times-of-india&amp;id=101617</loc>
@@ -8998,6 +8980,24 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-24T23:54:04Z</news:publication_date>          <news:title>Canucks' Off-Season Priorities: Push to extend Pettersson, find third-line centre</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/new-jersey-new-york&amp;id=102001</loc>
+    <news:news>
+      <news:publication>
+        <news:name>watch.sportsnet.ca</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T23:53:35Z</news:publication_date>          <news:title>New Jersey @ New York</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/chicago-toronto&amp;id=102003</loc>
+    <news:news>
+      <news:publication>
+        <news:name>watch.sportsnet.ca</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T23:52:43Z</news:publication_date>          <news:title>Chicago @ Toronto</news:title>
     </news:news>
   </url>
 </urlset>
