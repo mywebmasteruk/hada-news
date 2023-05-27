@@ -8100,15 +8100,6 @@
       <news:publication_date>2023-04-25T00:26:29Z</news:publication_date>          <news:title>Barcelona secure €1.5bn in funds to begin Camp Nou remodel</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/new-eu-pacific-head&amp;id=102128</loc>
-    <news:news>
-      <news:publication>
-        <news:name>fijitimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T23:45:50Z</news:publication_date>          <news:title>New EU Pacific head</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/coke-games-2023-marist-banks-on-unity&amp;id=102129</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8989,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-23T21:23:01Z</news:publication_date>          <news:title>Gators Win SEC Championship - 1standTenFlorida - GatorBait.net</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/7-observations-on-cubs-series-loss-to-dodgers-nbc-sports&amp;id=102298</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nbcsports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-23T21:13:24Z</news:publication_date>          <news:title>7 observations on Cubs' series loss to Dodgers - NBC Sports</news:title>
     </news:news>
   </url>
 </urlset>
