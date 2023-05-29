@@ -5400,15 +5400,6 @@
       <news:publication_date>2023-04-24T21:33:44Z</news:publication_date>          <news:title>Chelsea, Mauricio Pochettino in advanced talks</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/report-packers-finalize-deal-to-trade-aaron-rodgers-to-jets&amp;id=101807</loc>
-    <news:news>
-      <news:publication>
-        <news:name>sportsnet.ca</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T21:29:22Z</news:publication_date>          <news:title>Report: Packers finalize deal to trade Aaron Rodgers to Jets</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/nfl-aaron-rodgers-to-join-new-york-jets-after-trade-deal-agreed-with-green-bay-packers&amp;id=101809</loc>
     <news:news>
       <news:publication>
@@ -7209,15 +7200,6 @@
       <news:publication_date>2023-04-23T23:16:01Z</news:publication_date>          <news:title>Grizzlies' Dillon Brooks Blames Media Coverage for Game 3 Ejection - Sports Illustrated</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/golden-state-warriors-wild-finish-to-defeat-sacramento-kings-in-game-4-golden-state-warriors&amp;id=102259</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youtube.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-23T23:15:52Z</news:publication_date>          <news:title>Golden State Warriors WILD FINISH to Defeat Sacramento Kings in Game 4 - Golden State Warriors</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/late-wrecks-and-multiple-overtimes-at-talladega-extended-highlights-nascar-cup-series-nascar&amp;id=102262</loc>
     <news:news>
       <news:publication>
@@ -8118,15 +8100,6 @@
       <news:publication_date>2023-04-24T02:02:37Z</news:publication_date>          <news:title>Knicks have changed by finding new gears offensively and defensively vs. Cavs - The Athletic</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/kings-beat-oilers-in-a-footrace-as-vilardi-bangs-home-rebound-sportsnet&amp;id=102472</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youtube.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:55:54Z</news:publication_date>          <news:title>Kings Beat Oilers In A Footrace As Vilardi Bangs Home Rebound - SPORTSNET</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/daily-schmankerl-the-aftermath-of-bayern-munich-vs-mainz-bayern-eyeing-dutch-goalkeeper-liverpool-s-robe…-bavarian-football-works&amp;id=102475</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8971,33 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-23T20:35:00Z</news:publication_date>          <news:title>David de Gea reveals Manchester United's penalty shootout tactic after dramatic FA Cup win against Brighton - Sportskeeda</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?News/breaking-netflix-to-invest-2-5b-in-korean-contents&amp;id=102734</loc>
+    <news:news>
+      <news:publication>
+        <news:name>koreaherald.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-25T07:53:13Z</news:publication_date>          <news:title>[BREAKING] Netflix to invest $2.5b in Korean contents</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/playoff-takeaways-unlikely-devils-heroes-keep-hudson-river-rivalry-alive&amp;id=102735</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sportsnet.ca</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-25T07:30:01Z</news:publication_date>          <news:title>Playoff Takeaways: Unlikely Devils heroes keep Hudson River rivalry alive</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/ciara-griffin-scotland-is-a-must-win-game-to-salvage-ireland-s-season&amp;id=102737</loc>
+    <news:news>
+      <news:publication>
+        <news:name>bbc.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-25T07:15:02Z</news:publication_date>          <news:title>Ciara Griffin: Scotland is a must-win game to salvage Ireland's season</news:title>
     </news:news>
   </url>
 </urlset>
