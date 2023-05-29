@@ -6300,15 +6300,6 @@
       <news:publication_date>2023-04-24T19:39:49Z</news:publication_date>          <news:title>Liverpool ‘leading’ six-club chase for £70m star as player’s transfer stance makes Brighton ‘agitated’</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/here-and-now-steals-the-show-with-the-rtc-magic-million-cup-in-n-eliya&amp;id=101873</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymirror.lk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T19:32:55Z</news:publication_date>          <news:title>Here and Now steals the show with the RTC Magic Million Cup in N’ Eliya</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/ireland-in-command&amp;id=101874</loc>
     <news:news>
       <news:publication>
@@ -8109,24 +8100,6 @@
       <news:publication_date>2023-04-25T03:18:00Z</news:publication_date>          <news:title>Ridley Scott, Joaquin Phoenix's 'Napoleon' Premieres Battle Footage</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?News/suspect-in-custody-one-person-dead-after-shooting-at-oklahoma-community-college-police-say&amp;id=102399</loc>
-    <news:news>
-      <news:publication>
-        <news:name>cnn.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-25T03:17:02Z</news:publication_date>          <news:title>Suspect in custody, one person dead after shooting at Oklahoma community college, police say</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/a-texas-family-fought-for-weeks-to-regain-custody-of-their-newborn-experts-say-the-case-shows-how-black-parents-are-criminalized-&amp;id=102400</loc>
-    <news:news>
-      <news:publication>
-        <news:name>cnn.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-25T03:14:37Z</news:publication_date>          <news:title>A Texas family fought for weeks to regain custody of their newborn. Experts say the case shows how Black parents are criminalized.</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?News/driver-of-suv-that-crashed-into-a-massachusetts-apple-store-accelerated-to-60-mph-before-deadly-crash-prosecutor-says&amp;id=102401</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8971,33 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-25T04:42:13Z</news:publication_date>          <news:title>World champion athlete reveals touching personal reason for joining Army Reserve: ‘He’s one of my heroes in life’</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/meghan-duchess-of-sussex-‘transformation-tedtalk-photo-ahead-of-king-charles-coronation-sparks-flurry-of-speculation&amp;id=102588</loc>
+    <news:news>
+      <news:publication>
+        <news:name>7news.com.au</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-25T04:34:49Z</news:publication_date>          <news:title>Meghan Duchess of Sussex ‘transformation’ TedTalk photo ahead of King Charles coronation sparks flurry of speculation</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/meghan-‘transformation-photo-sparks-flurry-of-speculation-‘it-doesn-t-look-like-her-anymore-&amp;id=102589</loc>
+    <news:news>
+      <news:publication>
+        <news:name>7news.com.au</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-25T04:34:00Z</news:publication_date>          <news:title>Meghan ‘transformation’ photo sparks flurry of speculation: ‘It doesn’t look like her anymore’</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/google-cloud-unit-blessed-with-ai-chip-team-challenges-rivals&amp;id=102590</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thehindubusinessline.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-25T04:31:16Z</news:publication_date>          <news:title>Google Cloud unit blessed with AI chip team, challenges rivals</news:title>
     </news:news>
   </url>
 </urlset>
