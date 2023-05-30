@@ -6300,15 +6300,6 @@
       <news:publication_date>2023-04-25T00:38:33Z</news:publication_date>          <news:title>Diabetes: Adults more at risk if they faced adversity as children</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Lifestyle/covid-cluster-announced-at-b-c-long-term-care-facility-after-the-last-of-restrictions-falls&amp;id=102196</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theglobeandmail.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-25T00:37:23Z</news:publication_date>          <news:title>COVID cluster announced at B.C. long-term care facility after the last of restrictions falls</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Culture/cm-punk-reportedly-visited-tonight-s-wwe-raw-was-asked-to-leave&amp;id=102197</loc>
     <news:news>
       <news:publication>
@@ -8109,15 +8100,6 @@
       <news:publication_date>2023-04-23T22:25:26Z</news:publication_date>          <news:title>Warriors survive Stephen Curry blunder to tie series with Kings - ESPN India</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?News/breaking-netflix-to-invest-2-5b-in-korean-contents&amp;id=102734</loc>
-    <news:news>
-      <news:publication>
-        <news:name>koreaherald.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-25T07:53:13Z</news:publication_date>          <news:title>[BREAKING] Netflix to invest $2.5b in Korean contents</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/playoff-takeaways-unlikely-devils-heroes-keep-hudson-river-rivalry-alive&amp;id=102735</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8980,24 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-24T17:54:00Z</news:publication_date>          <news:title>RCB Stand-in Captain Virat Kohli, Team Fined Heavily For Code of Conduct Breach In IPL 2023 Game vs .. - NDTV Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/mlb-power-rankings-enjoying-the-pirates-surprisingly-great-start-astros-dodgers-waking-up-cbs-sports&amp;id=102958</loc>
+    <news:news>
+      <news:publication>
+        <news:name>cbssports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T17:50:00Z</news:publication_date>          <news:title>MLB Power Rankings: Enjoying the Pirates' surprisingly great start; Astros, Dodgers waking up - CBS Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/warriors-kings-stephen-curry-vs-de-aaron-fox-duel-provides-instant-classic-takes-series-to-epic-level-cbs-sports&amp;id=102959</loc>
+    <news:news>
+      <news:publication>
+        <news:name>cbssports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-24T17:50:00Z</news:publication_date>          <news:title>Warriors-Kings: Stephen Curry vs. De'Aaron Fox duel provides instant classic, takes series to epic level - CBS Sports</news:title>
     </news:news>
   </url>
 </urlset>
