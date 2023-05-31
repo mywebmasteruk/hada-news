@@ -1,167 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://hada.news/en/item?Sport/edmonton-los-angeles&amp;id=100405</loc>
-    <news:news>
-      <news:publication>
-        <news:name>watch.sportsnet.ca</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:51:58Z</news:publication_date>          <news:title>Edmonton @ Los Angeles</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/twice-announces-new-concert-stops-for-5th-world-tour-ready-to-be-&amp;id=100406</loc>
-    <news:news>
-      <news:publication>
-        <news:name>kpopstarz.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:51:34Z</news:publication_date>          <news:title>TWICE Announces New Concert Stops For 5th World Tour 'READY TO BE'</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/canada-s-shayeann-day-wilson-announces-transfer-to-university-of-miami&amp;id=100407</loc>
-    <news:news>
-      <news:publication>
-        <news:name>sportsnet.ca</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:49:21Z</news:publication_date>          <news:title>Canada's Shayeann Day-Wilson announces transfer to University of Miami</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/canada-s-genest-denied-silver-in-women-s-keirin-at-uci-track-nations-cup-after-being-relegated&amp;id=100408</loc>
-    <news:news>
-      <news:publication>
-        <news:name>cbc.ca</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:37:10Z</news:publication_date>          <news:title>Canada's Genest denied silver in women's keirin at UCI Track Nations Cup after being relegated</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/what-we-know-about-the-new-game&amp;id=100409</loc>
-    <news:news>
-      <news:publication>
-        <news:name>augustman.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:35:24Z</news:publication_date>          <news:title>What We Know About The New Game</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/asteroid-alert-nasa-warns-of-space-rock-speeding-towards-earth-today&amp;id=100410</loc>
-    <news:news>
-      <news:publication>
-        <news:name>tech.hindustantimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:32:23Z</news:publication_date>          <news:title>Asteroid alert! NASA warns of space rock speeding towards Earth TODAY</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/korea-box-office-john-wick-4-holds-lead-on-year-s-slowest-weekend&amp;id=100411</loc>
-    <news:news>
-      <news:publication>
-        <news:name>variety.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:30:00Z</news:publication_date>          <news:title>Korea Box Office: 'John Wick 4' Holds Lead on Year's Slowest Weekend</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/wordle-674-answer-for-april-24-2023-dodge-doubt-just-check-these-hints-clues-here&amp;id=100412</loc>
-    <news:news>
-      <news:publication>
-        <news:name>tech.hindustantimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:20:01Z</news:publication_date>          <news:title>Wordle 674 Answer for April 24, 2023: Dodge doubt, just check these hints, clues here</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/christina-koch-becomes-first-woman-selected-for-lunar-mission&amp;id=100413</loc>
-    <news:news>
-      <news:publication>
-        <news:name>ktvq.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:15:54Z</news:publication_date>          <news:title>Christina Koch becomes first woman selected for lunar mission</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/world-immunization-week-2023-date-theme-significance-and-all-you-need-to-know&amp;id=100414</loc>
-    <news:news>
-      <news:publication>
-        <news:name>news18.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:00:45Z</news:publication_date>          <news:title>World Immunization Week 2023: Date, Theme, Significance and All You Need to Know</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/moa-the-final-step-tp-work&amp;id=100415</loc>
-    <news:news>
-      <news:publication>
-        <news:name>fijitimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:00:26Z</news:publication_date>          <news:title>MOA, the final step tp work</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/when-your-wheelchair-is-called-karma-you-need-a-sense-of-humour&amp;id=100416</loc>
-    <news:news>
-      <news:publication>
-        <news:name>smh.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:00:00Z</news:publication_date>          <news:title>When your wheelchair is called Karma, you need a sense of humour</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/lilia-vu-wins-chevron-championship-captures-first-lpga-tour-major&amp;id=100418</loc>
-    <news:news>
-      <news:publication>
-        <news:name>sportsnet.ca</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:56:23Z</news:publication_date>          <news:title>Lilia Vu wins Chevron Championship, captures first LPGA Tour major</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/health2go-eye-clinics-to-lift-care&amp;id=100419</loc>
-    <news:news>
-      <news:publication>
-        <news:name>nationaltribune.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:52:15Z</news:publication_date>          <news:title>Health2Go eye clinics to lift care</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/plant-based-protein-here-are-a-few-excellent-sources&amp;id=100420</loc>
-    <news:news>
-      <news:publication>
-        <news:name>onmanorama.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:51:10Z</news:publication_date>          <news:title>Plant-based protein: Here are a few excellent sources</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/can-stunfisk-be-shiny-in-pokemon-go-&amp;id=100421</loc>
-    <news:news>
-      <news:publication>
-        <news:name>sportskeeda.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:49:00Z</news:publication_date>          <news:title>Can Stunfisk be shiny in Pokemon GO?</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Economy/editorial-comment-–-positive-vibes&amp;id=100423</loc>
-    <news:news>
-      <news:publication>
-        <news:name>fijitimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:45:08Z</news:publication_date>          <news:title>Editorial comment – Positive vibes</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/kyle-busch-wins-under-caution-at-talladega-in-double-overtime&amp;id=100424</loc>
-    <news:news>
-      <news:publication>
-        <news:name>sportsnet.ca</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:39:17Z</news:publication_date>          <news:title>Kyle Busch wins under caution at Talladega in double overtime</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/oilers-draisaitl-beats-korpisalo-after-mcdavid-forces-turnover-vs-kings&amp;id=100461</loc>
     <news:news>
       <news:publication>
@@ -493,150 +331,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-24T02:05:28Z</news:publication_date>          <news:title>US evacuated under 100 people from embassy in Sudan amid fighting</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/half-a-liter-of-frozen-blood-breaking-down-episode-5-of-‘succession-&amp;id=100501</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theringer.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T02:03:00Z</news:publication_date>          <news:title>Half a Liter of Frozen Blood: Breaking Down Episode 5 of ‘Succession’</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/succession-recap-raised-by-wolves&amp;id=100502</loc>
-    <news:news>
-      <news:publication>
-        <news:name>vulture.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T02:02:09Z</news:publication_date>          <news:title>Succession Recap: Raised By Wolves</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/husband-beater-appeals-conviction&amp;id=100503</loc>
-    <news:news>
-      <news:publication>
-        <news:name>fijitimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T02:00:35Z</news:publication_date>          <news:title>Husband beater appeals conviction</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Varieties/what-was-the-most-memorable-midnight-launch-you-ve-been-to-&amp;id=100504</loc>
-    <news:news>
-      <news:publication>
-        <news:name>kotaku.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:58:00Z</news:publication_date>          <news:title>What Was The Most Memorable Midnight Launch You've Been To?</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/formula-e-drivers-baffled-as-climate-change-activists-target-race-for-electric-cars-in-berlin&amp;id=100505</loc>
-    <news:news>
-      <news:publication>
-        <news:name>7news.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:57:23Z</news:publication_date>          <news:title>Formula E drivers baffled as climate change activists target race for electric cars in Berlin</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/sydney-roosters-angus-crichton-breaks-silence-on-bipolar-diagnosis-ahead-of-blockbuster-return&amp;id=100506</loc>
-    <news:news>
-      <news:publication>
-        <news:name>7news.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:55:04Z</news:publication_date>          <news:title>Sydney Roosters’ Angus Crichton breaks silence on bipolar diagnosis ahead of blockbuster return</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/-1-3m-loss-for-fru-in-2022&amp;id=100507</loc>
-    <news:news>
-      <news:publication>
-        <news:name>fbcnews.com.fj</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:48:56Z</news:publication_date>          <news:title>$1.3m loss for FRU in 2022</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/polestar-to-use-former-saab-plant-–-report&amp;id=100508</loc>
-    <news:news>
-      <news:publication>
-        <news:name>7news.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:44:16Z</news:publication_date>          <news:title>Polestar to use former Saab plant – report</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/ricki-lee-coulter-makes-emotional-declaration-after-revealing-‘secret-she-s-been-keeping&amp;id=100509</loc>
-    <news:news>
-      <news:publication>
-        <news:name>7news.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:44:12Z</news:publication_date>          <news:title>Ricki-Lee Coulter makes emotional declaration after revealing ‘secret’ she’s been keeping</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/hyundai-ioniq-5-n-hot-electric-car-s-reveal-date-confirmed&amp;id=100510</loc>
-    <news:news>
-      <news:publication>
-        <news:name>7news.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:34:04Z</news:publication_date>          <news:title>Hyundai Ioniq 5 N: Hot electric car's reveal date confirmed</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/companies-launch-waste-reduction-initiative&amp;id=100511</loc>
-    <news:news>
-      <news:publication>
-        <news:name>fijitimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:30:25Z</news:publication_date>          <news:title>Companies launch waste reduction initiative</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/afl-great-nathan-buckley-calls-out-geelong-coach-chris-scott-for-‘influencing-mro-over-mitch-duncan-bump&amp;id=100512</loc>
-    <news:news>
-      <news:publication>
-        <news:name>7news.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:18:22Z</news:publication_date>          <news:title>AFL great Nathan Buckley calls out Geelong coach Chris Scott for ‘influencing’ MRO over Mitch Duncan bump</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/miller-athletes-need-more-competitions&amp;id=100513</loc>
-    <news:news>
-      <news:publication>
-        <news:name>fijitimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:06:48Z</news:publication_date>          <news:title>Miller: Athletes need more competitions</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/number-of-bodies-exhumed-from-suspected-kenyan-cult-graves-jumps-to-47&amp;id=100514</loc>
-    <news:news>
-      <news:publication>
-        <news:name>fijitimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:06:43Z</news:publication_date>          <news:title>Number of bodies exhumed from suspected Kenyan cult graves jumps to 47</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/margaret-river-pro-surf-competition-on-hold&amp;id=100515</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thenewdaily.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:05:13Z</news:publication_date>          <news:title>Margaret River Pro surf competition on hold</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/fighting-flu-starts-with-you&amp;id=100517</loc>
-    <news:news>
-      <news:publication>
-        <news:name>health.gov.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:43:58Z</news:publication_date>          <news:title>Fighting flu starts with you</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/ex-uswnt-s-jill-ellis-on-how-australia-s-gustavsson-coaches&amp;id=100647</loc>
@@ -5787,60 +5481,6 @@
       <news:publication_date>2023-04-24T22:12:53Z</news:publication_date>          <news:title>Cuba sets to start off second polio vaccination campaign</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/jayson-tatum-31-pts-jaylen-brown-31-pts-score-62-points-in-celtics-game-4-w-april-23-2023-nba&amp;id=102217</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youtube.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:56:23Z</news:publication_date>          <news:title>April 23, 2023 - NBA</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/-they-re-trying-to-say-farewell-dhoni-s-mind-numbing-retirement-remark-hindustan-times&amp;id=102220</loc>
-    <news:news>
-      <news:publication>
-        <news:name>hindustantimes.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:44:53Z</news:publication_date>          <news:title>'They're trying to say farewell...': Dhoni's mind-numbing retirement remark - Hindustan Times</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/nhl-game-3-highlights-stars-vs-wild-april-23-2023-sportsnet&amp;id=102223</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youtube.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:30:21Z</news:publication_date>          <news:title>Stars vs. Wild - April 23, 2023 - SPORTSNET</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/stars-jake-oettinger-makes-clutch-save-to-maintain-lead-in-dying-seconds-of-game-4-vs-wild-sportsnet&amp;id=102226</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youtube.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:25:38Z</news:publication_date>          <news:title>Stars' Jake Oettinger Makes Clutch Save To Maintain Lead In Dying Seconds Of Game 4 vs. Wild - SPORTSNET</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/2023-nascar-wurth-400-at-dover-motor-speedway-full-weekend-race-schedule-crash&amp;id=102229</loc>
-    <news:news>
-      <news:publication>
-        <news:name>crash.net</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:24:44Z</news:publication_date>          <news:title>2023 NASCAR Wurth 400 at Dover Motor Speedway: Full Weekend Race Schedule - Crash</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/chevron-championship-payout-lilia-vu-cashes-in-with-playoff-victory-golf-channel&amp;id=102232</loc>
-    <news:news>
-      <news:publication>
-        <news:name>golfchannel.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:39:30Z</news:publication_date>          <news:title>Chevron Championship payout: Lilia Vu cashes in with playoff victory - Golf Channel</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?News/al-wehda-send-ronaldo-s-al-nassr-crashing-out-of-the-king-cup&amp;id=102360</loc>
     <news:news>
       <news:publication>
@@ -6597,51 +6237,6 @@
       <news:publication_date>2023-04-24T02:31:59Z</news:publication_date>          <news:title>"Threw His Bat So Badly...": Harbhajan Singh Reveals Shocking Story About MS Dhoni - NDTV Sports</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/knicks-have-changed-by-finding-new-gears-offensively-and-defensively-vs-cavs-the-athletic&amp;id=102469</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theathletic.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T02:02:37Z</news:publication_date>          <news:title>Knicks have changed by finding new gears offensively and defensively vs. Cavs - The Athletic</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/kings-beat-oilers-in-a-footrace-as-vilardi-bangs-home-rebound-sportsnet&amp;id=102472</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youtube.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:55:54Z</news:publication_date>          <news:title>Kings Beat Oilers In A Footrace As Vilardi Bangs Home Rebound - SPORTSNET</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/daily-schmankerl-the-aftermath-of-bayern-munich-vs-mainz-bayern-eyeing-dutch-goalkeeper-liverpool-s-robe…-bavarian-football-works&amp;id=102475</loc>
-    <news:news>
-      <news:publication>
-        <news:name>bavarianfootballworks.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:41:34Z</news:publication_date>          <news:title>Daily Schmankerl: The aftermath of Bayern Munich vs. Mainz; Bayern eyeing Dutch goalkeeper?; Liverpool’s Robe… - Bavarian Football Works</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/stephen-curry-recaps-warriors-game-4-win-over-kings-april-23-2023-golden-state-warriors&amp;id=102478</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youtube.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:31:04Z</news:publication_date>          <news:title>April 23, 2023 - Golden State Warriors</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/carpenter-wields-a-hammer-with-5-rbis-in-series-finale-mlb-com&amp;id=102481</loc>
-    <news:news>
-      <news:publication>
-        <news:name>mlb.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:29:12Z</news:publication_date>          <news:title>Carpenter wields a hammer with 5 RBIs in series finale - MLB.com</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Culture/gi-dle-returns-with-new-album-i-feel-&amp;id=102556</loc>
     <news:news>
       <news:publication>
@@ -7182,24 +6777,6 @@
       <news:publication_date>2023-04-24T02:06:22Z</news:publication_date>          <news:title>If Only KL Rahul...: Ex-India Cricketer Takes a Dig At LSG Skipper After Ajinkya Rahane's Smashing Knock Vs KK - Times Now</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/jaylen-brown-ditches-mask-sparks-celtics-to-game-4-win-espn&amp;id=102665</loc>
-    <news:news>
-      <news:publication>
-        <news:name>espn.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:43:51Z</news:publication_date>          <news:title>Jaylen Brown ditches mask, sparks Celtics to Game 4 win - ESPN</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/source-nba-investigating-dejounte-murray-s-actions-toward-officials-espn&amp;id=102666</loc>
-    <news:news>
-      <news:publication>
-        <news:name>espn.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:43:51Z</news:publication_date>          <news:title>Source: NBA investigating Dejounte Murray's actions toward officials - ESPN</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?News/breaking-netflix-to-invest-2-5b-in-korean-contents&amp;id=102734</loc>
     <news:news>
       <news:publication>
@@ -7720,24 +7297,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-24T02:17:29Z</news:publication_date>          <news:title>Playoffs! Sea Dragons thrash Vipers 28-9 to clinch XFL postseason berth on final day - Field Gulls</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/the-stranger-we-kept-calling-by-his-first-name-espncricinfo&amp;id=102835</loc>
-    <news:news>
-      <news:publication>
-        <news:name>espncricinfo.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T01:37:02Z</news:publication_date>          <news:title>The stranger we kept calling by his first name - ESPNcricinfo</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/patrice-bergeron-david-krejci-will-not-rest-despite-bruins-series-lead-they-ll-play-game-5-if-they-are-cleared-the-boston-globe&amp;id=102838</loc>
-    <news:news>
-      <news:publication>
-        <news:name>bostonglobe.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:56:11Z</news:publication_date>          <news:title>Patrice Bergeron, David Krejci will not rest despite Bruins’ series lead; they’ll play Game 5 if they are cleared - The Boston Globe</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?News/singapore-to-execute-man-for-conspiring-to-traffic-2-pounds-of-cannabis&amp;id=102868</loc>
@@ -8998,6 +8557,447 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-27T12:27:02Z</news:publication_date>          <news:title>Escape to the Chateau’s Dick and Angel flooded with support after touching post</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/world-cup-final-ball-could-be-sold-for-£200-000-in-an-auction&amp;id=103173</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:24:42Z</news:publication_date>          <news:title>World Cup final ball could be sold for £200,000 in an auction</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/kate-winslet-is-seen-on-set-for-the-first-time-for-the-regime&amp;id=103174</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:24:20Z</news:publication_date>          <news:title>Kate Winslet is seen on set for the first time for The Regime</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/the-clever-trick-that-could-save-you-money-at-the-airport&amp;id=103175</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:21:02Z</news:publication_date>          <news:title>The clever trick that could save you money at the airport</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?/martin-lewis-issues-warning-to-all-mobile-phone-users-who-pay-more-than-£9-a-month&amp;id=103176</loc>
+    <news:news>
+      <news:publication>
+        <news:name>independent.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:19:48Z</news:publication_date>          <news:title>Martin Lewis issues warning to all mobile phone users who pay more than £9 a month</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/lucy-letby-told-police-‘i-didn-t-kill-them-on-purpose-court-hears&amp;id=103177</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theguardian.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:19:28Z</news:publication_date>          <news:title>Lucy Letby told police ‘I didn’t kill them on purpose’, court hears</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/how-it-all-beer-gan-first-lager-originated-in-munich-in-1602&amp;id=103178</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:19:01Z</news:publication_date>          <news:title>How it all beer-gan! First lager originated in Munich in 1602</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/world-snooker-championship-latest-score-from-the-semi-finals&amp;id=103179</loc>
+    <news:news>
+      <news:publication>
+        <news:name>independent.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:16:59Z</news:publication_date>          <news:title>World Snooker Championship Latest score from the semi-finals</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/we-ve-been-living-in-a-caravan-for-a-year-after-a-water-leak-flooded-our-home&amp;id=103180</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:13:23Z</news:publication_date>          <news:title>We've been living in a 'caravan' for a year after a water leak flooded our home</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Economy/sainsbury-s-profits-squeezed-by-soaring-inflation-–-but-beat-market-expectations&amp;id=103181</loc>
+    <news:news>
+      <news:publication>
+        <news:name>independent.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:13:14Z</news:publication_date>          <news:title>Sainsbury’s profits squeezed by soaring inflation – but beat market expectations</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/jaguars-robinson-faces-suspension-for-violating-nfl-s-ped-policy-&amp;id=103182</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:10:40Z</news:publication_date>          <news:title>Jaguars' Robinson 'faces suspension for violating NFL's PED policy'</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/hynes-wins-paul-green-medal-after-imperious-performance-vs-cowboys&amp;id=103183</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:09:59Z</news:publication_date>          <news:title>Hynes wins Paul Green medal after imperious performance vs Cowboys</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?News/northern-ireland-bracing-for-cuts-in-health-education-and-policing&amp;id=103184</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theguardian.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:09:36Z</news:publication_date>          <news:title>Northern Ireland bracing for cuts in health, education and policing</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Economy/new-setback-for-construction-industry-as-brick-maker-closes-factory&amp;id=103185</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:09:10Z</news:publication_date>          <news:title>New setback for construction industry as brick maker closes factory</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/‘there-will-be-more-people-dying-mother-whose-daughter-took-own-life-criticises-gambling-white-paper&amp;id=103186</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theguardian.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:06:19Z</news:publication_date>          <news:title>‘There will be more people dying’: mother whose daughter took own life criticises gambling white paper</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/m-s-s-£45-basket-bag-rivals-loewe-s-£400-designer-tote&amp;id=103187</loc>
+    <news:news>
+      <news:publication>
+        <news:name>independent.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:03:46Z</news:publication_date>          <news:title>MandS’s £45 basket bag rivals Loewe’s £400 designer tote</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/airbnb-just-75-yards-from-windsor-castle-is-free&amp;id=103188</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:03:35Z</news:publication_date>          <news:title>Airbnb just 75 yards from Windsor Castle is free</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?/i-m-a-fashion-expert-seven-summer-items-that-instantly-make-you-look-tacky&amp;id=103189</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:02:01Z</news:publication_date>          <news:title>I’m a fashion expert - seven Summer items that instantly make you look tacky</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?/four-items-to-always-buy-at-homebase-and-two-to-avoid&amp;id=103190</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:00:21Z</news:publication_date>          <news:title>Four items to always buy at Homebase - and two to avoid</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/owners-share-hilarious-images-of-their-dogs-frolicking-in-the-mud&amp;id=103191</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:57:32Z</news:publication_date>          <news:title>Owners share hilarious images of their dogs frolicking in the mud</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/adelaide-defender-matilda-garrett-earns-diamonds-call-up&amp;id=103192</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thenewdaily.com.au</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:51:27Z</news:publication_date>          <news:title>Adelaide defender Matilda Garrett earns Diamonds call up</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/fury-as-national-trust-tears-down-oldest-beach-cafe-in-the-country&amp;id=103193</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:51:19Z</news:publication_date>          <news:title>Fury as National Trust tears down oldest beach café in the country</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/national-trust-criticised-for-levelling-dorset-beach-cafe&amp;id=103194</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theguardian.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:49:31Z</news:publication_date>          <news:title>National Trust criticised for levelling Dorset beach cafe</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/zupco-dynamos-fc-ink-deal&amp;id=103195</loc>
+    <news:news>
+      <news:publication>
+        <news:name>zwnews.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:47:59Z</news:publication_date>          <news:title>ZUPCO, Dynamos FC ink deal</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/arsenal-flops-panned-by-l-equipe-after-loss-to-manchester-city&amp;id=103196</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:47:00Z</news:publication_date>          <news:title>Arsenal flops panned by L'Equipe after loss to Manchester City</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/karl-and-jasmine-stefanovic-attend-ronald-mcdonald-house-gala-dinner&amp;id=103197</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:45:36Z</news:publication_date>          <news:title>Karl and Jasmine Stefanovic attend Ronald McDonald House Gala Dinner</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/plus-size-influencer-claps-back-at-troll-who-said-she-had-no-class-&amp;id=103198</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:45:24Z</news:publication_date>          <news:title>Plus-size influencer claps back at troll who said she had no 'class'</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/you-have-the-eyes-of-a-hawk-if-you-spot-the-sugar-cubes-in-this-brain-teaser&amp;id=103199</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:44:49Z</news:publication_date>          <news:title>You have the eyes of a hawk if you spot the sugar cubes in this brain teaser</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?/players-slam-square-enix-game-created-with-ai-–-final-fantasy-makers-go-all-in&amp;id=103200</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:42:47Z</news:publication_date>          <news:title>Players slam Square Enix game created with AI – Final Fantasy makers go all in</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/our-town-is-being-reborn-thanks-to-a-steamy-jilly-cooper-romance-starring-emily-atack-being-filmed-at-pub-we-love-it&amp;id=103201</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:42:11Z</news:publication_date>          <news:title>Our town is being reborn thanks to a steamy Jilly Cooper romance starring Emily Atack being filmed at pub - we love it</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/i-m-an-ex-premier-league-spurs-hero-now-i-m-an-award-winning-tv-star&amp;id=103202</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:42:05Z</news:publication_date>          <news:title>I’m an ex-Premier League and Spurs hero - now I’m an award-winning TV star</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/airline-worker-reveals-harsh-truths-about-passenger-etiquette-who-s-right&amp;id=103203</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:40:28Z</news:publication_date>          <news:title>Airline worker reveals harsh truths about passenger etiquette and who’s right</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?/multi-day-rain-bomb-is-set-to-batter-large-parts-of-australia&amp;id=103204</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:36:04Z</news:publication_date>          <news:title>Multi-day rain bomb is set to batter large parts of Australia</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/epsom-derby-hit-by-massive-double-blow-with-new-train-strikes-set-to-cause-huge-disruption&amp;id=103205</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:35:00Z</news:publication_date>          <news:title>Epsom Derby hit by massive double blow with new train strikes set to cause huge disruption</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/man-utd-analysts-spotted-one-star-passed-to-ronaldo-to-get-praise-from-him-&amp;id=103206</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:32:31Z</news:publication_date>          <news:title>Man Utd analysts spotted one star 'passed to Ronaldo to get praise from him'</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/i-m-a-first-aider-here-s-3-vital-baby-checks-all-parents-must-do-every-day&amp;id=103207</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:32:27Z</news:publication_date>          <news:title>I'm a first aider - here's 3 vital baby checks all parents must do every day</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/beyonce-challenges-2-7mn-tax-bill-says-irs-mistaken-over-donations&amp;id=103208</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:32:21Z</news:publication_date>          <news:title>Beyoncé challenges $2.7mn tax bill, says IRS mistaken over donations</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?News/braverman-slammed-by-tory-colleague-over-‘unreasonable-comments-on-migrants&amp;id=103209</loc>
+    <news:news>
+      <news:publication>
+        <news:name>independent.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:32:16Z</news:publication_date>          <news:title>Braverman slammed by Tory colleague over ‘unreasonable’ comments on migrants</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?/flooded-out-family-forced-out-of-£1m-home-into-caravan-&amp;id=103210</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:31:08Z</news:publication_date>          <news:title>Flooded-out family forced out of £1m home into 'caravan'</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/anna-richardson-says-she-has-been-branded-paedophile-in-online-abuse&amp;id=103211</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T11:31:07Z</news:publication_date>          <news:title>Anna Richardson says she has been branded 'paedophile' in online abuse</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/ex-celtic-star-says-scotland-‘had-the-worst-league-in-the-world-&amp;id=103212</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thescottishsun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T09:41:42Z</news:publication_date>          <news:title>Ex-Celtic star says Scotland ‘had the worst league in the world’</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/dave-feschuk-luke-schenn-adds-bonding-to-maple-leafs-playoff-menu&amp;id=103213</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thestar.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T09:00:00Z</news:publication_date>          <news:title>Dave Feschuk: Luke Schenn adds bonding to Maple Leafs’ playoff menu</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/watch-paul-merson-s-sad-reaction-to-arsenal-going-2-0-down-to-man-city-as-he-says-‘game-over-you-ve-won-the-league-&amp;id=103214</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thescottishsun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T07:58:17Z</news:publication_date>          <news:title>Watch Paul Merson’s sad reaction to Arsenal going 2-0 down to Man City as he says ‘game over.. you’ve won the league’</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/frank-lampard-s-horror-managerial-record-revealed-as-chelsea-boss-loses-fifth-straight-blues-game&amp;id=103215</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thescottishsun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T07:45:21Z</news:publication_date>          <news:title>Frank Lampard’s horror managerial record revealed as Chelsea boss loses FIFTH straight Blues game</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/nba-miami-heat-beat-milwaukee-bucks-to-progress-new-york-knicks-advance-with-win-over-cleveland-cavaliers&amp;id=103216</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news18.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T07:36:55Z</news:publication_date>          <news:title>NBA: Miami Heat Beat Milwaukee Bucks to Progress, New York Knicks Advance With Win Over Cleveland Cavaliers</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/study-shows-link-between-liver-transplant-survivor-s-recovery-and-sociodemographic-factors&amp;id=103217</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news-medical.net</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T17:14:00Z</news:publication_date>          <news:title>Study shows link between liver transplant survivor's recovery and sociodemographic factors</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/the-case-of-the-golden-idol-the-spider-of-lanka-expansion-arrives-next-month&amp;id=103218</loc>
+    <news:news>
+      <news:publication>
+        <news:name>eurogamer.net</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T17:00:00Z</news:publication_date>          <news:title>The Case of the Golden Idol: The Spider of Lanka expansion arrives next month</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/covid-deaths-down-95-who&amp;id=103219</loc>
+    <news:news>
+      <news:publication>
+        <news:name>manilatimes.net</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T16:44:00Z</news:publication_date>          <news:title>Covid deaths down 95%: WHO</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/sma-in-adults-interim-data-back-nusinersen-efficacy&amp;id=103220</loc>
+    <news:news>
+      <news:publication>
+        <news:name>medpagetoday.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T16:31:19Z</news:publication_date>          <news:title>SMA in Adults: Interim Data Back Nusinersen Efficacy</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/playstation-plus-may-2023-free-games-announced-for-ps4-ps5&amp;id=103221</loc>
+    <news:news>
+      <news:publication>
+        <news:name>polygon.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T16:11:54Z</news:publication_date>          <news:title>PlayStation Plus May 2023 free games announced for PS4, PS5</news:title>
     </news:news>
   </url>
 </urlset>
