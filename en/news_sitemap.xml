@@ -7200,15 +7200,6 @@
       <news:publication_date>2023-04-24T01:43:51Z</news:publication_date>          <news:title>Source: NBA investigating Dejounte Murray's actions toward officials - ESPN</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/-it-s-a-nightmare-when-sachin-took-down-australia-cricket-com-au&amp;id=102674</loc>
-    <news:news>
-      <news:publication>
-        <news:name>cricket.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-24T00:49:53Z</news:publication_date>          <news:title>'It's a nightmare!' When Sachin took down Australia - cricket.com.au</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?News/breaking-netflix-to-invest-2-5b-in-korean-contents&amp;id=102734</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8989,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-27T12:28:22Z</news:publication_date>          <news:title>I was over the moon to be pregnant but an emergency scan overturned our world</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/escape-to-the-chateau-s-dick-and-angel-flooded-with-support-after-touching-post&amp;id=103172</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-27T12:27:02Z</news:publication_date>          <news:title>Escape to the Chateau’s Dick and Angel flooded with support after touching post</news:title>
     </news:news>
   </url>
 </urlset>
