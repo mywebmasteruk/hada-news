@@ -7200,15 +7200,6 @@
       <news:publication_date>2023-04-26T14:01:00Z</news:publication_date>          <news:title>49ers news: What’s your excitement level for the draft? - Niners Nation</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/curran-this-is-the-year-for-patriots-to-make-a-bold-draft-move-nbc-sports-boston&amp;id=103327</loc>
-    <news:news>
-      <news:publication>
-        <news:name>nbcsports.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-26T13:41:43Z</news:publication_date>          <news:title>Curran: This is the year for Patriots to make a bold draft move - NBC Sports Boston</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/-yash-dayal-fell-ill-lost-7-8-kgs-hardik-pandya-after-gt-pacer-hit-for-five-sixes-by-rinku-singh-zee-news&amp;id=103330</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8989,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-28T19:09:04Z</news:publication_date>          <news:title>SpaceX prepares for Falcon and Falcon 9 double header, weather may play spoiler</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Varieties/newest-steam-update-is-pretty-good-actually&amp;id=103618</loc>
+    <news:news>
+      <news:publication>
+        <news:name>kotaku.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-28T19:05:00Z</news:publication_date>          <news:title>Newest Steam Update Is Pretty Good, Actually</news:title>
     </news:news>
   </url>
 </urlset>
