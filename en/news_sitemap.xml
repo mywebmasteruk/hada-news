@@ -7200,15 +7200,6 @@
       <news:publication_date>2023-04-27T16:11:54Z</news:publication_date>          <news:title>PlayStation Plus May 2023 free games announced for PS4, PS5</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Culture/prince-andrew-s-bbc-newsnight-interview-fresh-details-emerge&amp;id=103222</loc>
-    <news:news>
-      <news:publication>
-        <news:name>news.com.au</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-27T16:03:27Z</news:publication_date>          <news:title>Prince Andrew’s BBC Newsnight interview: Fresh details emerge</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Varieties/nasa-s-tess-exoplanet-hunting-satellite-celebrates-5-years-in-space&amp;id=103223</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8989,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-28T07:16:40Z</news:publication_date>          <news:title>INSTANT VIEW- BOJ keeps ultra-low rates, decides to conduct policy review</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Economy/ecb-s-villeroy-and-knot-put-bank-rule-changes-on-the-table&amp;id=103504</loc>
+    <news:news>
+      <news:publication>
+        <news:name>investing.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-28T07:15:59Z</news:publication_date>          <news:title>ECB's Villeroy and Knot put bank rule changes on the table</news:title>
     </news:news>
   </url>
 </urlset>
