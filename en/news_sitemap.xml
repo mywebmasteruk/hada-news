@@ -6300,15 +6300,6 @@
       <news:publication_date>2023-04-26T14:01:00Z</news:publication_date>          <news:title>49ers news: What’s your excitement level for the draft? - Niners Nation</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/curran-this-is-the-year-for-patriots-to-make-a-bold-draft-move-nbc-sports-boston&amp;id=103327</loc>
-    <news:news>
-      <news:publication>
-        <news:name>nbcsports.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-26T13:41:43Z</news:publication_date>          <news:title>Curran: This is the year for Patriots to make a bold draft move - NBC Sports Boston</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/-yash-dayal-fell-ill-lost-7-8-kgs-hardik-pandya-after-gt-pacer-hit-for-five-sixes-by-rinku-singh-zee-news&amp;id=103330</loc>
     <news:news>
       <news:publication>
@@ -8109,15 +8100,6 @@
       <news:publication_date>2023-04-28T19:05:00Z</news:publication_date>          <news:title>Newest Steam Update Is Pretty Good, Actually</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Lifestyle/cdc-eases-certain-covid-19-vaccine-requirements-for-international-travelers-to-us&amp;id=103619</loc>
-    <news:news>
-      <news:publication>
-        <news:name>cnn.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-28T18:28:00Z</news:publication_date>          <news:title>CDC eases certain Covid-19 vaccine requirements for international travelers to US</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Sport/seattle-toronto&amp;id=103621</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8980,24 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-29T05:37:10Z</news:publication_date>          <news:title>Wighton keeps the doubters quiet</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/lakers-pound-grizzlies-by-40-in-game-6-clincher&amp;id=103826</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-29T05:35:11Z</news:publication_date>          <news:title>Lakers pound Grizzlies by 40 in Game 6 clincher</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/royals-and-their-engagement-rings-including-one-worth-£1-2million&amp;id=103827</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-29T05:30:46Z</news:publication_date>          <news:title>Royals and their engagement rings - including one worth £1.2million</news:title>
     </news:news>
   </url>
 </urlset>
