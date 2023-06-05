@@ -6300,15 +6300,6 @@
       <news:publication_date>2023-04-28T04:04:00Z</news:publication_date>          <news:title>New Deep-Learning System Examines Materials’ Interiors from Outside</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?News/industrial-output-up-1-6-in-march&amp;id=103400</loc>
-    <news:news>
-      <news:publication>
-        <news:name>koreaherald.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-28T09:57:10Z</news:publication_date>          <news:title>Industrial output up 1.6 % in March</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Culture/princess-abseiling-trip-echoes-heartwarming-childhood-photo&amp;id=103401</loc>
     <news:news>
       <news:publication>
@@ -7207,15 +7198,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-28T07:15:59Z</news:publication_date>          <news:title>ECB's Villeroy and Knot put bank rule changes on the table</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Economy/ueda-kicks-off-review-of-bank-of-japan-monetary-policy-in-first-meeting&amp;id=103505</loc>
-    <news:news>
-      <news:publication>
-        <news:name>ft.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-28T07:13:03Z</news:publication_date>          <news:title>Ueda kicks off review of Bank of Japan monetary policy in first meeting</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/watch-chennai-super-kings-skipper-ms-dhoni-rekindles-memories-of-183-not-out-after-ipl-2023-match-against-rajasthan-royals-in-jaipur&amp;id=103506</loc>
@@ -8998,6 +8980,24 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-29T00:35:40Z</news:publication_date>          <news:title>The Hunger Games: The Ballad of Snakes and Songbirds trailer is out</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/cannon-celebrates-cancellation-of-jada-pinkett-smith-s-red-table-talk&amp;id=103877</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-29T00:32:12Z</news:publication_date>          <news:title>Cannon celebrates cancellation of Jada Pinkett Smith's Red Table Talk</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/push-to-make-bare-knuckle-boxing-legal-in-australia-and-follow-the-ufc&amp;id=103878</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-29T00:29:25Z</news:publication_date>          <news:title>Push to make bare knuckle boxing legal in Australia and follow the UFC</news:title>
     </news:news>
   </url>
 </urlset>
