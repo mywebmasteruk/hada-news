@@ -8100,15 +8100,6 @@
       <news:publication_date>2023-04-29T05:37:10Z</news:publication_date>          <news:title>Wighton keeps the doubters quiet</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Sport/lakers-pound-grizzlies-by-40-in-game-6-clincher&amp;id=103826</loc>
-    <news:news>
-      <news:publication>
-        <news:name>espn.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-29T05:35:11Z</news:publication_date>          <news:title>Lakers pound Grizzlies by 40 in Game 6 clincher</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Lifestyle/royals-and-their-engagement-rings-including-one-worth-£1-2million&amp;id=103827</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8989,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-30T02:59:32Z</news:publication_date>          <news:title>Biden takes shots during Washington Correspondents Dinner</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Lifestyle/kyle-richards-slams-fake-weight-loss-ads-using-her-photos&amp;id=103930</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-30T02:59:25Z</news:publication_date>          <news:title>Kyle Richards SLAMS fake weight-loss ads using her photos</news:title>
     </news:news>
   </url>
 </urlset>
