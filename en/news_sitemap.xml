@@ -6300,15 +6300,6 @@
       <news:publication_date>2023-04-28T19:09:04Z</news:publication_date>          <news:title>SpaceX prepares for Falcon and Falcon 9 double header, weather may play spoiler</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Varieties/newest-steam-update-is-pretty-good-actually&amp;id=103618</loc>
-    <news:news>
-      <news:publication>
-        <news:name>kotaku.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-28T19:05:00Z</news:publication_date>          <news:title>Newest Steam Update Is Pretty Good, Actually</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?Lifestyle/cdc-eases-certain-covid-19-vaccine-requirements-for-international-travelers-to-us&amp;id=103619</loc>
     <news:news>
       <news:publication>
@@ -7207,15 +7198,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-29T05:35:11Z</news:publication_date>          <news:title>Lakers pound Grizzlies by 40 in Game 6 clincher</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/royals-and-their-engagement-rings-including-one-worth-£1-2million&amp;id=103827</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-29T05:30:46Z</news:publication_date>          <news:title>Royals and their engagement rings - including one worth £1.2million</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Culture/rupert-murdoch-s-special-talent-will-see-him-through-the-worst-year-of-his-life&amp;id=103828</loc>
@@ -8118,15 +8100,6 @@
       <news:publication_date>2023-04-30T02:46:26Z</news:publication_date>          <news:title>Lavish menu revealed for Kyle Sandilands' wedding to Tegan Kynaston</news:title>
     </news:news>
   </url>
-<url><loc>https://hada.news/en/item?Culture/kyle-sandilands-wedding-to-tegan-kynaston-the-three-course-menu&amp;id=103932</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-04-30T02:46:26Z</news:publication_date>          <news:title>Kyle Sandilands' wedding to Tegan Kynaston: The three-course menu</news:title>
-    </news:news>
-  </url>
 <url><loc>https://hada.news/en/item?/wild-weather-on-the-east-coast-is-not-yet-over&amp;id=103933</loc>
     <news:news>
       <news:publication>
@@ -8998,6 +8971,33 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-04-28T16:01:17Z</news:publication_date>          <news:title>Bills Day 1 NFL Draft grades, previewing potential Day 2 picks - BuffaloBills.com</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/ipl-2023-match-40-dc-vs-srh-match-prediction-–-who-will-win-today-s-ipl-match-between-dc-vs-srh-crictracker&amp;id=104118</loc>
+    <news:news>
+      <news:publication>
+        <news:name>crictracker.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-28T15:06:34Z</news:publication_date>          <news:title>IPL 2023: Match 40, DC vs SRH Match Prediction – Who will win today’s IPL match between DC vs SRH? - CricTracker</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/leclerc-predicts-‘one-of-the-most-difficult-weekends-in-baku-but-is-confident-for-bright-ferrari-future-formula-1&amp;id=104120</loc>
+    <news:news>
+      <news:publication>
+        <news:name>formula1.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-28T14:05:07Z</news:publication_date>          <news:title>Leclerc predicts ‘one of the most difficult’ weekends in Baku but is confident for bright Ferrari future - Formula 1</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?News/democratic-ags-are-using-the-courts-to-win-on-abortion-gun-control&amp;id=104123</loc>
+    <news:news>
+      <news:publication>
+        <news:name>washingtonpost.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-04-30T11:00:53Z</news:publication_date>          <news:title>Democratic AGs are using the courts to win on abortion, gun control</news:title>
     </news:news>
   </url>
 </urlset>
