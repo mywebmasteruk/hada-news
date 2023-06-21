@@ -1,5 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://hada.news/en/item?News/uswnt-recruit-joe-biden-and-taylor-swift-to-help-reveal-world-cup-team&amp;id=153046</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T15:39:49Z</news:publication_date>          <news:title>USWNT recruit Joe Biden and Taylor Swift to help reveal World Cup team</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?News/recruiter-called-out-for-ridiculous-advice-after-hiring-new-employee&amp;id=153047</loc>
+    <news:news>
+      <news:publication>
+        <news:name>dailymail.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T15:38:49Z</news:publication_date>          <news:title>Recruiter called out for 'ridiculous' advice after hiring new employee</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Culture/robert-downey-jr-says-that-his-time-in-jail-was-‘the-worst-thing-that-happened-to-me-&amp;id=153048</loc>
+    <news:news>
+      <news:publication>
+        <news:name>independent.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T15:14:27Z</news:publication_date>          <news:title>Robert Downey Jr says that his time in jail was ‘the worst thing that happened to me’</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/footballer-20-took-own-life-after-discovering-mum-was-victim-of-morgue-monster&amp;id=153049</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thesun.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T15:08:47Z</news:publication_date>          <news:title>Footballer, 20, took own life after discovering mum was victim of morgue monster</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?World/guards-at-del-monte-pineapple-farm-in-kenya-accused-of-killings&amp;id=153050</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theguardian.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T15:00:43Z</news:publication_date>          <news:title>Guards at Del Monte pineapple farm in Kenya accused of killings</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/ufc-fight-night-on-abc-is-ilia-topuria-the-future-of-the-men-s-featherweight-division-&amp;id=152989</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T13:52:31Z</news:publication_date>          <news:title>UFC Fight Night on ABC -- Is Ilia Topuria the future of the men's featherweight division?</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/canada-s-andreescu-bounced-by-vondrousova-at-tournament-in-berlin&amp;id=152990</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sportsnet.ca</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T13:52:22Z</news:publication_date>          <news:title>Canada's Andreescu bounced by Vondrousova at tournament in Berlin</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/espys-2023-vote-nikola-jokic-patrick-mahomes-and-las-vegas-aces-lead-nominations&amp;id=152991</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T13:51:04Z</news:publication_date>          <news:title>ESPYS 2023 vote: Nikola Jokic, Patrick Mahomes and Las Vegas Aces lead nominations</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/how-to-watch-the-european-under-21-championship-as-four-liverpool-transfer-targets-in-action&amp;id=153051</loc>
+    <news:news>
+      <news:publication>
+        <news:name>liverpoolecho.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T13:47:37Z</news:publication_date>          <news:title>How to watch the European Under-21 Championship as four Liverpool transfer targets in action</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Culture/pregnant-mother-of-two-reveals-she-has-been-living-in-a-tent&amp;id=152939</loc>
     <news:news>
       <news:publication>
@@ -268,6 +349,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-21T11:56:32Z</news:publication_date>          <news:title>Shakira and Lewis plan ‘romantic holiday to Caribbean' as couple spotted ‘kissing’</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/diversified-s-jared-timmins-offers-advice-on-control-rooms-in-venue-experiences-in-collegiate-athletics&amp;id=152992</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sportsvideo.org</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-21T11:55:06Z</news:publication_date>          <news:title>Diversified’s Jared Timmins Offers Advice on Control Rooms, In Venue Experiences in Collegiate Athletics</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Culture/eamonn-holmes-bemoans-wife-ruth-langsford-disrupting-his-sleep&amp;id=152969</loc>
@@ -4311,6 +4401,15 @@
       <news:publication_date>2023-06-20T14:32:33Z</news:publication_date>          <news:title>Exclusive: Man United eyeing €80m-rated duo as alternatives to Kim Min-jae transfer, says expert</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/the-ashes-1st-test-day-5-eng-vs-aus-live-score-broad-gets-early-breakthrough-hindustan-times&amp;id=152993</loc>
+    <news:news>
+      <news:publication>
+        <news:name>hindustantimes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T14:19:37Z</news:publication_date>          <news:title>The Ashes 1st Test Day 5 ENG vs AUS Live Score: Broad gets early breakthrough - Hindustan Times</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/french-investigators-search-the-offices-of-paris-olympic-organizers-in-corruption-probe&amp;id=151862</loc>
     <news:news>
       <news:publication>
@@ -4320,6 +4419,15 @@
       <news:publication_date>2023-06-20T13:34:11Z</news:publication_date>          <news:title>French investigators search the offices of Paris Olympic organizers in corruption probe</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/here-s-why-dalvin-cook-could-wait-until-late-summer-to-join-a-new-team-and-which-star-he-wants-to-play-with-cbs-sports&amp;id=152994</loc>
+    <news:news>
+      <news:publication>
+        <news:name>cbssports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T13:33:24Z</news:publication_date>          <news:title>Here's why Dalvin Cook could wait until late summer to join a new team, and which star he wants to play with - CBS Sports</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/iwbf-wheelchair-basketball-world-championships-men-s-gold-great-britain-vs-usa&amp;id=151863</loc>
     <news:news>
       <news:publication>
@@ -4327,6 +4435,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T13:30:00Z</news:publication_date>          <news:title>IWBF Wheelchair Basketball World Championships: Men's Gold - Great Britain vs USA</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/former-world-no-2-anett-kontaveit-retiring-at-27-due-to-back-issue-i-am-ready-for-new-challenges-yahoo-sports&amp;id=152995</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.yahoo.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T13:13:05Z</news:publication_date>          <news:title>Former world No. 2 Anett Kontaveit retiring at 27 due to back issue: 'I am ready for new challenges' - Yahoo Sports</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/svg-on-demand-auburn-s-parker-leppein-on-educating-motivating-a-new-wave-of-production-professionals&amp;id=151864</loc>
@@ -4356,6 +4473,15 @@
       <news:publication_date>2023-06-20T12:57:03Z</news:publication_date>          <news:title>Craig-Hallum Starts Tigo Energy at Buy; Another Possible Solar 'Blockbuster'</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/college-world-series-top-takeaways-from-early-action-as-virginia-stanford-head-home-247sports&amp;id=152996</loc>
+    <news:news>
+      <news:publication>
+        <news:name>247sports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T12:54:51Z</news:publication_date>          <news:title>College World Series: Top takeaways from early action as Virginia, Stanford head home - 247Sports</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/liverpool-sent-ambitious-kylian-mbappe-transfer-message-as-part-of-replacement-plan&amp;id=151865</loc>
     <news:news>
       <news:publication>
@@ -4363,6 +4489,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T12:52:35Z</news:publication_date>          <news:title>Liverpool sent ambitious Kylian Mbappe transfer message as part of 'replacement' plan</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/27-year-old-anett-kontaveit-announces-shock-retirement-to-end-career-at-wimbledon-2023-sportskeeda&amp;id=152999</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sportskeeda.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T12:48:00Z</news:publication_date>          <news:title>27-year-old Anett Kontaveit announces shock retirement, to end career at Wimbledon 2023 - Sportskeeda</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/arsenal-face-four-way-battle-with-premier-league-rivals-for-£45m-romeo-lavia&amp;id=151807</loc>
@@ -4500,6 +4635,15 @@
       <news:publication_date>2023-06-20T12:24:54Z</news:publication_date>          <news:title>Anna Richardson reveals stars of Naked Attraction</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/philadelphia-flyers-nhl-com&amp;id=153001</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nhl.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T12:24:27Z</news:publication_date>          <news:title>Philadelphia Flyers - NHL.com</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/souness-fights-back-tears-after-raising-£1m-in-12-hour-charity-swim&amp;id=151818</loc>
     <news:news>
       <news:publication>
@@ -4516,6 +4660,24 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T12:24:04Z</news:publication_date>          <news:title>West Ham plan to REJECT Arsenal's £90m bid for Declan Rice</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/resilient-jack-flaherty-cardinals-overcome-five-run-deficit-to-defeat-the-nationals-st-louis-post-dispatch&amp;id=153003</loc>
+    <news:news>
+      <news:publication>
+        <news:name>stltoday.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T12:19:00Z</news:publication_date>          <news:title>Resilient Jack Flaherty, Cardinals overcome five-run deficit to defeat the Nationals - St. Louis Post-Dispatch</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/live-updates-eng-vs-aus-ashes-2023-1st-test-day-5-score-covers-are-coming-off-inspection-underway-india-com&amp;id=153004</loc>
+    <news:news>
+      <news:publication>
+        <news:name>india.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T12:18:13Z</news:publication_date>          <news:title>ENG vs AUS, Ashes 2023, 1st Test Day 5, Score: Covers Are Coming Off; Inspection Underway - India.com</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/latest-arsenal-transfer-news-rumours-the-sun&amp;id=151820</loc>
@@ -4644,6 +4806,15 @@
       <news:publication_date>2023-06-20T11:59:44Z</news:publication_date>          <news:title>Kate Beckinsale ex Len Wiseman moves in with girlfriend CJ Franco</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/steelers-t-j-watt-still-replays-pectoral-injury-that-derailed-2022-season-i-ve-drove-myself-nuts-nfl-com&amp;id=153005</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nfl.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T11:59:00Z</news:publication_date>          <news:title>Steelers' T.J. Watt still replays pectoral injury that derailed 2022 season: 'I've drove myself nuts' - NFL.com</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/england-vs-australia-1st-ashes-test-day-5-live-score-updates-early-lunch-taken-due-to-rain-cove-ndtv-sports&amp;id=152862</loc>
     <news:news>
       <news:publication>
@@ -4734,6 +4905,15 @@
       <news:publication_date>2023-06-20T11:42:17Z</news:publication_date>          <news:title>Martin Lewis returns tonight with Money Show Live summer special</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/michael-jordan-cashes-in-on-hornets-sale-axios&amp;id=153006</loc>
+    <news:news>
+      <news:publication>
+        <news:name>axios.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T11:41:23Z</news:publication_date>          <news:title>Michael Jordan cashes in on Hornets sale - Axios</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/chelsea-spending-doesn-t-slow-as-60m-forward-is-confirmed&amp;id=151843</loc>
     <news:news>
       <news:publication>
@@ -4741,6 +4921,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T11:40:53Z</news:publication_date>          <news:title>Chelsea spending doesn’t slow as €60m forward is confirmed</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/the-daily-sweat-don-t-rush-to-bet-the-suns-to-win-the-nba-finals-because-of-bradley-beal-s-arrival-yahoo-sports&amp;id=153008</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.yahoo.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T11:38:49Z</news:publication_date>          <news:title>The Daily Sweat: Don't rush to bet the Suns to win the NBA Finals because of Bradley Beal's arrival - Yahoo Sports</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?News/everyone-thought-my-business-idea-was-stupid-now-i-m-a-millionaire-at-27&amp;id=151844</loc>
@@ -4788,6 +4977,15 @@
       <news:publication_date>2023-06-20T11:07:19Z</news:publication_date>          <news:title>Arsenal using agent connections to lead transfer race but player has also asked his entourage about Chelsea</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/joselu-i-m-not-here-to-replace-anyone-i-m-here-to-work-hard-and-bring-experience”-managing-madrid&amp;id=153009</loc>
+    <news:news>
+      <news:publication>
+        <news:name>managingmadrid.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T11:05:24Z</news:publication_date>          <news:title>Joselu: “I’m not here to replace anyone, I’m here to work hard and bring experience” - Managing Madrid</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/knoxville-softball-falls-to-cardinal-baseball-continues-scc-dominance&amp;id=151848</loc>
     <news:news>
       <news:publication>
@@ -4795,6 +4993,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T11:01:11Z</news:publication_date>          <news:title>Knoxville Softball Falls To Cardinal; Baseball Continues SCC Dominance</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/-i-continued-to-fight-till-the-end-and-use-my-strategies-correctly-how-fencer-bhavani-devi-beat-the-rei-indiatimes-com&amp;id=153010</loc>
+    <news:news>
+      <news:publication>
+        <news:name>timesofindia.indiatimes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T10:58:00Z</news:publication_date>          <news:title>'I continued to fight till the end and use my strategies correctly': How fencer Bhavani Devi beat the rei - Indiatimes.com</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?News/family-calls-for-answers-after-mother-s-death&amp;id=152007</loc>
@@ -4815,6 +5022,24 @@
       <news:publication_date>2023-06-20T10:39:26Z</news:publication_date>          <news:title>Government Approves Janakiraman Swaminathan's Appointment As RBI Deputy Governor</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/india-offered-chance-to-host-lionel-messi-s-argentina-here-s-why-aiff-turned-it-down-ndtv-sports&amp;id=153012</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.ndtv.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T10:39:02Z</news:publication_date>          <news:title>India Offered Chance To Host Lionel Messi's Argentina. Here's Why AIFF Turned It Down - NDTV Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/paris-olympic-organizers-focus-of-suspected-corruption-case-espn-espn&amp;id=153013</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T10:34:00Z</news:publication_date>          <news:title>Paris Olympic organizers focus of suspected corruption case - ESPN - ESPN</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/inter-miami-target-july-21-for-lionel-messi-debut-report-espn-espn&amp;id=152865</loc>
     <news:news>
       <news:publication>
@@ -4822,6 +5047,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T10:31:39Z</news:publication_date>          <news:title>Inter Miami target July 21 for Lionel Messi debut - report - ESPN - ESPN</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/schedule-confirmed-for-pakistan-s-test-tour-of-sri-lanka-icc-cricket&amp;id=153014</loc>
+    <news:news>
+      <news:publication>
+        <news:name>icc-cricket.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T10:31:30Z</news:publication_date>          <news:title>Schedule confirmed for Pakistan's Test tour of Sri Lanka - ICC Cricket</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/nba-draft-confidential-coaches-executives-scouts-on-brandon-miller-and-top-forward-prospects-the-athletic&amp;id=152867</loc>
@@ -4923,6 +5157,15 @@
       <news:publication_date>2023-06-20T10:13:38Z</news:publication_date>          <news:title>NBA mock draft: Victor Wembanyama No. 1, then deep field of guards - USA TODAY</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/【追悼】北別府さんが生前伝えていた”命の大切さ”-【公式】home広島ニュース&amp;id=153016</loc>
+    <news:news>
+      <news:publication>
+        <news:name>youtube.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T10:00:12Z</news:publication_date>          <news:title>【追悼】北別府さんが生前伝えていた”命の大切さ” - 【公式】HOME広島ニュース</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/official-christopher-nkunku-to-join-chelsea-from-rb-leipzig-we-ain-t-got-no-history&amp;id=152874</loc>
     <news:news>
       <news:publication>
@@ -5011,6 +5254,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T09:46:10Z</news:publication_date>          <news:title>Wallabies’ deputy could be more important than the sheriff</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/chelsea-complete-christopher-nkunku-signing-from-leipzig-espn-espn-india&amp;id=153018</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.in</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T09:45:00Z</news:publication_date>          <news:title>Chelsea complete Christopher Nkunku signing from Leipzig - ESPN - ESPN India</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/french-police-search-paris-olympics-hq&amp;id=151698</loc>
@@ -5580,6 +5832,15 @@
       <news:publication_date>2023-06-20T08:30:35Z</news:publication_date>          <news:title>Miss Manners: Why do they text me these boring pictures?</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/solapur-royals-vs-kolhapur-tuskers-match-8-2023-full-scorecard-updates-crictracker&amp;id=153020</loc>
+    <news:news>
+      <news:publication>
+        <news:name>crictracker.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T08:30:00Z</news:publication_date>          <news:title>Solapur Royals vs Kolhapur Tuskers Match 8 2023 Full Scorecard and Updates - CricTracker</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/transfer-news-live-arsenal-make-£60m-bid-for-kai-havertz-al-ittihad-to-launch-son-bid&amp;id=151757</loc>
     <news:news>
       <news:publication>
@@ -5625,6 +5886,24 @@
       <news:publication_date>2023-06-20T08:02:49Z</news:publication_date>          <news:title>Madushanka, Wellalage and Arachchige added to SL's WCQ squad as standby options - ESPNcricinfo</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/-federer-didn-t-make-it-to-many-finals-against-nadal-connors-on-swiatek-hindustan-times&amp;id=153022</loc>
+    <news:news>
+      <news:publication>
+        <news:name>hindustantimes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T08:02:06Z</news:publication_date>          <news:title>'Federer didn't make it to many finals against Nadal': Connors on Swiatek - Hindustan Times</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/arsenal-make-new-kai-havertz-bid-as-edu-rushes-to-wrap-up-first-of-three-signings-express&amp;id=153023</loc>
+    <news:news>
+      <news:publication>
+        <news:name>express.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T07:58:00Z</news:publication_date>          <news:title>Arsenal 'make new Kai Havertz bid' as Edu rushes to wrap up first of three signings - Express</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/fantasy-baseball-sp-roundup-bido-a-dear-pitcher-list&amp;id=152889</loc>
     <news:news>
       <news:publication>
@@ -5632,6 +5911,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T07:57:29Z</news:publication_date>          <news:title>Fantasy Baseball SP Roundup - Bido, A Dear - Pitcher List</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/you-fuc-cheat-david-warner-s-mouth-shutting-reaction-to-england-fans-distasteful-remarks-goes-viral-crictoday-com-cricket-news&amp;id=153024</loc>
+    <news:news>
+      <news:publication>
+        <news:name>crictoday.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T07:57:09Z</news:publication_date>          <news:title>You Fuc**** Cheat: David Warner's mouth-shutting reaction to England fans' distasteful remarks goes viral - Crictoday.com (Cricket News)</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Economy/fundmypitch-raises-£5-7m-to-fuel-sme-growth&amp;id=151761</loc>
@@ -5650,6 +5938,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T07:44:34Z</news:publication_date>          <news:title>Euro 2024 qualifiers: Crushing loss sees NI narrative shift from obsession to realisation</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/watch-saw-you-cry-on-telly-england-fans-mock-steve-smith-his-reaction-can-t-be-missed-ndtv-sports&amp;id=153026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.ndtv.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T07:44:28Z</news:publication_date>          <news:title>Watch: "Saw You Cry On Telly", England Fans Mock Steve Smith. His Reaction Can't Be Missed - NDTV Sports</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/-would-have-always-kept-ashwin-ex-india-star-on-all-rounder-s-exclusion-from-wtc-final-s-xi-ndtv-sports&amp;id=152891</loc>
@@ -5859,6 +6156,15 @@
       <news:publication_date>2023-06-20T06:31:13Z</news:publication_date>          <news:title>Australian retirees are spending big on holidays and cruises</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/monty-desai-hails-nepal-s-young-group-in-the-midst-of-cwc23-qualifier-fire-icc-cricket&amp;id=153028</loc>
+    <news:news>
+      <news:publication>
+        <news:name>icc-cricket.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T06:31:10Z</news:publication_date>          <news:title>Monty Desai hails Nepal's young group in the midst of CWC23 Qualifier fire - ICC Cricket</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/bernardo-silva-receives-saudi-arabian-approach-the-hard-tackle&amp;id=152903</loc>
     <news:news>
       <news:publication>
@@ -5902,6 +6208,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T06:26:05Z</news:publication_date>          <news:title>Love Island's Paige breaks silence after Adam Collard admitted their relationship was a sly 'game plan'</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/-the-lowest-moment-of-her-career-serena-williams-ex-coach-slams-camila-giorgi-for-controversial-gesture-after-venus-williams-fall-at-birmingham-sportskeeda&amp;id=153029</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sportskeeda.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T06:21:00Z</news:publication_date>          <news:title>"The lowest moment of her career" - Serena Williams' ex-coach slams Camila Giorgi for controversial gesture after Venus Williams' fall at Birmingham - Sportskeeda</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/-we-saw-you-cry-on-telly-barmy-army-gives-smith-brutal-sandpaper-gate-reminder-hindustan-times&amp;id=152809</loc>
@@ -6316,6 +6631,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T04:37:13Z</news:publication_date>          <news:title>Israel’s Exigent Hires Ex-Head of Bahraini Sovereign Wealth Fund</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/‘look-for-excuses-or…-virat-kohli-s-message-before-india-s-tour-to-west-indies-the-indian-express&amp;id=153030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>indianexpress.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T04:30:24Z</news:publication_date>          <news:title>‘Look for excuses or…’: Virat Kohli’s message before India’s tour to West Indies - The Indian Express</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/in-surprise-move-najam-sethi-pulls-out-of-race-to-become-pakistan-board-chairman-ndtv-sports&amp;id=152560</loc>
@@ -6766,6 +7090,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-20T03:01:09Z</news:publication_date>          <news:title>Kim Kardashian SNUBS ex Kanye West in her belated Father's Day post</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/-insulted-courtois-refuses-to-play-belgium-qualifier-after-captaincy-snub-ndtv-sports&amp;id=153031</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.ndtv.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T03:00:54Z</news:publication_date>          <news:title>'Insulted' Courtois Refuses To Play Belgium Qualifier After Captaincy Snub - NDTV Sports</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/no-1-wake-forest-staves-off-lsu-late-in-mcws&amp;id=151582</loc>
@@ -7767,6 +8100,15 @@
       <news:publication_date>2023-06-20T00:06:30Z</news:publication_date>          <news:title>Trump reacts angrily as Fox News anchor directly tells him he lost the 2020 election</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/coachella-valley-blows-out-hershey-to-force-game-7-in-calder-cup-finals-abc27&amp;id=153035</loc>
+    <news:news>
+      <news:publication>
+        <news:name>abc27.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-20T00:05:58Z</news:publication_date>          <news:title>Coachella Valley blows out Hershey to force Game 7 in Calder Cup Finals - ABC27</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Culture/queen-letizia-of-spain-s-muscular-physique-writes-eden-confidential&amp;id=151452</loc>
     <news:news>
       <news:publication>
@@ -7846,6 +8188,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-19T23:57:00Z</news:publication_date>          <news:title>“Shouldn’t even get a sniff for England” – Fans feel there is ‘no place’ for 23-year-old in England’s starting line-up after North Macedonia clash - Sportskeeda</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/bellator-featherweight-cris-lencioni-suffered-cardiac-arrest-during-training-currently-in-icu-mma-fighting&amp;id=153038</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-19T23:51:22Z</news:publication_date>          <news:title>Bellator featherweight Cris Lencioni suffered cardiac arrest during training, currently in ICU - MMA Fighting</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/george-frazier-former-pitcher-and-rockies-analyst-dies-at-68-the-denver-post&amp;id=152608</loc>
@@ -7936,6 +8287,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-19T23:06:00Z</news:publication_date>          <news:title>Alabama's Nick Saban rails against College Football Playoff system: 'Do you really get the best teams?' - Fox News</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/lsu-goes-wild-as-raising-canes-ceo-helps-smash-jell-o-shot-record-outkick&amp;id=153039</loc>
+    <news:news>
+      <news:publication>
+        <news:name>outkick.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-19T23:00:11Z</news:publication_date>          <news:title>LSU Goes Wild As Raising Canes CEO Helps SMASH Jell-O Shot Record - OutKick</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/bellator-s-cris-lencioni-in-icu-after-cardiac-arrest-family-says-espn-espn&amp;id=152408</loc>
@@ -8325,6 +8685,15 @@
       <news:publication_date>2023-06-19T21:23:23Z</news:publication_date>          <news:title>American golfer's putt somehow bounces out of the cup onto the green</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/the-ashes-2023-how-indian-premier-league-spell-helped-england-s-joe-root-keep-evolving-test-game-sky-sports&amp;id=153042</loc>
+    <news:news>
+      <news:publication>
+        <news:name>skysports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-19T21:19:39Z</news:publication_date>          <news:title>The Ashes 2023: How Indian Premier League spell helped England's Joe Root keep evolving Test game - Sky Sports</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?News/i-ve-been-stopped-and-searched-but-i-know-it-saves-lives&amp;id=151133</loc>
     <news:news>
       <news:publication>
@@ -8629,375 +8998,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-19T21:00:02Z</news:publication_date>          <news:title>Angel Reese posts selfie with Florida State guard Cam'Ron Fletcher</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/warriors-draymond-green-expected-to-decline-player-option-for-2023-24-san-francisco-chronicle&amp;id=152421</loc>
-    <news:news>
-      <news:publication>
-        <news:name>sfchronicle.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T21:00:00Z</news:publication_date>          <news:title>Warriors' Draymond Green expected to decline player option for 2023-24 - San Francisco Chronicle</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/love-island-couple-tyrique-and-ella-enjoy-a-saucy-time-in-the-hideaway&amp;id=151160</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:59:03Z</news:publication_date>          <news:title>Love Island couple Tyrique and Ella enjoy a saucy time in the hideaway</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/carlo-ancelotti-to-leave-real-madrid-to-become-brazil-manager-per-report-sports-illustrated&amp;id=152423</loc>
-    <news:news>
-      <news:publication>
-        <news:name>si.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:58:07Z</news:publication_date>          <news:title>Carlo Ancelotti to Leave Real Madrid to Become Brazil Manager, per Report - Sports Illustrated</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/morning-mail-titanic-tourist-submarine-goes-missing-indigenous-plea-on-fracking-ashes-test-a-thriller&amp;id=151161</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:57:36Z</news:publication_date>          <news:title>Morning Mail: Titanic tourist submarine goes missing, Indigenous plea on fracking, Ashes Test a thriller</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/saka-hat-trick-inspires-ruthless-england-to-demolition-of-north-macedonia&amp;id=151162</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:57:01Z</news:publication_date>          <news:title>Saka hat-trick inspires ruthless England to demolition of North Macedonia</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/love-island-stunned-as-ella-tyrique-strip-off-in-steamy-hideaway-moment&amp;id=151163</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:54:48Z</news:publication_date>          <news:title>Love Island stunned as Ella and Tyrique strip off in steamy Hideaway moment</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/love-island-viewers-brand-mitch-desperate-as-he-cosies-up-to-jess&amp;id=151164</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:54:10Z</news:publication_date>          <news:title>Love Island viewers brand Mitch 'desperate' as he cosies up to Jess</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/nba-rumors-blazers-discussing-og-anunoby-pascal-siakam-clippers-mulling-chris-paul-russell-westbrook-duo-cbs-sports&amp;id=152351</loc>
-    <news:news>
-      <news:publication>
-        <news:name>cbssports.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:52:00Z</news:publication_date>          <news:title>NBA rumors: Blazers discussing OG Anunoby, Pascal Siakam; Clippers mulling Chris Paul-Russell Westbrook duo - CBS Sports</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Economy/two-thirds-of-americans-would-take-a-recession-for-lower-mortgages&amp;id=151165</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:50:35Z</news:publication_date>          <news:title>Two-thirds of Americans would take a recession for lower mortgages</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?/people-are-just-realizing-iphone-has-5-hacks-no-one-knows-–-including-life-saver&amp;id=151166</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:48:58Z</news:publication_date>          <news:title>People are just realizing iPhone has 5 hacks no one knows – including life-saver</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/man-charged-with-buying-body-parts-is-a-historian-girlfriend-claims&amp;id=151167</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:46:23Z</news:publication_date>          <news:title>Man charged with buying body parts is a HISTORIAN, girlfriend claims</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/turkey-2-0-wales-rob-page-s-side-consigned-to-second-defeat-in-a-row&amp;id=151168</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:45:58Z</news:publication_date>          <news:title>Turkey 2-0 Wales: Rob Page's side consigned to second defeat in a row</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/the-athletic-s-brody-miller-recaps-the-very-strange”-us-open-week-the-rich-eisen-showx-the-rich-eisen-show&amp;id=152628</loc>
-    <news:news>
-      <news:publication>
-        <news:name>youtube.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:45:00Z</news:publication_date>          <news:title>The Rich Eisen Showx - The Rich Eisen Show</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/england-7-0-north-macedonia-three-lions-cruise-in-euro-qualifying&amp;id=151169</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:43:29Z</news:publication_date>          <news:title>England 7-0 North Macedonia: Three Lions cruise in Euro qualifying</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/humiliation-for-boris-johnson-as-mps-back-ban-over-partygate-lies&amp;id=151170</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:43:01Z</news:publication_date>          <news:title>Humiliation for Boris Johnson as MPs back ban over Partygate lies</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/mps-back-controversial-partygate-report-into-boris-johnson&amp;id=151171</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:42:34Z</news:publication_date>          <news:title>MPs BACK controversial Partygate report into Boris Johnson</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/boris-johnson-faces-loss-of-westminster-pass-as-mps-back-partygate-report&amp;id=151172</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:41:33Z</news:publication_date>          <news:title>Boris Johnson faces loss of Westminster pass as MPs back Partygate report</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?World/ted-cruz-called-out-for-celebrating-father-s-immigrant-story-while-‘bashing-others&amp;id=151173</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:40:52Z</news:publication_date>          <news:title>Ted Cruz called out for celebrating father’s immigrant story while ‘bashing’ others</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/the-idol-viewers-lampoon-the-weeknd-s-pronunciation-of-‘carte-blanche-&amp;id=151174</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:39:32Z</news:publication_date>          <news:title>The Idol viewers lampoon The Weeknd’s pronunciation of ‘carte blanche’</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/emmerdale-legend-pays-emotional-tribute-to-co-star-wife-laura&amp;id=151175</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:38:17Z</news:publication_date>          <news:title>Emmerdale legend pays emotional tribute to co-star wife Laura</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/gma-s-rob-marciano-reunites-with-ex-wife-for-son-s-fifth-birthday&amp;id=151176</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:36:29Z</news:publication_date>          <news:title>GMA's Rob Marciano reunites with ex-wife for son's fifth birthday</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/england-7-north-macedonia-0-euro-2024-qualifier-live-result-saka-scores-stunning-hat-trick-as-three-lions-run-riot&amp;id=151177</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:33:00Z</news:publication_date>          <news:title>England 7 North Macedonia 0 - Euro 2024 qualifier LIVE RESULT: Saka scores stunning hat-trick as Three Lions run riot</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/love-island-fans-react-to-whitney-s-hilarious-one-liners&amp;id=151178</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:31:58Z</news:publication_date>          <news:title>Love Island fans react to Whitney's hilarious one liners</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/water-company-blasted-for-worrying-about-men-at-work-signs-causing-offence&amp;id=151179</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:30:51Z</news:publication_date>          <news:title>Water company blasted for worrying about 'men at work' signs causing offence</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/nba-rumors-knicks-may-be-on-the-verge-of-massive-trade-after-latest-intel-daily-knicks&amp;id=152424</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailyknicks.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:30:16Z</news:publication_date>          <news:title>NBA Rumors: Knicks may be on the verge of massive trade after latest intel - Daily Knicks</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/unsung-ace-may-quit-with-more-titles-than-hamilton-verstappen-alonso-combined&amp;id=151180</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:25:38Z</news:publication_date>          <news:title>Unsung ace may quit with more titles than Hamilton, Verstappen and Alonso COMBINED</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/mike-dunleavy-jr-says-warriors-really-want-draymond-green-back-espn-espn&amp;id=152353</loc>
-    <news:news>
-      <news:publication>
-        <news:name>espn.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:25:00Z</news:publication_date>          <news:title>Mike Dunleavy Jr. says Warriors 'really want' Draymond Green back - ESPN - ESPN</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/wyndham-clark-jumps-to-13th-in-world-rankings-after-sealing-us-open&amp;id=151181</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:21:57Z</news:publication_date>          <news:title>Wyndham Clark jumps to 13th in world rankings after sealing US Open</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/rory-mcilroy-must-keep-the-faith-his-next-major-title-is-just-a-matter-of-time&amp;id=151182</loc>
-    <news:news>
-      <news:publication>
-        <news:name>theguardian.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:21:36Z</news:publication_date>          <news:title>Rory McIlroy must keep the faith, his next major title is just a matter of time</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/lizzo-celebrates-juneteenth-with-glamorous-outfit-and-contest&amp;id=151183</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:17:51Z</news:publication_date>          <news:title>Lizzo celebrates Juneteenth with glamorous outfit and contest</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/exclusive-judge-correct-to-dismiss-man-utd-fan-s-hillsborough-excuse&amp;id=151184</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:16:39Z</news:publication_date>          <news:title>EXCLUSIVE Judge correct to dismiss Man Utd fan's Hillsborough excuse</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/broad-admits-ashes-‘feels-like-2005-with-edgbaston-test-poised-on-knife-edge&amp;id=151185</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:16:35Z</news:publication_date>          <news:title>Broad admits Ashes ‘feels like 2005’ with Edgbaston Test poised on knife edge</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/florida-houseboat-capsizes-prompting-rescue-mission&amp;id=151186</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:12:15Z</news:publication_date>          <news:title>Florida houseboat capsizes prompting rescue mission</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?News/princess-sofia-of-sweden-channels-summer-in-a-floral-dress&amp;id=151187</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:12:14Z</news:publication_date>          <news:title>Princess Sofia of Sweden channels summer in a floral dress</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/cole-praises-rashford-after-his-first-half-performance-for-england&amp;id=151188</loc>
-    <news:news>
-      <news:publication>
-        <news:name>dailymail.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:11:24Z</news:publication_date>          <news:title>Cole praises Rashford after his first-half performance for England</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Economy/uk-‘hurtling-into-mortgage-disaster-as-rates-near-highs-seen-during-truss-turmoil&amp;id=151189</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:11:13Z</news:publication_date>          <news:title>UK ‘hurtling into mortgage disaster’ as rates near highs seen during Truss turmoil</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/venus-williams-gets-first-top-50-win-since-2019-in-3-hour-upset-at-birmingham-classic-yahoo-sports&amp;id=152354</loc>
-    <news:news>
-      <news:publication>
-        <news:name>sports.yahoo.com</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:11:12Z</news:publication_date>          <news:title>Venus Williams gets first top 50 win since 2019 in 3-hour upset at Birmingham Classic - Yahoo Sports</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Culture/prince-william-it-s-‘hard-sometimes-for-public-to-understand-point-of-royal-family&amp;id=151190</loc>
-    <news:news>
-      <news:publication>
-        <news:name>independent.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:11:04Z</news:publication_date>          <news:title>Prince William: It’s ‘hard sometimes’ for public to understand point of royal family</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/england-6-north-macedonia-0-euro-2024-qualifier-live-score-latest-updates-as-bukayo-saka-scores-stunning-hat-trick&amp;id=151191</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:10:00Z</news:publication_date>          <news:title>England 6 North Macedonia 0 - Euro 2024 qualifier LIVE SCORE: Latest updates as Bukayo Saka scores stunning hat-trick</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Sport/dettori-promises-tears-at-final-royal-ascot-as-punters-bet-millions-on-his-rides&amp;id=151192</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:09:47Z</news:publication_date>          <news:title>Dettori promises tears at final Royal Ascot as punters bet millions on his rides</news:title>
-    </news:news>
-  </url>
-<url><loc>https://hada.news/en/item?Lifestyle/urgent-warning-for-dog-owners-over-highly-contagious-and-deadly-virus&amp;id=151193</loc>
-    <news:news>
-      <news:publication>
-        <news:name>thesun.co.uk</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2023-06-19T20:09:28Z</news:publication_date>          <news:title>Urgent warning for dog owners over highly contagious and deadly virus</news:title>
     </news:news>
   </url>
 </urlset>
