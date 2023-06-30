@@ -1,5 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://hada.news/en/item?Sport/sportsnet-now&amp;id=158734</loc>
+    <news:news>
+      <news:publication>
+        <news:name>watch.sportsnet.ca</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-29T23:54:21Z</news:publication_date>          <news:title>Sportsnet NOW</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/mlb-highlights-tigers-8-rangers-5&amp;id=158735</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sportsnet.ca</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-29T23:47:53Z</news:publication_date>          <news:title>MLB Highlights: Tigers 8, Rangers 5</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/liverpool-great-robbie-fowler-to-coach-saudi-club-al-qadisiyah&amp;id=158737</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.co.uk</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-29T23:37:04Z</news:publication_date>          <news:title>Liverpool great Robbie Fowler to coach Saudi club Al Qadisiyah</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/can-t-find-affordable-housing-in-the-bay-area-this-new-tool-can-help&amp;id=158739</loc>
+    <news:news>
+      <news:publication>
+        <news:name>mercurynews.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-29T23:06:50Z</news:publication_date>          <news:title>Can’t find affordable housing in the Bay Area? This new tool can help</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/rays-beat-diamondbacks-6-1-to-win-2-of-3-in-series-between-1998-expansion-teams&amp;id=158740</loc>
+    <news:news>
+      <news:publication>
+        <news:name>winnipegfreepress.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-29T22:33:39Z</news:publication_date>          <news:title>Rays beat Diamondbacks 6-1 to win 2 of 3 in series between 1998 expansion teams</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/manager-rocco-baldelli-talks-twins-hitting-problem-and-the-need-to-freakin-fix-it-fast-&amp;id=158741</loc>
+    <news:news>
+      <news:publication>
+        <news:name>startribune.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-29T22:29:21Z</news:publication_date>          <news:title>Manager Rocco Baldelli talks Twins hitting problem and the need to 'freakin' fix it fast'</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/‘velo-guy-ross-stripling-flashes-hotter-heater-vs-blue-jays-reflects-on-facing-former-team&amp;id=158742</loc>
+    <news:news>
+      <news:publication>
+        <news:name>mercurynews.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-29T22:29:18Z</news:publication_date>          <news:title>‘Velo guy’ Ross Stripling flashes hotter heater vs. Blue Jays, reflects on facing former team</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/nfl-players-who-have-been-suspended-for-gambling-policy-violations&amp;id=158743</loc>
+    <news:news>
+      <news:publication>
+        <news:name>winnipegfreepress.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-29T22:04:56Z</news:publication_date>          <news:title>NFL players who have been suspended for gambling policy violations</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/marlins-gurriel-scratched-from-red-sox-game-after-being-hit-by-a-ball-in-batting-practice&amp;id=158744</loc>
+    <news:news>
+      <news:publication>
+        <news:name>winnipegfreepress.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-29T21:45:29Z</news:publication_date>          <news:title>Marlins’ Gurriel scratched from Red Sox game after being hit by a ball in batting practice</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/n-golo-kante-completes-takeover-of-third-tier-belgian-club&amp;id=158543</loc>
     <news:news>
       <news:publication>
@@ -198,6 +279,60 @@
       <news:publication_date>2023-06-29T12:23:41Z</news:publication_date>          <news:title>Ashes 2023: England strike back on Day 2 at Lord’s to bowl England out for 416- England get to lunch unscathed</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/terry-francona-out-of-hospital-to-miss-2nd-game-in-row-espn-espn&amp;id=158745</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espn.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T21:09:00Z</news:publication_date>          <news:title>Terry Francona out of hospital, to miss 2nd game in row - ESPN - ESPN</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/steve-cohen-preparing-all-contingencies-if-mets-don-t-improve-espn-espn&amp;id=158746</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T20:59:40Z</news:publication_date>          <news:title>Steve Cohen 'preparing all contingencies' if Mets don't improve - ESPN - ESPN</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/nfl-5-players-who-could-bounce-back-big-from-rough-seasons-in-2023-yahoo-sports&amp;id=158747</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.yahoo.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T20:47:43Z</news:publication_date>          <news:title>NFL: 5 players who could bounce back big from rough seasons in 2023 - Yahoo Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/chicago-suburb-of-aurora-asks-bears-to-consider-building-stadium-there-nbc-sports&amp;id=158748</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nbcsports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T20:28:58Z</news:publication_date>          <news:title>Chicago suburb of Aurora asks Bears to consider building stadium there - NBC Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/braves-option-jared-shuster-to-gwinnett-battery-power&amp;id=158750</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T20:23:34Z</news:publication_date>          <news:title>Braves option Jared Shuster to Gwinnett - Battery Power</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/meier-signs-8-year-70-4-million-contract-with-devils-nhl-com&amp;id=158752</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nhl.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T20:15:00Z</news:publication_date>          <news:title>Meier signs 8-year, $70.4 million contract with Devils - NHL.com</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/the-numbers-do-lie-in-fantasy-baseball-four-pitchers-with-misleading-stats-yahoo-sports&amp;id=158558</loc>
     <news:news>
       <news:publication>
@@ -207,6 +342,24 @@
       <news:publication_date>2023-06-28T20:14:50Z</news:publication_date>          <news:title>The Numbers Do Lie in Fantasy Baseball: Four pitchers with misleading stats - Yahoo Sports</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/micah-parsons-dares-opponents-to-stop-him-please-come-visit-nbc-sports&amp;id=158753</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nbcsports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T20:10:14Z</news:publication_date>          <news:title>Micah Parsons dares opponents to stop him: Please come visit - NBC Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/trade-analysis-ross-colton-set-to-replace-alex-newhook-for-avalanche-dnvr&amp;id=158754</loc>
+    <news:news>
+      <news:publication>
+        <news:name>thednvr.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T20:05:22Z</news:publication_date>          <news:title>Trade Analysis: Ross Colton set to replace Alex Newhook for Avalanche - DNVR</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/agents-bulls-nikola-vucevic-reach-3-year-60m-extension-espn-espn&amp;id=158561</loc>
     <news:news>
       <news:publication>
@@ -214,6 +367,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-28T19:53:00Z</news:publication_date>          <news:title>Agents - Bulls, Nikola Vucevic reach 3-year, $60M extension - ESPN - ESPN</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/nikola-vučević-and-bulls-agree-to-three-year-contract-extension-worth-reported-60m-yahoo-sports&amp;id=158755</loc>
+    <news:news>
+      <news:publication>
+        <news:name>sports.yahoo.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T19:49:47Z</news:publication_date>          <news:title>Nikola Vučević and Bulls agree to three-year contract extension worth reported $60M - Yahoo Sports</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/james-maddison-completes-tottenham-medical-ahead-of-move-from-leicester-the-athletic&amp;id=158564</loc>
@@ -261,6 +423,15 @@
       <news:publication_date>2023-06-28T18:52:09Z</news:publication_date>          <news:title>Moody gives honest reaction to Warriors' CP3-for-Poole trade - Yahoo Sports</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/report-rockets-‘out-of-the-running-for-sixers-james-harden-clippers-named-as-‘dark-horse-suitor-liberty-ballers&amp;id=158756</loc>
+    <news:news>
+      <news:publication>
+        <news:name>libertyballers.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T18:47:51Z</news:publication_date>          <news:title>Report: Rockets ‘out of the running’ for Sixers’ James Harden; Clippers named as ‘dark horse’ suitor - Liberty Ballers</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/acc-strength-of-schedule-rankings-2023-florida-state-faces-daunting-slate-louisville-stays-close-to-home-cbs-sports&amp;id=158579</loc>
     <news:news>
       <news:publication>
@@ -277,6 +448,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-28T18:36:56Z</news:publication_date>          <news:title>What can Connor Bedard expect as No. 1 NHL Draft pick? Toews, McDavid and others pass on advice - The Athletic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/smith-head-and-warner-give-australia-opening-day-honours-espncricinfo&amp;id=158757</loc>
+    <news:news>
+      <news:publication>
+        <news:name>espncricinfo.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T18:36:22Z</news:publication_date>          <news:title>Smith, Head and Warner give Australia opening-day honours - ESPNcricinfo</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/di-approves-changes-to-reinstatement-guidelines-for-sports-wagering-violations-ncaa-org&amp;id=158584</loc>
@@ -315,6 +495,15 @@
       <news:publication_date>2023-06-28T18:28:28Z</news:publication_date>          <news:title>NHL Draft 2023: Looking back at the star-studded 2003 draft class, 20 years later - CBS Sports</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/arsenal-agree-fee-with-west-ham-for-declan-rice-transfer-the-athletic&amp;id=158758</loc>
+    <news:news>
+      <news:publication>
+        <news:name>theathletic.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T18:28:23Z</news:publication_date>          <news:title>Arsenal agree fee with West Ham for Declan Rice transfer - The Athletic</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/trail-blazers-reportedly-lukewarm”-on-tyler-herro-blazer-s-edge&amp;id=158595</loc>
     <news:news>
       <news:publication>
@@ -331,6 +520,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-28T18:02:33Z</news:publication_date>          <news:title>2023 Eastbourne Round of 16 | WTA Match Highlights - WTA</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/pga-tour-players-have-power-with-vote-on-potential-final-liv-golf-deal-golf-today-golf-channel-golf-channel&amp;id=158759</loc>
+    <news:news>
+      <news:publication>
+        <news:name>youtube.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T17:55:48Z</news:publication_date>          <news:title>Golf Today | Golf Channel - Golf Channel</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/colton-traded-to-avalanche-by-lightning-nhl-com&amp;id=158600</loc>
@@ -387,6 +585,15 @@
       <news:publication_date>2023-06-28T17:31:52Z</news:publication_date>          <news:title>NFL Players Association elects first new executive director in 14 years - Yahoo Sports</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/ex-nfl-quarterback-ryan-mallett-dies-in-apparent-drowning-honolulu-star-advertiser&amp;id=158760</loc>
+    <news:news>
+      <news:publication>
+        <news:name>staradvertiser.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T17:22:53Z</news:publication_date>          <news:title>Ex-NFL quarterback Ryan Mallett dies in apparent drowning - Honolulu Star-Advertiser</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/nhl-salary-cap-will-be-83-5m-league-and-players-association-confirm&amp;id=158382</loc>
     <news:news>
       <news:publication>
@@ -396,6 +603,15 @@
       <news:publication_date>2023-06-28T17:21:48Z</news:publication_date>          <news:title>NHL salary cap will be $83.5M, league and Players' Association confirm</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/tennessee-state-to-be-1st-hbcu-offering-hockey-as-sport-nhl-com&amp;id=158761</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nhl.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T17:19:03Z</news:publication_date>          <news:title>Tennessee State to be 1st HBCU offering hockey as sport - NHL.com</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/nflpa-elects-lloyd-howell-as-new-executive-director-espn-espn&amp;id=158615</loc>
     <news:news>
       <news:publication>
@@ -403,6 +619,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-28T17:11:00Z</news:publication_date>          <news:title>NFLPA elects Lloyd Howell as new executive director - ESPN - ESPN</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/new-jersey-devils-timo-meier-agree-to-long-term-extension-prohockeyrumors-com&amp;id=158762</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T17:10:39Z</news:publication_date>          <news:title>New Jersey Devils, Timo Meier Agree To Long-Term Extension - prohockeyrumors.com</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/2023-nhl-draft-day-buzz-latest-on-matvei-michkov-anaheim-ducks-trades-flohockey&amp;id=158618</loc>
@@ -477,6 +702,15 @@
       <news:publication_date>2023-06-28T16:22:44Z</news:publication_date>          <news:title>Flames sign Yegor Sharangovich to 2-year contract after Tyler Toffoli trade with Devils - Yahoo Sports</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/mccullum-should-give-players-the-biggest-hammering-pietersen-loses-cool-on-stokes-team-for-making-ashes-2023-a-joke-crictoday-com-cricket-news&amp;id=158764</loc>
+    <news:news>
+      <news:publication>
+        <news:name>crictoday.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T16:11:42Z</news:publication_date>          <news:title>McCullum should give players the biggest hammering: Pietersen loses cool on Stokes' team for making Ashes 2023 a joke - Crictoday.com (Cricket News)</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/barry-sanders-on-being-a-michigan-state-dad-it-s-probably-my-most-favorite-thing-&amp;id=158384</loc>
     <news:news>
       <news:publication>
@@ -540,6 +774,15 @@
       <news:publication_date>2023-06-28T15:53:43Z</news:publication_date>          <news:title>Steve Smith Becomes Second-Fastest Batter in History to Score 9000 Test Runs, Achieves Feat during Day 1 of ENG vs AUS Ashes 2023 2nd Test</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/tobias-harris-has-misplaced-anger-at-casual-sixers-fans-phillyvoice-com&amp;id=158765</loc>
+    <news:news>
+      <news:publication>
+        <news:name>phillyvoice.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T15:52:30Z</news:publication_date>          <news:title>Tobias Harris has misplaced anger at 'casual' Sixers fans - PhillyVoice.com</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/-pat-cummins-to-drop-himself-from-ashes-2023-crictoday-com-cricket-news&amp;id=158632</loc>
     <news:news>
       <news:publication>
@@ -556,6 +799,24 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-28T15:44:00Z</news:publication_date>          <news:title>Soccer North</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/agarkar-frontrunner-for-chief-selector-s-post-rediff-com&amp;id=158766</loc>
+    <news:news>
+      <news:publication>
+        <news:name>rediff.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T15:43:36Z</news:publication_date>          <news:title>Agarkar frontrunner for chief selector's post - Rediff.com</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/indications-are-james-harden-is-‘going-to-remain-in-philadelphia-expect-sixers-offer-‘to-be-considerably-h…-liberty-ballers&amp;id=158767</loc>
+    <news:news>
+      <news:publication>
+        <news:name>news.google.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T15:38:30Z</news:publication_date>          <news:title>Indications are James Harden is ‘going to remain in Philadelphia’, expect Sixers’ offer ‘to be considerably h… - Liberty Ballers</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/chiefs-travis-kelce-ok-being-underpaid-i-love-winning-espn-espn&amp;id=158635</loc>
@@ -684,6 +945,15 @@
       <news:publication_date>2023-06-28T15:10:20Z</news:publication_date>          <news:title>ESPN Announces Matchups, Dates and Times for ACC/SEC Men's and Women's Basketball Challenge - The ACC</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/seattle-mariners-vs-washington-nationals-prediction-will-logan-gilbert-mariners-dominate-oddschecker&amp;id=158768</loc>
+    <news:news>
+      <news:publication>
+        <news:name>oddschecker.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T15:10:00Z</news:publication_date>          <news:title>Seattle Mariners vs. Washington Nationals Prediction: Will Logan Gilbert, Mariners Dominate? - OddsChecker</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/eagles-brandon-graham-chiefs-o-line-‘blessed-by-slick-sb-lvii-field-arrowhead-pride&amp;id=158484</loc>
     <news:news>
       <news:publication>
@@ -700,6 +970,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-28T15:06:45Z</news:publication_date>          <news:title>UEFA confirms name change for Europa Conference League - The Athletic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/arkansas-basketball-to-host-duke-in-sec-acc-challenge-247sports&amp;id=158770</loc>
+    <news:news>
+      <news:publication>
+        <news:name>247sports.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T15:05:47Z</news:publication_date>          <news:title>Arkansas basketball to host Duke in SEC/ACC Challenge - 247Sports</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/-pakistan-have-a-burden-virender-sehwag-s-interesting-odi-world-cup-analysis-ndtv-sports&amp;id=158485</loc>
@@ -745,6 +1024,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-28T14:33:08Z</news:publication_date>          <news:title>Angels’ Shohei Ohtani records 10 Ks, 2 HRs in win vs. White Sox: How he leveled up in June - The Athletic</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/icc-warns-pakistan-over-their-participation-in-icc-world-cup-2023-crictoday-com-cricket-news&amp;id=158773</loc>
+    <news:news>
+      <news:publication>
+        <news:name>crictoday.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T14:33:07Z</news:publication_date>          <news:title>ICC warns Pakistan over their participation in ICC World Cup 2023 - Crictoday.com (Cricket News)</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/jimmie-johnson-s-in-laws-nephew-dead-in-apparent-murder-suicide-l-gma-abc-news&amp;id=158489</loc>
@@ -817,6 +1105,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-28T14:09:12Z</news:publication_date>          <news:title>Chiefs' Travis Kelce explains why he's OK being 'underpaid,' teases plans for after retirement - CBS Sports</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/predators-draft-day-preview-nhl-com&amp;id=158774</loc>
+    <news:news>
+      <news:publication>
+        <news:name>nhl.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T14:03:51Z</news:publication_date>          <news:title>Predators Draft Day Preview - NHL.com</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/after-another-big-game-shohei-ohtani-s-al-mvp-odds-reach-a-startling-level-yahoo-sports&amp;id=158493</loc>
@@ -1008,6 +1305,15 @@
       <news:publication_date>2023-06-28T12:00:52Z</news:publication_date>          <news:title>2023 NFL Preview: Colts' miserable season at least led them to Anthony Richardson - Yahoo Sports</news:title>
     </news:news>
   </url>
+<url><loc>https://hada.news/en/item?Sport/【ラジオnikkei賞2023予想】激走あり得る穴馬はこれ。競馬予想aiが導き出した勝率トップ3-netkeiba-ネットケイバ-公式&amp;id=158776</loc>
+    <news:news>
+      <news:publication>
+        <news:name>youtube.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T12:00:47Z</news:publication_date>          <news:title>【ラジオNIKKEI賞2023予想】激走あり得る穴馬はこれ。競馬予想AIが導き出した勝率トップ3 - netkeiba ネットケイバ 公式</news:title>
+    </news:news>
+  </url>
 <url><loc>https://hada.news/en/item?Sport/the-new-nil-collective-model-it-s-illegal-but-it-s-the-future-on3-com&amp;id=158518</loc>
     <news:news>
       <news:publication>
@@ -1069,6 +1375,15 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2023-06-28T10:50:41Z</news:publication_date>          <news:title>Jonny Bairstow carries off Just Stop Oil protester who disrupted Lord's Ashes Test - The Telegraph</news:title>
+    </news:news>
+  </url>
+<url><loc>https://hada.news/en/item?Sport/watch-protestors-briefly-disrupt-2nd-ashes-test-jonny-bairstow-carries-invader-off-the-field-indiatimes-com&amp;id=158777</loc>
+    <news:news>
+      <news:publication>
+        <news:name>timesofindia.indiatimes.com</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-06-28T10:43:00Z</news:publication_date>          <news:title>Watch: Protestors briefly disrupt 2nd Ashes Test; Jonny Bairstow carries invader off the field - Indiatimes.com</news:title>
     </news:news>
   </url>
 <url><loc>https://hada.news/en/item?Sport/inter-miami-appear-to-drop-major-hint-on-lionel-messi-shirt-number-in-birthday-message-to-argentine-superstar-sportskeeda&amp;id=158704</loc>
